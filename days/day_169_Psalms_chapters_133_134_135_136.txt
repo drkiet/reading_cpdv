@@ -1,0 +1,77 @@
+Day 169:
+
+Reading Psalms, chapters ['133', '134', '135', '136']:
+
+  Chapter 133.
+
+    1: A Canticle in steps. Behold, bless the Lord now, all you servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God
+    2: In the nights, lift up your hands in sanctity, and bless the Lord
+    3: May the Lord, who made heaven and earth, bless you from Zion
+
+  Chapter 134.
+
+    1: Alleluia. Praise the name of the Lord. You servants, praise the Lord
+    2: You who stand in the house of the Lord, in the courts of the house of our God
+    3: praise the Lord, for the Lord is good. Sing psalms to his name, for it is sweet
+    4: For the Lord has chosen Jacob for himself, Israel for his own possession
+    5: For I have known that the Lord is great, and our God is before all gods
+    6: All things whatsoever that he willed, the Lord did: in heaven, on earth, in the sea, and in all the deep places
+    7: He leads clouds from the ends of the earth. He has created lightnings in the rain. He has produced winds from his storehouses
+    8: He struck the first-born of Egypt, from man even to cattle
+    9: He sent signs and wonders into your midst, O Egypt: upon Pharaoh and upon all his servants
+    10: He has struck many nations, and he has slaughtered strong kings
+    11: Sihon, king of the Amorites, and Og, king of Bashan, and all the kingdoms of Canaan
+    12: And he gave their land as an inheritance, as an inheritance for his people Israel
+    13: Your name, O Lord, is in eternity. Your memorial, O Lord, is from generation to generation
+    14: For the Lord will judge his people, and he will be petitioned by his servants
+    15: The idols of the Gentiles are silver and gold, the works of the hands of men
+    16: They have a mouth, and do not speak. They have eyes, and do not see
+    17: They have ears, and do not hear. For neither is there any breath in their mouths
+    18: Let those who make them become like them, along with all who trust in them
+    19: Bless the Lord, O house of Israel. Bless the Lord, O house of Aaron
+    20: Bless the Lord, O house of Levi. You who fear the Lord, bless the Lord
+    21: The Lord is blessed from Zion, by those who dwell in Jerusalem
+
+  Chapter 135.
+
+    1: Alleluia. Confess to the Lord, for he is good: for his mercy is eternal
+    2: Confess to the God of gods, for his mercy is eternal
+    3: Confess to the Lord of lords, for his mercy is eternal
+    4: He alone performs great miracles, for his mercy is eternal
+    5: He made the heavens with understanding, for his mercy is eternal
+    6: He established the earth above the waters, for his mercy is eternal
+    7: He made the great lights, for his mercy is eternal
+    8: the sun to rule the day, for his mercy is eternal
+    9: the moon and the stars to rule the night, for his mercy is eternal
+    10: He struck Egypt along with their first-born, for his mercy is eternal
+    11: He led Israel away from their midst, for his mercy is eternal
+    12: with a powerful hand and an outstretched arm, for his mercy is eternal
+    13: He divided the Red Sea into separate parts, for his mercy is eternal
+    14: And he led out Israel through the middle of it, for his mercy is eternal
+    15: And he shook off Pharaoh and his army in the Red Sea, for his mercy is eternal
+    16: He led his people through the desert, for his mercy is eternal
+    17: He has struck great kings, for his mercy is eternal
+    18: And he has slaughtered strong kings, for his mercy is eternal
+    19: Sihon, king of the Amorites, for his mercy is eternal
+    20: and Og, king of Bashan, for his mercy is eternal
+    21: And he granted their land as an inheritance, for his mercy is eternal
+    22: as an inheritance for his servant Israel, for his mercy is eternal
+    23: For he was mindful of us in our humiliation, for his mercy is eternal
+    24: And he redeemed us from our enemies, for his mercy is eternal
+    25: He gives food to all flesh, for his mercy is eternal
+    26: Confess to the God of heaven, for his mercy is eternal
+    27: Confess to the Lord of lords, for his mercy is eternal
+
+  Chapter 136.
+
+    1: A Psalm of David: to Jeremiah. Above the rivers of Babylon, there we sat and wept, while we remembered Zion
+    2: By the willow trees, in their midst, we hung up our instruments
+    3: For, in that place, those who led us into captivity questioned us about the words of the songs. And those who carried us away said: “Sing us a hymn from the songs of Zion.
+    4: How can we sing a song of the Lord in a foreign land
+    5: If I ever forget you, Jerusalem, let my right hand be forgotten
+    6: May my tongue adhere to my jaws, if I do not remember you, if I do not set Jerusalem first, as the beginning of my joy
+    7: O Lord, call to mind the sons of Edom, in the day of Jerusalem, who say: “Despoil it, despoil it, even to its foundation.
+    8: O daughter of Babylon, have pity. Blessed is he who will repay you with your payment, which you have paid to us
+    9: Blessed is he who will take hold of your little ones and dash them against the rock
+
+End of day 169.

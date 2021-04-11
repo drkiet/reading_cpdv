@@ -1,0 +1,149 @@
+Day 39:
+
+Reading Numbers, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: These are the lodging places of the sons of Israel, who departed from Egypt by their companies under the hand of Moses and Aaron
+    2: which Moses wrote down according to the places of the encampments, which they changed upon the order of the Lord
+    3: Thus the sons of Israel set out from Rameses in the first month, on the fifteenth day of the first month, on the day after the Passover, with an exalted hand, being seen by all the Egyptians
+    4: And these were burying their firstborn, whom the Lord had struck down (for so, too, did he carry out retribution against their gods)
+    5: And they made camp at Soccoth
+    6: And from Soccoth they went to Etham, which is at the furthest limits of the wilderness
+    7: Departing from there, they arrived opposite Pi-hahiroth, which looks out toward Baal-zephon, and they were encamped before Migdol
+    8: And setting out from Pi-hahiroth, they crossed through the middle of the Sea into the wilderness. And having walked for three days through the desert of Etham, they made camp at Marah
+    9: And setting out from Marah, they arrived at Elim, where there were twelve fountains of water and seventy palm trees. And they set up camp there
+    10: But departing from there also, they fixed their tents above the Red Sea. And setting out from the Red Sea
+    11: they were encamped in the desert of Sin
+    12: Departing from there, they went to Dophkah
+    13: And setting out from Dophkah, they made camp at Alush
+    14: And departing from Alush, they fixed their tents at Rephidim, where the people lacked water to drink
+    15: And setting out from Rephidim, they camped in the desert of Sinai
+    16: But departing also from the wilderness of the Sinai, they arrived at the Graves of Lust
+    17: And setting out from the Graves of Lust, they were encamped at Hazeroth
+    18: And from Hazeroth, they went to Rithmah
+    19: And setting out from Rithmah, they made camp at Rimmon-perez
+    20: And departing from there, they arrived at Libnah
+    21: From Libnah, they made camp at Rissah
+    22: And departing from Rissah, they went to Kehelathah
+    23: Setting out from there, they were encamped at mount Shepher
+    24: Departing from mount Shepher, they went to Haradah
+    25: Continuing on from there, they made camp at Makheloth
+    26: And setting out from Makheloth, they went to Tahath
+    27: From Tahath, they made camp at Terah
+    28: Departing from there, they pitched their tents at Mithkah
+    29: And from Mithkah, they were encamped at Hashmonah
+    30: And setting out from Hashmonah, they went to Moseroth
+    31: And from Moseroth, they made camp at Bene-jaakan
+    32: And setting out from Bene-jaakan, they went to mount Gidgad
+    33: Setting out from there, they were encamped at Jotbathah
+    34: And from Jotbathah, they went to Abronah
+    35: And departing from Abronah, they made camp at Eziongeber
+    36: Setting out from there, they went into the desert of Sin, which is Kadesh
+    37: And departing from Kadesh, they encamped at mount Hor, at the furthermost limits of the land of Edom
+    38: And Aaron the priest ascended onto mount Hor, by the order of the Lord. And there he died, in the fortieth year of the departure of the sons of Israel from Egypt, in the fifth month, on the first day of the month
+    39: when he was one hundred twenty-three years old
+    40: And king Arad the Canaanite, who lived toward the south, heard that the sons of Israel had arrived in the land of Canaan
+    41: And setting out from mount Hor, they made camp at Zalmonah
+    42: Departing from there, they went to Punon
+    43: And setting out from Punon, they were encamped at Oboth
+    44: And from Oboth, they went to Iye-abarim, which is at the borders of the Moabites
+    45: And setting out from Iye-abarim, they fixed their tents at Dibon-gad
+    46: Departing from there, they made camp at Almon-diblathaim
+    47: And departing from Almon-diblathaim, they went to the mountains of Abarim, opposite Nebo
+    48: And setting out from the mountains of Abarim, they crossed over to the plains of Moab, above the Jordan, opposite Jericho
+    49: And they made camp there, from Beth-jeshimoth all the way to Abel-shittim, in the level places of the Moabites
+    50: where the Lord said to Moses
+    51: “Instruct the sons of Israel, and say to them: When you will have crossed over the Jordan, entering into the land of Canaan
+    52: destroy all the inhabitants of that land. Break their monuments, and shatter their statues, and lay waste to every exalted thing
+    53: cleansing the land and living in it. For I have given it you as a possession
+    54: which you shall divide among you by lot. To the greater number you shall give more, and to the lesser number, less. To each one, just as the lot shall fall, so shall the inheritance be distributed. The possession shall be divided by the tribes and families
+    55: But if you are not willing to put to death the inhabitants of the land, those who remain shall be to you like spikes in your eyes and lances in your sides, and they shall be adversaries to you in the land of your habitation
+    56: And whatever I had decided to do to them, I will do to you.
+
+  Chapter 34.
+
+    1: And the Lord spoke to Moses, saying
+    2: “Instruct the sons of Israel, and you shall say to them: When you will have entered into the land of Canaan, and it has fallen into your possession by lot, it shall be bound by these limits
+    3: The southern part shall begin from the wilderness of Sin, which is next to Edom, and it shall have the Sea of Salt as a limit to the east
+    4: It shall circle on the south side along the ascent of the Scorpion, by this way crossing into Senna, and passing through, from the south, as far as Kadesh-barnea, from which its confines shall go out to the town called Adar, and extend even to Azmon
+    5: And its limits shall go around from Azmon to the Torrent of Egypt, and shall end at the shore of the Great Sea
+    6: Then the western region shall begin from the Great Sea, and the same shall be its end
+    7: Furthermore, toward the northern region, its limits shall begin from the Great Sea, passing through even to the highest mountain
+    8: From there, it limits shall advance into Hamath, as far as the limits of Zedad
+    9: And its confines shall go all the way to Ziphron, and to the village of Enan. These shall be the limits on the northern side
+    10: From there, its limits shall be measured, facing the east side, from the village of Enan as far as Shepham
+    11: And from Shepham, the boundaries shall descend into Riblah, opposite the fountain of Daphnis. From there, the boundaries shall pass through, opposite the east, to the Sea of Chinnereth
+    12: and shall extend as far as the Jordan, and, at the furthest extent, shall be enclosed by the Sea of Salt. You shall have this land, with its borders all around.
+    13: And Moses instructed the sons of Israel, saying: “This shall be the land which you shall possess by lot, and which the Lord has ordered to be given to the nine tribes, and to the half tribe
+    14: For the tribe of the sons of Ruben, by their families, and the tribe of the sons of Gad, according to the number of their kinships, and also one half of the tribe of Manasseh
+    15: that is, two and a half tribes, have received their portion across the Jordan, opposite Jericho, toward the eastern side.
+    16: And the Lord said to Moses
+    17: “These are the names of the men, who shall divide the land for you: Eleazar the priest, and Joshua the son of Nun
+    18: and one leader from each tribe
+    19: whose names are these: from the tribe of Judah, Caleb the son of Jephunneh
+    20: from the tribe of Simeon, Samuel the son of Ammihud
+    21: from the tribe of Benjamin, Elidad the son of Chislon
+    22: from the tribe of the sons of Dan, Bukki the son of Jogli
+    23: of the sons of Joseph, from the tribe of Manasseh, Hanniel the son of Ephod
+    24: from the tribe of Ephraim, Kemuel the son of Shiphtan
+    25: from the tribe of Zebulon, Elizaphan the son of Parnach
+    26: from the tribe of Issachar, Paltiel the leader, the son of Azzan
+    27: from the tribe of Asher, Ahihud the son of Shelomi
+    28: from the tribe of Naphtali, Pedahel the son of Ammihud.
+    29: These are the ones that the Lord has ordered to divide the land of Canaan to the sons of Israel
+
+  Chapter 35.
+
+    1: And the Lord also spoke these things to Moses in the plains of Moab, above the Jordan, opposite Jericho
+    2: “Instruct the sons of Israel, so that they may give to the Levites, from their possessions
+    3: cities as dwelling places, with their surrounding suburbs, so that they may lodge in the towns, and so that the suburbs may be for cattle and beasts of burden
+    4: The suburbs shall extend from the outer walls of the cities, all around, for the space of one thousand steps
+    5: Facing the east, there shall be two thousand cubits, and facing the south, similarly, there shall be two thousand cubits. Toward the sea, also, which looks out toward the west, there shall be the same measure, and the northern region shall be bounded by equal limits. And the cities shall be in the center, and the suburbs shall be outside
+    6: Now, from the towns which you shall give to the Levites, six shall be separated for the assistance of fugitives, so that he who has shed blood may flee to them. And, aside from these, there shall be forty-two other towns
+    7: that is, all together forty-eight with their suburbs
+    8: And concerning these cities, which shall be given from the possessions of the sons of Israel: from those who have more, more shall be taken, and from those who have less, less shall be taken. Each shall give towns to the Levites according to the measure of their inheritance.
+    9: The Lord said to Moses
+    10: “Speak to the sons of Israel, and you shall say to them: When you will have crossed the Jordan into the land of Canaan
+    11: discern which cities ought to be for the protection of fugitives who have shed blood unwillingly
+    12: And when a fugitive is in these, the kinsman of the deceased shall not be able to kill him, until he stands in the sight of the multitude and his case is judged
+    13: Then, among those cities which are separated for relief to fugitives
+    14: three shall be across the Jordan, and three in the land of Canaan
+    15: as much for the sons of Israel as for newcomers and sojourners, so that anyone who has shed blood unwillingly may flee to these places
+    16: If anyone will have struck someone with iron, and he who was struck will have died, then he shall be guilty of homicide, and he himself shall die
+    17: If he will have thrown a stone, and he who has been struck lies dead, then he shall be punished similarly
+    18: If he who has been struck with wood passes away, he shall be avenged by the blood of the one who struck him
+    19: The close relative of the deceased shall put to death the murderer; as soon as he apprehends him, he shall put him to death
+    20: If, out of hatred, anyone assaults a man, or throws anything at him with ill intent
+    21: or, while being his enemy, strikes him with his hand, and so he has died, the attacker shall be guilty of murder. The kinsman of the deceased, as soon as he finds him, shall cut his throat
+    22: But if by chance, and without hatre
+    23: or animosity, he will have done any of these things
+    24: and this has been proven in the hearing of the people, and the questions have been aired, between the one who struck and the close relative
+    25: then the innocent one shall be freed from the hand of the revenger, and he shall be returned by this judgment into the city to which he had fled, and he shall stay there until the high priest, who has been anointed with the holy oil, dies
+    26: If the one who has killed has been found beyond the limits of the cities which have been assigned to the exiled
+    27: and he has been struck by him who is avenging blood, he who killed him shall not be harmed
+    28: For the fugitive ought to have resided in the city, until the death of the high priest. Then, after he is dead, the one who has killed shall be returned to his own land
+    29: These things shall be a perpetual ordinance in all your habitations
+    30: The punishment of a murderer shall be based upon testimony; but no one shall be condemned upon the testimony of only one person
+    31: You shall not accept money from him who is guilty of blood, and he shall be put to death promptly
+    32: Exiles and fugitives, prior to the death of the high priest, are by no means able to be returned to their own cities
+    33: Do not pollute the land of your habitation, so as to stain it with the blood of the innocent; neither is it able to be expiated in any way other than by the blood of him who has shed the blood of another
+    34: And so shall your possession be cleansed, while I myself am abiding with you. For I am the Lord, who lives among the sons of Israel.
+
+  Chapter 36.
+
+    1: Then the leaders of the families of Gilead, the son of Machir, the son of Manasseh, from the stock of the sons of Joseph, approached and spoke to Moses before the leaders of Israel, and they said
+    2: “The Lord has instructed you, our ruler, so that you would divide the land by lot to the sons of Israel, and so that you would give to the daughters of Zelophehad, our brother, the possession owed to their father
+    3: But if men of another tribe receive them as wives, their possession will follow them, and having been transferred to another tribe, there will be a reduction in our inheritance
+    4: And so it may be that, when the Jubilee of remission, that is, the fiftieth year, has arrived, the distribution by lots shall be confounded, and the possession of the one shall be transferred to others.
+    5: Moses answered the sons of Israel, and, at the instruction of the Lord, he said: “The tribe of the sons of Joseph has spoken correctly
+    6: And so, this is the law which has been promulgated by the Lord about the daughters of Zelophehad: Let them marry whomever they may wish, but only among the men of their own tribe
+    7: lest the possession of the sons of Israel become  commingled, from tribe to tribe. For all men shall take wives from their own tribe and kinship
+    8: and all women shall take husbands from their same tribe, so that the inheritance may remain within the families
+    9: and so that the tribes may not be mingled together, but may remain such as they were separated by the Lord.
+    10: And the daughters of Zelophehad acted according to what was ordered
+    11: And Mahlah, and Tirzah, and Hoglah, and Milcah, and Noa were wed to the sons of their paternal uncle
+    12: from the family of Manasseh, who was a son of Joseph. And the possession which had been distributed to them remained in the tribe and family of their father
+    13: These are the commandments and judgments which the Lord ordered by the hand of Moses to the sons of Israel, in the plains of Moab, above the Jordan, opposite Jericho
+
+End of day 39.

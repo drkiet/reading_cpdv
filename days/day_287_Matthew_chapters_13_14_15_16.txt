@@ -1,0 +1,178 @@
+Day 287:
+
+Reading Matthew, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: In that day, Jesus, departing from the house, sat down beside the sea
+    2: And such great crowds were gathered to him that he climbed into a boat and he sat down. And the entire multitude stood on the shore
+    3: And he spoke many things to them in parables, saying: “Behold, a sower went out to sow seed
+    4: And while he was sowing, some fell beside the road, and the birds of the air came and ate it
+    5: Then others fell in a rocky place, where they did not have much soil. And they sprung up promptly, because they had no depth of soil
+    6: But when the sun rose up, they were scorched, and because they had no roots, they withered
+    7: Still others fell among thorns, and the thorns increased and suffocated them
+    8: Yet some others fell upon good soil, and they produced fruit: some one hundred fold, some sixty fold, some thirty fold
+    9: Whoever has ears to hear, let him hear.
+    10: And his disciples drew near to him and said, “Why do you speak to them in parables?
+    11: Responding, he said to them: “Because it has been given to you to know the mysteries of the kingdom of heaven, but it has not been given to them
+    12: For whoever has, it shall be given to him, and he shall have in abundance. But whoever has not, even what he has shall be taken away from him
+    13: For this reason, I speak to them in parables: because seeing, they do not see, and hearing they do not hear, nor do they understand
+    14: And so, in them is fulfilled the prophecy of Isaiah, who said, ‘Hearing, you shall hear, but not understand; and seeing, you shall see, but not perceive
+    15: For the heart of this people has grown fat, and with their ears they hear heavily, and they have closed their eyes, lest at any time they might see with their eyes, and hear with their ears, and understand with their heart, and be converted, and then I would heal them.
+    16: But blessed are your eyes, because they see, and your ears, because they hear
+    17: Amen I say to you, certainly, that many of the prophets and the just desired to see what you see, and yet they did not see it, and to hear what you hear, and yet they did not hear it
+    18: Listen, then, to the parable of the sower
+    19: With anyone who hears the word of the kingdom and does not understand it, evil comes and carries away what was sown in his heart. This is he who received the seed by the side of the road
+    20: Then whoever has received the seed upon a rocky place, this is one who hears the word and promptly accepts it with joy
+    21: But he has no root in himself, so it is only for a time; then, when tribulation and persecution occur because of the word, he promptly stumbles
+    22: And whoever has received the seed among thorns, this is he who hears the word, but the cares of this age and the falseness of riches suffocate the word, and he is effectively without fruit
+    23: Yet truly, whoever has received the seed into good soil, this is he who hears the word, and understands it, and so he bears fruit, and he produces: some a hundred fold, and another sixty fold, and another thirty fold.
+    24: He proposed another parable to them, saying: “The kingdom of heaven is like a man who sowed good seed in his field
+    25: But while the men were sleeping, his enemy came and sowed weeds amid the wheat, and then went away
+    26: And when the plants had grown, and had produced fruit, then the weeds also appeared
+    27: So the servants of the Father of the family, approaching, said to him: ‘Lord, did you not sow good seed in your field? Then how is it that it has weeds?
+    28: And he said to them, ‘A man who is an enemy has done this.’ So the servants said to him, ‘Is it your will that we should go and gather them up?
+    29: And he said: ‘No, lest perhaps in gathering the weeds, you might also root out the wheat together with it
+    30: Permit both to grow until the harvest, and at the time of the harvest, I will say to the reapers: Gather first the weeds, and bind them into bundles to burn, but the wheat gather into my storehouse.’ 
+    31: He proposed another parable to them, saying: “The kingdom of heaven is like a grain of mustard seed, which a man took and sowed in his field
+    32: It is, indeed, the least of all seeds, but when it has grown, it is greater than all the plants, and it becomes a tree, so much so that the birds of the air come and dwell in its branches.
+    33: He spoke another parable to them: “The kingdom of heaven is like leaven, which a woman took and hid in three measures of fine wheat flour, until it was entirely leavened.
+    34: All these things Jesus spoke in parables to the crowds. And he did not speak to them apart from parables
+    35: in order to fulfill what was spoken through the prophet, saying: “I will open my mouth in parables. I will proclaim what has been hidden since the foundation of the world.
+    36: Then, dismissing the crowds, he went into the house. And his disciples drew near to him, saying, “Explain to us the parable of the weeds in the field.
+    37: Responding, he said to them: “He who sows the good seed is the Son of man
+    38: Now the field is the world. And the good seeds are the sons of the kingdom. But the weeds are the sons of wickedness
+    39: So the enemy who sowed them is the devil. And truly, the harvest is the consummation of the age; while the reapers are the Angels
+    40: Therefore, just as weeds are gathered up and burned with fire, so shall it be at the consummation of the age
+    41: The Son of man shall send out his Angels, and they shall gather from his kingdom all who lead astray and those who work iniquity
+    42: And he shall cast them into the furnace of fire, where there shall be weeping and gnashing of teeth
+    43: Then the just ones shall shine like the sun, in the kingdom of their Father. Whoever has ears to hear, let him hear
+    44: The kingdom of heaven is like a treasure hidden in a field. When a man finds it, he hides it, and, because of his joy, he goes and sells everything that he has, and he buys that field
+    45: Again, the kingdom of heaven is like a merchant seeking good pearls
+    46: Having found one pearl of great value, he went away and sold all that he had, and he bought it
+    47: Again, the kingdom of heaven is like a net cast into the sea, which gathers together all kinds of fish
+    48: When it has been filled, drawing it out and sitting beside the shore, they selected the good into vessels, but the bad they threw away
+    49: So shall it be at the consummation of the age. The Angels shall go forth and separate the bad from the midst of the just
+    50: And they shall cast them into the furnace of fire, where there will be weeping and gnashing of teeth
+    51: Have you understood all these things?” They say to him, “Yes.
+    52: He said to them, “Therefore, every scribe well-taught about the kingdom of heaven, is like a man, the father of a family, who offers from his storehouse both the new and the old.
+    53: And it happened that, when Jesus had completed these parables, he went away from there
+    54: And arriving in his own country, he taught them in their synagogues, so much so that they wondered and said: “How can such wisdom and power be with this one
+    55: Is this not the son of a workman? Is not his mother called Mary, and his brothers, James, and Joseph, and Simon, and Jude
+    56: And his sisters, are they not all with us? Therefore, from where has this one obtained all these things?
+    57: And they took offense at him. But Jesus said to them, “A prophet is not without honor, except in his own country and in his own house.
+    58: And he did not work many miracles there, because of their unbelief
+
+  Chapter 14.
+
+    1: In that time, Herod the Tetrarch heard the news about Jesus
+    2: And he said to his servants: “This is John the Baptist. He has risen from the dead, and that is why miracles are at work in him.
+    3: For Herod had apprehended John, and bound him, and put him in prison, because of Herodias, the wife of his brother
+    4: For John was telling him, “It is not lawful for you to have her.
+    5: And though he wanted to kill him, he feared the people, because they held him to be a prophet
+    6: Then, on Herod’s birthday, the daughter of Herodias danced in their midst, and it pleased Herod
+    7: And so he promised with an oath to give her whatever she would ask of him
+    8: But, having been advised by her mother, she said, “Give me here, on a platter, the head of John the Baptist.
+    9: And the king was greatly saddened. But because of his oath, and because of those who sat at table with him, he ordered it to be given
+    10: And he sent and beheaded John in prison
+    11: And his head was brought on a platter, and it was given to the girl, and she brought it to her mother
+    12: And his disciples approached and took the body, and they buried it. And arriving, they reported it to Jesus
+    13: When Jesus had heard it, he withdrew from there by boat, to a deserted place by himself. And when the crowds had heard of it, they followed him on foot from the cities
+    14: And going out, he saw a great multitude, and he took pity on them, and he cured their sick
+    15: And when evening had arrived, his disciples approached him, saying: “This is a deserted place, and the hour has now passed. Dismiss the crowds, so that, by going into the towns, they may buy food for themselves.
+    16: But Jesus said to them: “They have no need to go. Give them something to eat yourselves.
+    17: They answered him, “We have nothing here, except five loaves and two fish.
+    18: He said to them, “Bring them here to me.
+    19: And when he had ordered the multitude to sit down upon the grass, he took the five loaves and the two fish, and gazing up to heaven, he blessed and broke and gave the bread to the disciples, and then the disciples to the multitudes
+    20: And they all ate and were satisfied. And they took up the remnants: twelve baskets full of fragments
+    21: Now the number of those who ate was five thousand men, besides women and children
+    22: And Jesus promptly compelled his disciples to climb into the boat, and to precede him in crossing the sea, while he dismissed the crowds
+    23: And having dismissed the multitude, he ascended alone onto a mountain to pray. And when evening arrived, he was alone there
+    24: But in the midst of the sea, the boat was being tossed about by the waves. For the wind was against them
+    25: Then, in the fourth watch of the night, he came to them, walking upon the sea
+    26: And seeing him walking upon the sea, they were disturbed, saying: “It must be an apparition.” And they cried out, because of fear
+    27: And immediately, Jesus spoke to them, saying: “Have faith. It is I. Do not be afraid.
+    28: Then Peter responded by saying, “Lord, if it is you, order me come to you over the waters.
+    29: And he said, “Come.” And Peter, descending from the boat, walked over the water, so as to go to Jesus
+    30: Yet truly, seeing that the wind was strong, he was afraid. And as he began to sink, he cried out, saying: “Lord, save me.
+    31: And immediately Jesus extended his hand and took hold of him. And he said to him, “O little in faith, why did you doubt?
+    32: And when they had ascended into the boat, the wind ceased
+    33: Then those who were in the boat drew near and adored him, saying: “Truly, you are the Son of God.
+    34: And having crossed the sea, they arrived in the land of Genesaret
+    35: And when the men of that place had recognized him, they sent into all that region, and they brought to him all who had maladies
+    36: And they petitioned him, so that they might touch even the hem of his garment. And as many as touched it were made whole
+
+  Chapter 15.
+
+    1: Then the scribes and the Pharisees came to him from Jerusalem, saying
+    2: “Why do your disciples transgress the tradition of the elders? For they do not wash their hands when they eat bread.
+    3: But responding, he said to them: “And why do you transgress the commandment of God for the sake of your tradition? For God said
+    4: ‘Honor your father and mother,’ and, ‘Whoever will have cursed father or mother shall die a death.
+    5: But you say: ‘If anyone will have said to father or mother, “It is dedicated, so that whatever is from me will benefit you,
+    6: then he shall not honor his father or his mother.’ So have you nullified the commandment of God, for the sake of your tradition
+    7: Hypocrites! How well did Isaiah prophesy about you, saying
+    8: ‘This people honors me with their lips, but their heart is far from me
+    9: For in vain do they worship me, teaching the doctrines and commandments of men.’ 
+    10: And having called the multitudes to him, he said to them: “Listen and understand
+    11: A man is not defiled by what enters into the mouth, but by what proceeds from the mouth. This is what defiles a man.
+    12: Then his disciples drew near and said to him, “Do you know that the Pharisees, upon hearing this word, were offended?
+    13: But in response he said: “Every plant which has not been planted by my heavenly Father shall be uprooted
+    14: Leave them alone. They are blind, and they lead the blind. But if the blind are in charge of the blind, both will fall into the pit.
+    15: And responding, Peter said to him, “Explain this parable to us.
+    16: But he said: “Are you, even now, without understanding
+    17: Do you not understand that everything that enters into the mouth goes into the gut, and is cast into the sewer
+    18: But what proceeds from the mouth, goes forth from the heart, and those are the things that defile a man
+    19: For from the heart go out evil thoughts, murders, adulteries, fornications, thefts, false testimonies, blasphemies
+    20: These are the things that defile a man. But to eat without washing hands does not defile a man.
+    21: And departing from there, Jesus withdrew into the areas of Tyre and Sidon
+    22: And behold, a woman of Canaan, going out from those parts, cried out, saying to him: “Take pity on me, Lord, Son of David. My daughter is badly afflicted by a demon.
+    23: He did not say a word to her. And his disciples, drawing near, petitioned him, saying: “Dismiss her, for she is crying out after us.
+    24: And responding, he said, “I was not sent except to the sheep who have fallen away from the house of Israel.
+    25: But she approached and adored him, saying, “Lord, help me.
+    26: And responding, he said, “It is not good to take the bread of the children and cast it to the dogs.
+    27: But she said, “Yes, Lord, but the young dogs also eat from the crumbs that fall from the table of their masters.
+    28: Then Jesus, responding, said to her: “O woman, great is your faith. Let it be done for you just as you wish.” And her daughter was healed from that very hour
+    29: And when Jesus had passed from there, he arrived beside the sea of Galilee. And ascending onto a mountain, he sat down there
+    30: And great multitudes came to him, having with them the mute, the blind, the lame, the disabled, and many others. And they cast them down at his feet, and he cured them
+    31: so much so that the crowds wondered, seeing the mute speaking, the lame walking, the blind seeing. And they magnified the God of Israel
+    32: And Jesus, calling together his disciples, said: “I have compassion on the crowds, because they have persevered with me now for three days, and they do not have anything to eat. And I am not willing to dismiss them, fasting, lest they faint along the way.
+    33: And the disciples said to him: “From where, then, in the desert, would we obtain enough bread to satisfy so a great multitude?
+    34: And Jesus said to them, “How many loaves of bread do you have?” But they said, “Seven, and a few little fish.
+    35: And he instructed the crowds to recline upon the ground
+    36: And taking the seven loaves and the fish, and giving thanks, he broke and gave to his disciples, and the disciples gave to the people
+    37: And they all ate and were satisfied. And, from what was left over of the fragments, they took up seven full baskets
+    38: But those who ate were four thousand men, plus children and women
+    39: And having dismissed the crowd, he climbed into a boat. And he went into the coastal region of Magadan
+
+  Chapter 16.
+
+    1: And Pharisees and Sadducees approached him to test him, and they asked him to show them a sign from heaven
+    2: But he responded by saying to them: “When evening arrives, you say, ‘It will be calm, for the sky is red,
+    3: and in the morning, ‘Today there will be a storm, for the sky is red and gloomy.’ So then, you know how to judge the appearance of the sky, but you are unable to know the signs of the times
+    4: An evil and adulterous generation seeks a sign. And a sign shall not be given to it, except the sign of the prophet Jonah.” And leaving them behind, he went away
+    5: And when his disciples went across the sea, they forgot to bring bread
+    6: And he said to them, “Consider and beware of the leaven of the Pharisees and the Sadducees.
+    7: But they were thinking within themselves, saying, “It is because we have not brought bread.
+    8: Then Jesus, knowing this, said: “Why do you consider within yourselves, O little in faith, that it is because you have no bread
+    9: Do you not yet understand, nor remember, the five loaves among the five thousand men, and how many containers you took up
+    10: Or the seven loaves among the four thousand men, and how many baskets you took up
+    11: Why do you not understand that it was not because of bread that I said to you: Beware of the leaven of the Pharisees and the Sadducees?
+    12: Then they understood that he was not saying that they should beware of the leaven of bread, but of the doctrine of the Pharisees and the Sadducees
+    13: Then Jesus went into parts of Caesarea Philippi. And he questioned his disciples, saying, “Who do men say that the Son of man is?
+    14: And they said, “Some say John the Baptist, and others say Elijah, still others say Jeremiah or one of the prophets.
+    15: Jesus said to them, “But who do you say that I am?
+    16: Simon Peter responded by saying, “You are the Christ, the Son of the living God.
+    17: And in response, Jesus said to him: “Blessed are you, Simon son of Jonah. For flesh and blood has not revealed this to you, but my Father, who is in heaven
+    18: And I say to you, that you are Peter, and upon this rock I will build my Church, and the gates of Hell shall not prevail against it
+    19: And I will give you the keys of the kingdom of heaven. And whatever you shall bind on earth shall be bound, even in heaven. And whatever you shall release on earth shall be released, even in heaven.
+    20: Then he instructed his disciples that they should tell no one that he is Jesus the Christ
+    21: From that time, Jesus began to reveal to his disciples that it was necessary for him to go to Jerusalem, and to suffer much from the elders and the scribes and the leaders of the priests, and to be killed, and to rise again on the third day
+    22: And Peter, taking him aside, began to rebuke him, saying, “Lord, may it be far from you; this shall not happen to you.
+    23: And turning away, Jesus said to Peter: “Get behind me, Satan; you are an obstacle to me. For you are not behaving according to what is of God, but according to what is of men.
+    24: Then Jesus said to his disciples: “If anyone is willing to come after me, let him deny himself, and take up his cross, and follow me
+    25: For whoever would save his life, will lose it. But whoever will have lost his life for my sake, shall find it
+    26: For how does it benefit a man, if he gains the whole world, yet truly suffers damage to his soul? Or what shall a man give in exchange for his soul
+    27: For the Son of man will arrive in the glory of his Father, with his Angels. And then he will repay each one according to his works
+    28: Amen I say to you, there are some among those standing here, who shall not taste death, until they see the Son of man arriving in his reign.
+
+End of day 287.

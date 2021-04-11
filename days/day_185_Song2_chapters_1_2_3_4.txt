@@ -1,0 +1,84 @@
+Day 185:
+
+Reading Song2, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: <I>Bride:</I> May he kiss me with the kiss of his mouth
+    2: <I>Groom to Bride:</I> So much better than wine are your breasts, fragranced with the finest perfumes.
+    3: <I>Bride to Groom:</I> Your name is oil that has been poured out; therefore, the maidens have loved you. Draw me forward
+    4: <I>Chorus to Bride:</I> We will run after you in the odor of your perfumes
+    5: <I>Bride to Chorus:</I> The king has led me into his storerooms
+    6: <I>Chorus to Bride:</I> We will exult and rejoice in you, remembering your breasts above wine.
+    7: <I>Groom to Bride:</I> The righteous love you
+    8: <I>Bride to Chorus:</I> O daughters of Jerusalem: I am black, but shapely, like the tabernacles of Kedar, like the tents of Solomon
+    9: Do not be concerned that I am dark, for the sun has changed my color
+    10: The sons of my mother have fought against me. They have made me the keeper of the vineyards. My own vineyard I have not kept
+    11: <I>Bride to Groom:</I> Reveal to me, you whom my soul loves, where you pasture, where you recline at midday, lest I begin to wander after the flocks of your companions
+    12: <I>Groom to Bride:</I> If you yourself do not know, O most beautiful among women, then go out and follow after the steps of the flocks, and pasture your young goats beside the tabernacles of the shepherds
+    13: O my love, I have compared you to my company of horsemen against the chariots of Pharaoh
+    14: Your cheeks are beautiful, like those of a turtledove. Your neck is like a bejeweled collar
+    15: <I>Chorus to Bride:</I> We will fashion for you chains of gold, accented with reddened silver
+    16: <I>Bride to Chorus:</I> While the king was taking his rest, my aromatic ointment sent forth its odor
+    17: My beloved is a bundle of myrrh to me. He shall abide between my breasts
+    18: My beloved is a cluster of Cyprus grapes to me, in the vineyards of Engaddi
+    19: <I>Groom to Bride:</I> Behold, you are beautiful, O my love. Behold, you are beautiful. Your eyes are those of a dove
+    20: <I>Bride to Groom:</I> Behold, you are handsome, O my beloved, and graceful. Our bed is flourishing
+    21: <I>Groom to Bride:</I> The timbers of our houses are of cedar; our ceilings are of cypress
+
+  Chapter 2.
+
+    1: <I>Bride:</I> I am a flower of the open field and a lily of the steep valleys
+    2: <I>Groom:</I> Like a lily among the thorns, so is my loved one among the daughters
+    3: <I>Bride to Chorus:</I> Like an apple tree among the trees of the forest, so is my beloved among the sons. I sat beneath the shadow of the one whom I desired, and his fruit was sweet to my palate
+    4: He brought me into the storeroom of wine. He set charity in order within me
+    5: Prop me up with flowers. Close me in with apples. For I languish through love
+    6: His left hand is under my head, and his right hand shall embrace me
+    7: <I>Groom to Chorus:</I> I bind you by oath, O daughters of Jerusalem, by the does and the stags of the open field, not to disturb or awaken the beloved, even for as long as she wills
+    8: <I>Bride to Chorus:</I> The voice of my beloved! Behold, he arrives leaping along the mountains, jumping across the hills
+    9: My beloved is like a doe and like a young stag.
+    10: Lo, he stands beyond our wall, gazing through the windows, watching through the lattices
+    11: Lo, my beloved speaks to me
+    12: <I>Groom to Bride:</I> Rise up, quickly, my love, my dove, my shapely one, and advance
+    13: For winter has now past; the rain has decreased and gone away
+    14: The flowers have appeared in our land; the time for pruning has arrived. The voice of the turtledove has been heard in our land
+    15: The fig tree has brought forth its green figs; the flowering vines bestow their odor. Rise up, my love, my brilliant one, and advance
+    16: My dove in the clefts of the rock, in the hollows of the wall, reveal to me your face. Let your voice sound in my ears. For your voice is sweet, and your face is graceful
+    17: <I>Chorus to Groom and Bride:</I> Capture for us the little foxes, which are tearing down the vines; for our vineyard has flourished
+    18: <I>Bride to Chorus:</I> My beloved is for me, and I am for him. He pastures among the lilies, until the day rises and the shadows decline
+    19: <I>Bride to Groom:</I> Return, O my beloved. Be like a doe and like a young stag upon the mountains of Bether
+
+  Chapter 3.
+
+    1: <I>Bride:</I> On my bed, throughout the night, I sought him whom my soul loves. I sought him, and did not find him
+    2: I will rise up, and I will circle through the city. Through the side streets and thoroughfares, I will seek him whom my soul loves. I sought him, and did not find him
+    3: The watchers who guard the city found me: “Have you seen him whom my soul loves?
+    4: When I had passed by them a little, I found him whom my soul loves. I held him, and would not release him, until I would bring him into my mother’s house, and into the chamber of her who bore me
+    5: <I>Groom to Chorus:</I> I bind you by oath, O daughters of Jerusalem, by the does and the stags of the open field, not to disturb or awaken the beloved, until she wills
+    6: <I>Chorus to Groom:</I> Who is she, who ascends through the desert, like a staff of smoke from the aromatics of myrrh, and frankincense, and every powder of the perfumer
+    7: <I>Chorus to Bride:</I> Lo, sixty strong ones, out of all the strongest in Israel, stand watch at the bed of Solomon
+    8: all holding swords and well-trained in warfare, each one’s weapon upon his thigh, because of fears in the night
+    9: <I>Bride to Chorus:</I> King Solomon made himself a portable throne from the wood of Lebanon
+    10: He made its columns of silver, the reclining place of gold, the ascent of purple; the middle he covered well, out of charity for the daughters of Jerusalem
+    11: O daughters of Zion, go forth and see king Solomon with the diadem with which his mother crowned him, on the day of his espousal, on the day of the rejoicing of his heart
+
+  Chapter 4.
+
+    1: <I>Groom to Bride:</I> How beautiful you are, my love, how beautiful you are! Your eyes are those of a dove, except for what is hidden within. Your hair is like flocks of goats, which ascend along the mountain of Gilead
+    2: Your teeth are like flocks of shorn sheep, which ascend from the washing, each one with its identical twin, and not one among them is barren
+    3: Your lips are like a scarlet ribbon, and your eloquence is sweetness. Like a piece of pomegranate, so are your cheeks, except for what is hidden within
+    4: Your neck is like the tower of David, which was built with ramparts: a thousand shields are hanging from it, all the armor of the strong
+    5: Your two breasts are like two young does, twins that pasture among the lilies
+    6: Until the day rises and the shadows decline, I will go to the mountain of myrrh and to the hill of frankincense
+    7: You are totally beautiful, my love, and there is no blemish in you
+    8: Advance from Lebanon, my spouse, advance from Lebanon, advance. You shall be crowned at the head of Amana, near the summit of Senir and Hermon, by the dens of lions, by the mountains of leopards
+    9: You have wounded my heart, my sister, my spouse. You have wounded my heart with one look of your eyes, and with one lock of hair on your neck
+    10: How beautiful are your breasts, my sister, my spouse! Your breasts are more beautiful than wine, and the fragrance of your ointments is above all aromatic oils
+    11: Your lips, my spouse, are a dripping honeycomb; honey and milk are under your tongue. And the fragrance of your garments is like the odor of frankincense
+    12: An enclosed garden is my sister, my spouse: an enclosed garden, a sealed fountain
+    13: You send forth a paradise of pomegranates along with the fruits of the orchard: Cypress grapes, with aromatic oil
+    14: aromatic oil and saffron; sweet cane and cinnamon, with all the trees of Lebanon; myrrh and aloe, with all the best ointments
+    15: The fountain of the gardens is a well of living waters, which flow forcefully from Lebanon
+    16: Rise up, north wind, and advance, south wind. Send a breeze through my garden, and carry its aromatic scents
+
+End of day 185.

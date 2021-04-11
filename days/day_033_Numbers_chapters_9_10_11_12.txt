@@ -1,0 +1,125 @@
+Day 33:
+
+Reading Numbers, chapters ['9', '10', '11', '12']:
+
+  Chapter 9.
+
+    1: The Lord spoke to Moses in the desert of Sinai, in the second year after they departed from the land of Egypt, in the first month, saying
+    2: “Let the sons of Israel observe the Passover at its proper time
+    3: on the fourteenth day of this month, in the evening, according to all of its ceremonies and justifications.
+    4: And Moses instructed the sons of Israel, so that they would observe the Passover
+    5: And they observed it at its proper time: on the fourteenth day of the month, in the evening, at mount Sinai. The sons of Israel acted according to all the things that the Lord had commanded Moses
+    6: But behold, certain ones, who were not able to observe the Passover on that day, being unclean because of the life of a man, approaching Moses and Aaron
+    7: said to them: “We are unclean because of the life of a man. Why have we been cheated, in that we are not permitted to offer, at its proper time, the oblation to the Lord among the sons of Israel?
+    8: And Moses responded to them: “Remain, so that I may consult the Lord, as to what he will rule about you.
+    9: And the Lord spoke to Moses, saying
+    10: “Say to the sons of Israel: The man who becomes unclean because of a life, or if he is on a distant journey within your nation, let him observe the Passover to the Lord
+    11: In the second month, on the fourteenth day of the month, in the evening, they shall eat it with unleavened bread and wild lettuce
+    12: They shall not leave behind any of it until morning, and they shall not break a bone of it; they shall observe all the rituals of the Passover
+    13: But if any man was both clean, and not on a journey, and yet he did not observe the Passover, that soul shall be exterminated from among his people, because he did not offer the sacrifice to the Lord in its time. He shall bear his sin
+    14: Likewise, the sojourner and the newcomer, if they are among you, shall observe the Passover to the Lord according to its ceremonies and justifications. The same precept shall be with you, as much for the newcomer as for the native.
+    15: And so, on the day when the tabernacle was raised, a cloud covered it. But over the tabernacle, from evening until morning, there was, as it seemed, the appearance of fire
+    16: This was so continually: throughout the day a cloud covered it, and throughout the night, the appearance of fire
+    17: And when the cloud that was protecting the tabernacle had been taken up, then the sons of Israel advanced forward, and in the place where the cloud had remained standing, there they made camp
+    18: Upon the order of the Lord they advanced, and upon his order they fixed the tabernacle. All the days during which the cloud was standing over the tabernacle, they remained in the same place
+    19: And if it happened that it remained for a long time over it, the sons of Israel kept the night watches of the Lord, and they did not advance
+    20: during as many days as the cloud remained over the tabernacle. At the command of the Lord they raised their tents, and at his command they took them down
+    21: If the cloud remained from evening until morning, and immediately, at first light, it left the tabernacle, they set out. And if it withdrew after a day and a night, they dismantled their tents
+    22: Yet truly, whether it remained over the tabernacle for two days, or one month, or a longer time, the sons of Israel remained in the same place, and they did not set out. Then, as soon as it withdrew, they moved the camp
+    23: By the word of the Lord they fixed their tents, and by his word they advanced. And they kept the night watches of the Lord, according to his command by the hand of Moses
+
+  Chapter 10.
+
+    1: And the Lord spoke to Moses, saying
+    2: “Make for yourself two trumpets of ductile silver, with which you may be able to call together the multitude when the camp is to be moved
+    3: And when you sound the trumpets, all the multitude shall gather to you at the door of the tabernacle of the covenant
+    4: If you sound it only once, the leaders and the heads of the multitude of Israel shall come to you
+    5: But if the sound of the trumpets is prolonged, but with interruptions, those who are toward the east side shall move the camp first
+    6: Then, at the second sounding of the trumpet with the same cadence, those who live toward the south shall take up their tents. And the remainder shall act in like manner, when the trumpets shall reverberate for a departure
+    7: But when the people are to be gathered together, the sound of the trumpets shall be simple, and the sounds shall not be separated
+    8: Now it is the sons of Aaron the priest who shall sound the trumpets. And this shall be an everlasting ordinance, in your generations
+    9: If you go forth to war from your land, against the enemies who set out against you, you shall sound the trumpets repeatedly, and there shall be a remembrance of you before the Lord your God, so that you may be rescued from the hands of your enemies
+    10: If at any time you will have a banquet, and on feast days, and on the first days of the months, you shall sound the trumpets over the holocausts and the peace-offering victims, so that they may be for you as a remembrance by your God. I am the Lord your God.
+    11: In the second year, in the second month, on the twentieth day of the month, the cloud was lifted up from the tabernacle of the covenant
+    12: And the sons of Israel set out by their companies from the desert of Sinai, and the cloud rested in the wilderness of Paran
+    13: And the first to move their camp, according to the command of the Lord by the hand of Moses
+    14: were the sons of Judah by their companies, whose leader was Nahshon the son of Amminadab
+    15: In the tribe of the sons of Issachar, the leader was Nathanael the son of Zuar
+    16: In the tribe of Zebulon, the leader was Eliab the son of Helon
+    17: And the tabernacle was taken down, because the sons of Gershon and Merari, who carry it, were departing
+    18: And the sons of Ruben also set out, by their companies and ranks, whose leader was Elizur the son of Shedeur
+    19: And in the tribe of Simeon, the leader was Shelumiel the son of Zurishaddai
+    20: And in the tribe of Gad, the leader was Eliasaph the son of Reuel
+    21: Then the Kohathites also set out, carrying the Sanctuary. The tabernacle was carried, all the while, until they arrived at the place for setting it up
+    22: The sons of Ephraim also moved their camp by their companies, and the leader of their army was Elishama the son of Ammihud
+    23: And in the tribe of the sons of Manasseh, the leader was Gamaliel the son of Pedahzur
+    24: And in the tribe of Benjamin, the leader was Abidan the son of Gideoni
+    25: The last of all the camp to set out were the sons of Dan by their companies, and the leader of their army was Ahiezer the son of Ammishaddai
+    26: And in the tribe of the sons of Asher, the leader was Pagiel the son of Ochran
+    27: And in the tribe of the sons of Naphtali, the leader was Ahira the son of Enan
+    28: These were the camps and departures of the sons of Israel by their companies, when they went forth
+    29: And Moses said to Hobab the son of Raguel the Midianite, his kinsman: “We are setting out to the place which the Lord will give to us. Come with us, so that we may do good to you. For the Lord has promised good things to Israel.
+    30: And he answered him, “I will not go with you, but I will return to my own land, in which I was born.
+    31: And he said: “Do not choose to leave us. For you know in which places in the desert we ought to make camp, and so you shall be our guide
+    32: And if you come with us, whatever will be best among the riches which the Lord will deliver to us, we will give to you.
+    33: Therefore, they set out from the Mountain of the Lord on a journey of three days. And the ark of the covenant of the Lord preceded them, for three days, in order to provide a place for the camp
+    34: Likewise, the cloud of the Lord was over them, throughout the day, while they proceeded
+    35: And when the ark was lifted up, Moses said, “Rise up, O Lord, and let your enemies be scattered, and let those who hate you flee from your face.
+    36: And when it was set down, he said: “Return, O Lord, to the multitude of the army of Israel.
+
+  Chapter 11.
+
+    1: Meanwhile, there arose a murmur among the people against the Lord, as if they were grief-stricken because of their labors. And when the Lord had heard it, he was angry. And when the fire of the Lord was enflamed against them, it devoured those who were at the extreme end of the camp
+    2: And when the people had cried out to Moses, Moses prayed to the Lord, and the fire was consumed
+    3: And he called the name of that place, ‘The Burning,’ because the fire of the Lord had burned against them
+    4: So then, the mix of common people, who had ascended with them, were enflamed with desire, and sitting and weeping, with the sons of Israel joining them, they said, “Who will give us flesh to eat
+    5: We remember the fish that we ate freely in Egypt; we call to mind the cucumbers, and melons, and leeks, and onions, and garlic
+    6: Our life is dry; our eyes look out to see nothing but manna.
+    7: Now the manna was like coriander seed, but with the color of bdellium
+    8: And the people wandered about, gathering it, and they crushed it with a millstone, or ground it with a mortar; then they boiled it in a pot, and made biscuits out of it, with a taste like bread made with oil
+    9: And when the dew descended in the night over the camp, the manna descended together with it
+    10: And so, Moses heard the people weeping by their families, each one at the door of his tent. And the fury of the Lord was greatly enflamed. And to Moses also the matter seemed intolerable
+    11: And so he said to the Lord: “Why have you afflicted your servant? Why do I not find favor before you? And why have you imposed the weight of this entire people upon me
+    12: Could I have conceived this entire multitude, or have given birth to them, so that you might say to me: Carry them in your bosom, as a nursemaid usually carries a little infant, and bring them into the land, about which you have sworn to their fathers
+    13: From where would I obtain the flesh to give to so great a multitude? They weep against me, saying, ‘Give us flesh, so that we may eat.
+    14: I alone am unable to sustain this entire people, because it is too heavy for me
+    15: But if it seems to you otherwise, I beg you to put me to death, and so may I find grace in your eyes, lest I be afflicted with such evils.
+    16: And the Lord said to Moses: “Gather to me seventy men from the elders of Israel, whom you know to be elders, as well as teachers, of the people. And you shall lead them to the door of the tabernacle of the covenant, and you shall cause them to stand there with you
+    17: so that I may descend and speak to you. And I will take from your spirit, and I will deliver it to them, so that, with you, they may sustain the burden of the people, and so that you will not be weighed down alone
+    18: You shall also say to the people: Be sanctified. Tomorrow you will eat flesh. For I have heard you say: ‘Who will give us flesh to eat? It was well with us in Egypt.’ So then, may the Lord give you flesh. And you will eat
+    19: not for one day, nor for two, nor for five, nor for ten, nor even for twenty
+    20: but for up to a month of days, until it exits from your nostrils, and until it turns into nausea for you, because you have slipped away from the Lord, who is in your midst, and because you have wept before him, saying: ‘Why did we go forth out of Egypt?’ 
+    21: And Moses said: “There are six hundred thousand footmen of this people, and yet you say, ‘I will give them flesh to eat for a whole month.
+    22: Could a multitude of sheep and oxen be slain, so that there would be enough food? Or will the fishes of the sea be gathered together, in order to satisfy them?
+    23: And the Lord answered him: “Can the hand of the Lord be ineffective? Soon now, you shall see whether my word will be fulfilled in this work.
+    24: And so, Moses went and explained the words of the Lord to the people. Gathering together seventy men from the elders of Israel, he caused them to stand around the tabernacle
+    25: And the Lord descended in a cloud, and he spoke to him, taking from the Spirit which was in Moses, and giving to the seventy men. And when the Spirit had rested in them, they prophesied; nor did they cease afterwards
+    26: Now there had remained in the camp two of the men, of whom one was called Eldad, and the other Medad, upon whom the Spirit rested; for they also had been enrolled, but they did not go forth to the tabernacle
+    27: And when they were prophesying in the camp, a boy ran and reported to Moses, saying: “Eldad and Medad prophesy in the camp.
+    28: Promptly, Joshua the son of Nun, the minister of Moses and chosen from many, said: “My lord Moses, prohibit them.
+    29: But he said, “Why are you jealous on my behalf? Who decides that any of the people may prophesy and that God may give to them his Spirit?
+    30: And Moses returned, with those greater by birth of Israel, into the camp
+    31: Then a wind, going out from the Lord and moving forcefully across the sea, brought quails and cast them into the camp, across a distance of one day’s journey, in every part of the camp all around, and they flew in the air two cubits high above the ground
+    32: Therefore, the people, rising up, gathered quails all that day and night, and the next day; he who did least well gathered ten homers. And they dried them throughout the camp
+    33: The flesh was still between their teeth, neither had this kind of food ceased, and behold, the fury of the Lord was provoked against the people, and he struck them with an exceedingly great scourge
+    34: And that place was called, ‘The Graves of Lust.’ For there, they buried the people who had desired. Then, departing from the Graves of Lust, they arrived in Hazeroth, and they stayed there
+
+  Chapter 12.
+
+    1: And Miriam and Aaron spoke against Moses, because of his wife, an Ethiopian
+    2: and they said: “Has the Lord spoken only through Moses? Has he not also spoken similarly to us?” And when the Lord had heard this
+    3: (for Moses was a man exceedingly meek, beyond all the men who were living upon the earth
+    4: immediately he spoke to him, and to Aaron and Miriam, “Go out, you three only, to the tabernacle of the covenant.” And when they had  gone out
+    5: the Lord descended in a column of cloud, and he stood at the entrance of the tabernacle, calling to Aaron and Miriam. And when they had advanced
+    6: he said to them: “Listen to my words. If there will be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him through a dream
+    7: But it is not so with my servant Moses, who is the most faithful in all my house
+    8: For I speak with him mouth to mouth, and plainly. And not through enigmas and figures does he perceive the Lord. Therefore, why were you not afraid to disparage my servant Moses?
+    9: And being angry against them, he went away
+    10: Likewise, the cloud which was over the tabernacle withdrew. And behold, Miriam appeared to be white with a leprosy, like snow. And when Aaron had looked upon her, and he had seen the spreading of the leprosy
+    11: he said to Moses: “I beg you, my lord, not to impose upon us this sin, which we have committed foolishly
+    12: Do not let this one be like one who is dead, or like an abortion that has been cast from the womb of her mother. Behold, half of her flesh is already consumed by leprosy.
+    13: And Moses cried out to the Lord, saying, “O God, I beg you: heal her.
+    14: And the Lord answered him: “If her father had spit on her face, should she not have been filled with shame for at least seven days? Let her be separated, outside the camp, for seven days, and after that, she will be called back.
+    15: And so Miriam was excluded from the camp for seven days. And the people did not move from that place, until Miriam was called back
+
+End of day 33.

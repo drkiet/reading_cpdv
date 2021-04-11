@@ -1,0 +1,102 @@
+Day 205:
+
+Reading Isaiah, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The vision of Isaiah, the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Joatham, Ahaz, and Hezekiah, kings of Judah
+    2: Listen, O heavens, and pay attention, O earth, for the Lord has spoken. I have nurtured and raised children, but they have spurned me
+    3: An ox knows his owner, and a donkey knows the manger of his lord, but Israel has not known me, and my people have not understood
+    4: Woe to a sinful nation, a people burdened by iniquity, a wicked offspring, accursed children. They have abandoned the Lord. They have blasphemed the Holy One of Israel. They been taken away backwards
+    5: For what reason shall I continue to strike you, as you increase transgressions? The entire head is feeble, and the entire heart is grieving
+    6: From the sole of the foot, even to the top of the head, there is no soundness within. Wounds and bruises and swelling sores: these are not bandaged, nor treated with medicine, nor soothed with oil
+    7: Your land is desolate. Your cities have been set ablaze. Foreigners devour your countryside in your sight, and it will become desolate, as if devastated by enemies
+    8: And the daughter of Zion will be left behind, like an arbor in a vineyard, and like a shelter in a cucumber field, and like a city being laid to waste
+    9: If the Lord of hosts had not bequeathed us offspring, we would have been like Sodom, and we would have been comparable to Gomorrah
+    10: Listen to the Word of the Lord, you leaders of the people of Sodom. Listen closely to the law of our God, O people of Gomorrah
+    11: The multitude of your sacrifices, what is that to me, says the Lord? I am full. I do not desire holocausts of rams, nor the fat of fatlings, nor the blood of calves and of lambs and of he-goats
+    12: When you approach before my sight, who is it that requires these things from your hands, so that you would walk in my courts
+    13: You should no longer offer sacrifice in vain. Incense is an abomination to me. The new moons and the Sabbaths and the other feast days, I will not receive. Your gatherings are iniquitous
+    14: My soul hates your days of proclamation and your solemnities. They have become bothersome to me. I labor to endure them
+    15: And so, when you extend your hands, I will avert my eyes from you. And when you multiply your prayers, I will not heed you. For your hands are full of blood
+    16: Wash, become clean, take away the evil of your intentions from my eyes. Cease to act perversely
+    17: Learn to do good. Seek judgment, support the oppressed, judge for the orphan, defend the widow
+    18: And then approach and accuse me, says the Lord. Then, if your sins are like scarlet, they shall be made white like snow; and if they are red like vermillion, they shall become white like wool
+    19: If you are willing, and you listen to me, then you will eat the good things of the land
+    20: But if you are not willing, and you provoke me to anger, then the sword will devour you. For the mouth of the Lord has spoken
+    21: How has the faithful city, full of judgment, become a harlot? Justice lived in her, but now murderers
+    22: Your silver has turned into dross. Your wine has been mixed with water
+    23: Your leaders are unfaithful, the associates of thieves. They all love gifts; they pursue rewards. They do not judge for orphans, and the widow’s case is not brought before them
+    24: Because of this, the Lord God of hosts, the Strength of Israel, says: Ah! I will be consoled over my enemies, and I will be vindicated from my adversaries
+    25: And I will turn my hand to you. And I will temper your dross unto purity, and I will take away all your tin
+    26: And I will restore your judges, so that they will be as before, and your counselors as in times long past. After this, you shall be called the City of the Just, the Faithful City
+    27: Zion will be redeemed in judgment, and they will lead her back to justice
+    28: And he shall crush the accursed and sinners together. And those who have abandoned the Lord will be consumed
+    29: For they shall be confounded because of the idols, to which they have sacrificed. And you shall be ashamed over the gardens that you chose
+    30: when you were like an oak with falling leaves, and like a garden without water
+    31: And your strength will be like the embers from stubble, and your work will be like a spark, and both will burn together, and there will be no one to extinguish it
+
+  Chapter 2.
+
+    1: The word that Isaiah, the son of Amoz, saw concerning Judah and Jerusalem
+    2: And in the last days, the mountain of the house of the Lord will be prepared at the summit of the mountains, and it will be exalted above the hills, and all the nations shall flow to it
+    3: And many peoples will go, and they will say: “Let us approach and ascend to the mountain of the Lord, and to the house of the God of Jacob. And he will teach us his ways, and we will walk in his paths.” For the law will go forth from Zion, and the Word of the Lord from Jerusalem
+    4: And he will judge the nations, and he will rebuke many peoples. And they shall forge their swords into plowshares, and their spears into sickles. Nation will not lift up sword against nation, neither will they continue to train for battle
+    5: O house of Jacob, let us approach and walk in the light of the Lord
+    6: For you have cast aside your people, the house of Jacob, because they have been filled up, as in past times, and because they have had soothsayers as the Philistines have, and because they have joined themselves to foreign servants
+    7: Their land has been filled with silver and gold. And there is no end to their storehouses
+    8: And their land has been filled with horses. And their four-horse chariots are innumerable. And their land has been filled with idols. They have adored the work of their hands, which their own fingers have made
+    9: And man has bowed himself down, and so man has become debased. Therefore, you should not forgive them
+    10: Enter into the rock, and hide in a ditch in the soil, from the presence of the fear of the Lord, and from the glory of his majesty
+    11: The lofty eyes of man have been humbled, and the haughtiness of men will be bowed down. Then the Lord alone shall be exalted, in that day
+    12: For the day of the Lord of hosts will prevail over all the proud and self-exalted, and over all the arrogant, and each one shall be humbled
+    13: and over all the straight and tall cedars of Lebanon, and over all the oaks of Bashan
+    14: and over all the lofty mountains, and over all the elevated hills
+    15: and over every lofty tower, and over every fortified wall
+    16: and over all the ships of Tarshish, and over all the beauty that may be seen
+    17: And the loftiness of men will be bowed down, and the haughtiness of men will be brought low. And the Lord alone shall be exalted, in that day
+    18: And idols will be thoroughly crushed
+    19: And they will go into the caves of the rocks, and into the caverns of the earth, from the presence of the dread of the Lord, and from the glory of his majesty, when he will have risen up to strike the earth
+    20: In that day, man shall cast aside his idols of silver and his images of gold, which he had made for himself, as if to reverence the moles and the bats
+    21: And so he will go into the clefts of the rocks, and into the caverns of stone, from the presence of the dread of the Lord, and from the glory of his majesty, when he will have risen up to strike the earth
+    22: Therefore, rest away from man, whose breath is in his nostrils, for he considers himself to be exalted
+
+  Chapter 3.
+
+    1: For behold, the sovereign Lord of hosts will take away, from Jerusalem and from Judah, the powerful and the strong: all the strength from bread, and all the strength from water
+    2: the strong man, and the man of war, the judge and the prophet, and the seer and the elder
+    3: the leader over fifty and the honorable in appearance; and the counselor, and the wise among builders, and the skillful in mystical speech
+    4: And I will provide children as their leaders, and the effeminate will rule over them
+    5: And the people will rush, man against man, and each one against his neighbor. The child shall rebel against the elder, and the ignoble against the noble
+    6: For a man will apprehend his brother, from the household of his own father, saying: “The vestment is yours. Be our leader, but let this ruin be under your hand.
+    7: In that day, he will respond by saying: “I am not a healer, and there is no bread or vestment in my house. Do not choose to appoint me as a leader of the people.
+    8: For Jerusalem is ruined, and Judah has fallen, because their words and their plans are against the Lord, in order to provoke the eyes of his majesty
+    9: The acknowledgement of their countenance is their response. For they have proclaimed their own sin, like Sodom; and they have not concealed it. Woe to their souls! For evils are being repaid to them
+    10: Tell the just man that it is well, for he shall eat from the fruit from his own plans
+    11: Woe to the impious man immersed in evil! For retribution will be given to him from his own hands
+    12: As for my people, their oppressors have despoiled them, and women have ruled over them. My people, who call you blessed, the same are deceiving you and disrupting the path of your steps
+    13: The Lord stands for judgment, and he stands to judge the people
+    14: The Lord will enter into judgment with the elders of his people, and with their leaders. For you have been devouring the vineyard, and the plunder from the poor is in your house
+    15: Why do you wear down my people, and grind up the faces of the poor, says the Lord, the God of hosts
+    16: And the Lord said: Because the daughters of Zion have been lifted up, and have walked with extended necks and winking eyes, because they have continued on, walking noisily and advancing with a pretentious stride
+    17: the Lord will make the heads of the daughters of Zion bald, and the Lord will strip them of the locks of their hair
+    18: In that day, the Lord will take away their decorative shoes,
+    19: and the little moons and chains, and the necklaces and bracelets, and the hats
+    20: and the ornaments for their hair, and the anklets, and the touches of myrrh and little bottles of perfumes, and the earrings
+    21: and the rings, and the jewels hanging on their foreheads
+    22: and the continual changes in appearance, and the short skirts, and the fine linens and embroidered cloths
+    23: and the mirrors, and scarves, and ribbons, and their sparse clothing
+    24: And in place of a sweet fragrance, there will be stench. And in place of a belt, there will be a rope. And in place of stylish hair, there will be baldness. And in place of a blouse, there will be haircloth
+    25: Likewise, your most handsome men will fall by the sword, and your strong men will fall in battle
+    26: And her gates will grieve and mourn. And she will sit on the ground, desolate
+
+  Chapter 4.
+
+    1: And seven women will take hold of one man, in that day, saying, “We will eat our own bread and wear our own clothing, only let us be called by your name, so as to take away our reproach.
+    2: In that day, the seedling of the Lord will have magnificence and glory, and the fruit of the earth will be greatly-esteemed and a source of joy to those who will have been saved out of Israel
+    3: And this shall be: all who are left behind in Zion, and who remain in Jerusalem, shall be called holy, all who have been written in life in Jerusalem
+    4: Then the Lord will have washed away the filth of the daughters of Zion, and will have washed away the blood of Jerusalem from its midst, by means of a spirit of judgment and a spirit of intense devotion
+    5: And the Lord will create, over every place of Mount Zion and wherever he is called upon, a cloud by day and a smoke with the splendor of burning fire by night. For protection will be over every glory
+    6: And there will be a tabernacle for shade from the heat in daytime, and for security, and for protection from the whirlwind and from rain
+
+End of day 205.

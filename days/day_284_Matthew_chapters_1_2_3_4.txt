@@ -1,0 +1,107 @@
+Day 284:
+
+Reading Matthew, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: The book of the lineage of Jesus Christ, the son of David, the son of Abraham
+    2: Abraham conceived Isaac. And Isaac conceived Jacob. And Jacob conceived Judah and his brothers
+    3: And Judah conceived Perez and Zerah by Tamar. And Perez conceived Hezron. And Hezron conceived Ram
+    4: And Ram conceived Amminadab. And Amminadab conceived Nahshon. And Nahshon conceived Salmon
+    5: And Salmon conceived Boaz by Rahab. And Boaz conceived Obed by Ruth. And Obed conceived Jesse
+    6: And Jesse conceived king David. And king David conceived Solomon, by her who had been the wife of Uriah
+    7: And Solomon conceived Rehoboam. And Rehoboam conceived Abijah. And Abijah conceived Asa
+    8: And Asa conceived Jehoshaphat. And Jehoshaphat conceived Joram. And Joram conceived Uzziah
+    9: And Uzziah conceived Jotham. And Jotham conceived Ahaz. And Ahaz conceived Hezekiah
+    10: And Hezekiah conceived Manasseh. And Manasseh conceived Amos. And Amos conceived Josiah
+    11: And Josiah conceived Jechoniah and his brothers in the transmigration of Babylon
+    12: And after the transmigration of Babylon, Jechoniah conceived Shealtiel. And Shealtiel conceived Zerubbabel
+    13: And Zerubbabel conceived Abiud. And Abiud conceived Eliakim. And Eliakim conceived Azor
+    14: And Azor conceived Zadok. And Zadok conceived Achim. And Achim conceived Eliud
+    15: And Eliud conceived Eleazar. And Eleazar conceived Matthan. And Matthan conceived Jacob
+    16: And Jacob conceived Joseph, the husband of Mary, of whom was born Jesus, who is called Christ
+    17: And so, all the generations from Abraham to David are fourteen generations; and from David to the transmigration of Babylon, fourteen generations; and from the transmigration of Babylon to the Christ, fourteen generations
+    18: Now the procreation of the Christ occurred in this way. After his mother Mary had been betrothed to Joseph, before they lived together, she was found to have conceived in her womb by the Holy Spirit
+    19: Then Joseph, her husband, since he was just and was not willing to hand her over, preferred to send her away secretly
+    20: But while thinking over these things, behold, an Angel of the Lord appeared to him in his sleep, saying: “Joseph, son of David, do not be afraid to accept Mary as your wife. For what has been formed in her is of the Holy Spirit
+    21: And she shall give birth to a son. And you shall call his name JESUS. For he shall accomplish the salvation of his people from their sins.
+    22: Now all this occurred in order to fulfill what was spoken by the Lord through the prophet, saying
+    23: “Behold, a virgin shall conceive in her womb, and she shall give birth to a son. And they shall call his name Emmanuel, which means: God is with us.
+    24: Then Joseph, arising from sleep, did just as the Angel of the Lord had instructed him, and he accepted her as his wife
+    25: And he knew her not, yet she bore her son, the firstborn. And he called his name JESUS
+
+  Chapter 2.
+
+    1: And so, when Jesus had been born in Bethlehem of Judah, in the days of king Herod, behold, Magi from the east arrived in Jerusalem
+    2: saying: “Where is he who was born king of the Jews? For we have seen his star in the east, and we have come to adore him.
+    3: Now king Herod, hearing this, was disturbed, and all Jerusalem with him
+    4: And gathering together all the leaders of the priests, and the scribes of the people, he consulted with them as to where the Christ would be born
+    5: And they said to him: “In Bethlehem of Judea. For so it has been written by the prophet
+    6: ‘And you, Bethlehem, the land of Judah, are by no means least among the leaders of Judah. For from you shall go forth the ruler who shall guide my people Israel.’ 
+    7: Then Herod, quietly calling the Magi, diligently learned from them the time when the star appeared to them
+    8: And sending them into Bethlehem, he said: “Go and diligently ask questions about the boy. And when you have found him, report back to me, so that I, too, may come and adore him.
+    9: And when they had heard the king, they went away. And behold, the star that they had seen in the east went before them, even until, arriving, it stood still above the place where the child was
+    10: Then, seeing the star, they were gladdened by a very great joy
+    11: And entering the home, they found the boy with his mother Mary. And so, falling prostrate, they adored him. And opening their treasures, they offered him gifts: gold, frankincense, and myrrh
+    12: And having received a response in sleep that they should not return to Herod, they went back by another way to their own region
+    13: And after they had gone away, behold, an Angel of the Lord appeared in sleep to Joseph, saying: “Rise up, and take the boy and his mother, and flee into Egypt. And remain there until I tell you. For it will happen that Herod will seek the boy to destroy him.
+    14: And getting up, he took the boy and his mother by night, and withdrew into Egypt
+    15: And he remained there, until the death of Herod, in order to fulfill what was spoken by the Lord through the prophet, saying: “Out of Egypt, I called my son.
+    16: Then Herod, seeing that he had been fooled by the Magi, was very angry. And so he sent to kill all the boys who were in Bethlehem, and in all its borders, from two years of age and under, according to the time that he had learned by questioning the Magi
+    17: Then what was spoken through the prophet Jeremiah was fulfilled, saying
+    18: “A voice has been heard in Ramah, great weeping and wailing: Rachel crying for her sons. And she was not willing to be consoled, because they were no more.
+    19: Then, when Herod had passed away, behold, an Angel of the Lord appeared in sleep to Joseph in Egypt
+    20: saying: “Rise up, and take the boy and his mother, and go into the land of Israel. For those who were seeking the life of the boy have passed away.
+    21: And rising up, he took the boy and his mother, and he went into the land of Israel
+    22: Then, hearing that Archelaus reigned in Judea in place of his father Herod, he was afraid to go there. And being warned in sleep, he withdrew into parts of Galilee
+    23: And arriving, he lived in a city which is called Nazareth, in order to fulfill what was spoken through the prophets: “For he shall be called a Nazarene.
+
+  Chapter 3.
+
+    1: Now in those days, John the Baptist arrived, preaching in the desert of Judea
+    2: and saying: “Repent. For the kingdom of heaven has drawn near.
+    3: For this is the one who was spoken of through the prophet Isaiah, saying: “A voice crying out in the desert: Prepare the way of the Lord. Make straight his paths.
+    4: Now the same John had a garment made from the hair of camels, and a leather belt around his waist. And his food was locusts and wild honey
+    5: Then Jerusalem, and all Judea, and the entire region around the Jordan went out to him
+    6: And they were baptized by him in the Jordan, acknowledging their sins
+    7: Then, seeing many of the Pharisees and Sadducees arriving for his baptism, he said to them: “Progeny of vipers, who warned to you to flee from the approaching wrath
+    8: Therefore, produce fruit worthy of repentance
+    9: And do not choose to say within yourselves, ‘We have Abraham as our father.’ For I tell you that God has the power to raise up sons to Abraham from these stones
+    10: For even now the axe has been placed at the root of the trees. Therefore, every tree that does not produce good fruit shall be cut down and cast into the fire
+    11: Indeed, I baptize you with water for repentance, but he who will come after me is more powerful than me. I am not worthy to carry his shoes. He will baptize you with the fire of the Holy Spirit
+    12: His winnowing fan is in his hand. And he will thoroughly cleanse his threshing floor. And he will gather his wheat into the barn. But the chaff he will burn with unquenchable fire.
+    13: Then Jesus came from Galilee, to John at the Jordan, in order to be baptized by him
+    14: But John refused him, saying, “I ought to be baptized by you, and yet you come to me?
+    15: And responding, Jesus said to him: “Permit this for now. For in this way it is fitting for us to fulfill all justice.” Then he allowed him
+    16: And Jesus, having been baptized, ascended from the water immediately, and behold, the heavens were opened to him. And he saw the Spirit of God descending like a dove, and alighting on him
+    17: And behold, there was a voice from heaven, saying: “This is my beloved Son, in whom I am well pleased.
+
+  Chapter 4.
+
+    1: Then Jesus was led by the Spirit into the desert, in order to be tempted by the devil
+    2: And when he had fasted for forty days and forty nights, afterwards he was hungry
+    3: And approaching, the tempter said to him, “If you are the Son of God, tell these stones to become bread.
+    4: And in response he said, “It has been written: ‘Not by bread alone shall man live, but by every word that proceeds from the mouth of God.’ 
+    5: Then the devil took him up, into the holy city, and set him on the pinnacle of the temple
+    6: and said to him: “If you are the Son of God, cast yourself down. For it has been written: ‘For he has given charge of you to his angels, and they shall take you into their hands, lest perhaps you may hurt your foot against a stone.’ 
+    7: Jesus said to him, “Again, it has been written: ‘You shall not tempt the Lord your God.’ 
+    8: Again, the devil took him up, onto a very high mountain, and showed him all the kingdoms of the world and their glory
+    9: and said to him, “All these things I will give to you, if you will fall down and adore me.
+    10: Then Jesus said to him: “Go away, Satan. For it has been written: ‘You shall adore the Lord your God, and him only shall you serve.’ 
+    11: Then the devil left him. And behold, Angels approached and ministered to him
+    12: And when Jesus had heard that John had been handed over, he withdrew into Galilee
+    13: And leaving behind the city of Nazareth, he went and lived in Capernaum, near the sea, at the borders of Zebulun and of Naphtali
+    14: in order to fulfill what was said through the prophet Isaiah
+    15: “Land of Zebulun and land of Naphtali, the way of the sea across the Jordan, Galilee of the Gentiles
+    16: A people who were sitting in darkness have seen a great light. And unto those sitting in the region of the shadow of death, a light has risen.
+    17: From that time, Jesus began to preach, and to say: “Repent. For the kingdom of heaven has drawn near.
+    18: And Jesus, walking near the Sea of Galilee, saw two brothers, Simon who is called Peter, and his brother Andrew, casting a net into the sea (for they were fishermen)
+    19: And he said to them: “Follow me, and I will make you fishers of men.
+    20: And at once, leaving behind their nets, they followed him
+    21: And continuing on from there, he saw another two brothers, James of Zebedee, and his brother John, in a ship with their father Zebedee, repairing their nets. And he called them
+    22: And immediately, leaving their nets and their father behind, they followed him
+    23: And Jesus traveled throughout all of Galilee, teaching in their synagogues, and preaching the Gospel of the kingdom, and healing every sickness and every infirmity among the people
+    24: And reports of him went out to all of Syria, and they brought to him all those who had maladies, those who were in the grasp of various sicknesses and torments, and those who were in the hold of demons, and the mentally ill, and paralytics. And he cured them
+    25: And a great crowd followed him from Galilee, and from the Ten Cities, and from Jerusalem, and from Judea, and from across the Jordan
+
+End of day 284.

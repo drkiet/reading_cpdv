@@ -1,0 +1,123 @@
+Day 1:
+
+Reading Genesis, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: In the beginning, God created heaven and earth
+    2: But the earth was empty and unoccupied, and darknesses were over the face of the abyss; and so the Spirit of God was brought over the waters
+    3: And God said, “Let there be light.” And light became
+    4: And God saw the light, that it was good; and so he divided the light from the darknesses
+    5: And he called the light, ‘Day,’ and the darknesses, ‘Night.’ And it became evening and morning, one day
+    6: God also said, “Let there be a firmament in the midst of the waters, and let it divide waters from waters.
+    7: And God made a firmament, and he divided the waters that were under the firmament, from those that were above the firmament. And so it became
+    8: And God called the firmament ‘Heaven.’ And it became evening and morning, the second day
+    9: Truly God said: “Let the waters that are under heaven be gathered together into one place; and let the dry land appear.” And so it became
+    10: And God called the dry land, ‘Earth,’ and he called the gathering of the waters, ‘Seas.’ And God saw that it was good
+    11: And he said, “Let the land spring forth green plants, both those producing seed, and fruit-bearing trees, producing fruit according to their kind, whose seed is within itself, over all the earth.” And so it became
+    12: And the land brought forth green plants, both those producing seed, according to their kind, and trees producing fruit, with each having its own way of sowing, according to its species. And God saw that it was good
+    13: And it became evening and the morning, the third day
+    14: Then God said: “Let there be lights in the firmament of heaven. And let them divide day from night, and let them become signs, both of the seasons, and of the days and years
+    15: Let them shine in the firmament of heaven and illuminate the earth.” And so it became
+    16: And God made two great lights: a greater light, to rule over the day, and a lesser light, to rule over the night, along with the stars
+    17: And he set them in the firmament of heaven, to give light over all the earth
+    18: and to rule over the day as well as the night, and to divide light from darkness. And God saw that it was good
+    19: And it became evening and morning, the fourth day
+    20: And then God said, “Let the waters produce animals with a living soul, and flying creatures above the earth, under the firmament of heaven.
+    21: And God created the great sea creatures, and everything with a living soul and the ability to move that the waters produced, according to their species, and all the flying creatures, according to their kind. And God saw that it was good
+    22: And he blessed them, saying: “Increase and multiply, and fill the waters of the sea. And let the birds be multiplied above the land.
+    23: And it became evening and morning, the fifth day
+    24: God also said, “Let the land produce living souls in their kind: cattle, and animals, and wild beasts of the earth, according to their species.” And so it became
+    25: And God made the wild beasts of the earth according to their species, and the cattle, and every animal on the land, according to its kind. And God saw that it was good
+    26: And he said: “Let us make Man to our image and likeness. And let him rule over the fish of the sea, and the flying creatures of the air, and the wild beasts, and the entire earth, and every animal that moves on the earth.
+    27: And God created man to his own image; to the image of God he created him; male and female, he created them
+    28: And God blessed them, and he said, “Increase and multiply, and fill the earth, and subdue it, and have dominion over the fish of the sea, and the flying creatures of the air, and over every living thing that moves upon the earth.
+    29: And God said: “Behold, I have given you every seed-bearing plant upon the earth, and all the trees that have in themselves the ability to sow their own kind, to be food for you
+    30: and for all the animals of the land, and for all the flying things of the air, and for everything that moves upon the earth and in which there is a living soul, so that they may have these on which to feed.” And so it became
+    31: And God saw everything that he had made. And they were very good. And it became evening and morning, the sixth day
+
+  Chapter 2.
+
+    1: And so the heavens and the earth were completed, with all their adornment
+    2: And on the seventh day, God fulfilled his work, which he had made. And on the seventh day he rested from all his work, which he had accomplished
+    3: And he blessed the seventh day and sanctified it. For in it, he had ceased from all his work: the work whereby God created whatever he should make
+    4: These are the generations of heaven and earth, when they were created, in the day when the Lord God made heaven and earth
+    5: and every sapling of the field, before it would rise up in the land, and every wild plant, before it would germinate. For the Lord God had not  brought rain upon the earth, and there was no man to work the land
+    6: But a fountain ascended from the earth, irrigating the entire surface of the land
+    7: And then the Lord God formed man from the clay of the earth, and he breathed into his face the breath of life, and man became a living soul
+    8: Now the Lord God had planted a Paradise of enjoyment from the beginning. In it, he placed the man whom he had formed
+    9: And from the soil the Lord God produced every tree that was beautiful to behold and pleasant to eat. And even the tree of life was in the midst of Paradise, and the tree of the knowledge of good and evil
+    10: And a river went forth from the place of enjoyment so as to irrigate Paradise, which is divided from there into four heads
+    11: The name of one is the Phison; it is that which runs through all the land of Hevilath, where gold is born
+    12: and the gold of that land is the finest. In that place is found bdellium and the onyx stone
+    13: And the name of the second river is the Gehon; it is that which runs through all the land of Ethiopia
+    14: Truly, the name of the third river is the Tigris; it advances opposite the Assyrians. But the fourth river, it is the Euphrates
+    15: Thus, the Lord God brought the man, and put him into the Paradise of enjoyment, so that it would be attended and preserved by him
+    16: And he instructed him, saying: “From every tree of Paradise, you shall eat
+    17: But from the tree of the knowledge of good and evil, you shall not eat. For in whatever day you will eat from it, you will die a death.
+    18: The Lord God also said: “It is not good for the man to be alone. Let us make a helper for him similar to himself.
+    19: Therefore, the Lord God, having formed from the soil all the animals of the earth and all the flying creatures of the air, brought them to Adam, in order to see what he would call them. For whatever Adam  would call any living creature, that would be its name
+    20: And Adam called each of the living things by their names: all the flying creatures of the air, and all the wild beasts of the land. Yet truly, for Adam, there was not found a helper similar to himself
+    21: And so the Lord God sent a deep sleep upon Adam. And when he was fast asleep, he took one of his ribs, and he completed it with flesh for it
+    22: And the Lord God built up the rib, which he took from Adam, into a woman. And he led her to Adam
+    23: And Adam said: “Now this is bone from my bones, and flesh from my flesh. This one shall be called woman, because she was taken from man.
+    24: For this reason, a man shall leave behind his father and mother, and he shall cling to his wife; and the two shall be as one flesh
+    25: Now they were both naked: Adam, of course, and his wife. And they were not ashamed
+
+  Chapter 3.
+
+    1: However, the serpent was more crafty than any of the creatures of the earth that the Lord God had made. And he said to the woman, “Why has God instructed you, that you should not eat from every tree of Paradise?
+    2: The woman responded to him: “From the fruit of the trees which are in Paradise, we eat
+    3: Yet truly, from the fruit of the tree which is in the middle of Paradise, God has instructed us that we should not eat, and that we should not touch it, lest perhaps we may die.
+    4: Then the serpent said to the woman: “By no means will you die a death
+    5: For God knows that, on whatever day you will eat from it, your eyes will be opened; and you will be like gods, knowing good and evil.
+    6: And so the woman saw that the tree was good to eat, and beautiful to the eyes, and delightful to consider. And she took from its fruit, and she ate. And she gave to her husband, who ate
+    7: And the eyes of them both were opened. And when they realized themselves to be naked, they joined together fig leaves and made coverings for themselves
+    8: And when they had heard the voice of the Lord God taking a walk in Paradise in the afternoon breeze, Adam and his wife hid themselves from the face of the Lord God in the midst of the trees of Paradise
+    9: And the Lord God called Adam and said to him: “Where are you?
+    10: And he said, “I heard your voice in Paradise, and I was afraid, because I was naked, and so I hid myself.
+    11: He said to him, “Then who told you that you were naked, if you have not eaten of the tree from which I instructed you that you should not eat?
+    12: And Adam said, “The woman, whom you gave to me as a companion, gave to me from the tree, and I ate.
+    13: And the Lord God said to the woman, “Why have you done this?” And she responded, “The serpent deceived me, and I ate.
+    14: And the Lord God said to the serpent: “Because you have done this, you are cursed among all living things, even the wild beasts of the earth. Upon your breast shall you travel, and the ground shall you eat, all the days of your life
+    15: I will put enmities between you and the woman, between your offspring and her offspring. She will crush your head, and you will lie in wait for her heel.
+    16: To the woman, he also said: “I will multiply your labors and your conceptions. In pain shall you give birth to sons, and you shall be under your husband’s power, and he shall have dominion over you.
+    17: Yet truly, to Adam, he said: “Because you have listened to the voice of your wife, and have eaten of the tree, from which I instructed you that you should not eat, cursed is the land that you work. In hardship shall you eat from it, all the days of your life
+    18: Thorns and thistles shall it produce for you, and you shall eat the plants of the earth
+    19: By the sweat of your face shall you eat bread, until you return to the earth from which you were taken. For dust you are, and unto dust you shall return.
+    20: And Adam called the name of his wife, ‘Eve,’ because she was the mother of all the living
+    21: The Lord God also made for Adam and his wife garments from skins, and he clothed them
+    22: And he said: “Behold, Adam has become like one of us, knowing good and evil. Therefore, now perhaps he may put forth his hand and also take from the tree of life, and eat, and live in eternity.
+    23: And so the Lord God sent him away from the Paradise of enjoyment, in order to work the earth from which he was taken
+    24: And he cast out Adam. And in front of the Paradise of enjoyment, he placed the Cherubim with a flaming sword, turning together, to guard the way to the tree of life
+
+  Chapter 4.
+
+    1: Truly, Adam knew his wife Eve, who conceived and gave birth to Cain, saying, “I have obtained a man through God.
+    2: And again she gave birth to his brother Abel. But Abel was a pastor of sheep, and Cain was a farmer
+    3: Then it happened, after many days, that Cain offered gifts to the Lord, from the fruits of the earth
+    4: Abel likewise offered from the firstborn of his flock, and from their fat. And the Lord looked with favor on Abel and his gifts
+    5: Yet in truth, he did not look with favor on Cain and his gifts. And Cain was vehemently angry, and his countenance fell
+    6: And the Lord said to him: “Why are you angry? And why is your face fallen
+    7: If you behave well, will you not receive? But if you behave badly, will not sin at once be present at the door? And so its desire will be within you, and you will be dominated by it.
+    8: And Cain said to his brother Abel, “Let us go outside.” And when they were in the field, Cain rose up against his brother Abel, and he put him to death
+    9: And the Lord said to Cain, “Where is your brother Abel?” And he responded: “I do not know. Am I my brother’s keeper?
+    10: And he said to him: “What have you done? The voice of your brother’s blood cries out to me from the land
+    11: Now, therefore, you will be cursed upon the land, which opened its mouth and received the blood of your brother at your hand
+    12: When you work it, it will not give you its fruit; a vagrant and a fugitive shall you be upon the land.
+    13: And Cain said to the Lord: “My iniquity is too great to deserve kindness
+    14: Behold, you have cast me out this day before the face of the earth, and from your face I will be hidden; and I will be a vagrant and a fugitive on the earth. Therefore, anyone who finds me will kill me.
+    15: And the Lord said to him: “By no means will it be so; rather, whoever would kill Cain, will be punished sevenfold.” And the Lord placed a seal upon Cain, so that anyone who found him would not  put him to death
+    16: And so Cain, departing from the face of the Lord, lived as a fugitive on the earth, toward the eastern region of Eden
+    17: Then Cain knew his wife, and she conceived and gave birth to Enoch. And he built a city, and he called its name by the name of his son, Enoch
+    18: Thereafter, Enoch conceived Irad, and Irad conceived Mahujael, and Mahujael conceived Mathusael, and Mathusael conceived Lamech
+    19: Lamech took two wives: the name of one was Adah, and the name of the other was Zillah
+    20: And Adah conceived Jabel, who was the father of those who live in tents and are shepherds
+    21: And the name of his brother was Jubal; he was the father of those who sing to the harp and the organ
+    22: Zillah also conceived Tubalcain, who was a hammerer and artisan in every work of brass and iron. In fact, the sister of Tubalcain was Noema
+    23: And Lamech said to his wives Adah and Zillah: “Listen to my voice, you wives of Lamech, pay attention to my speech. For I have killed a man to my own harm, and an adolescent to my own bruising
+    24: Sevenfold vengeance will be given for Cain, but for Lamech, seventy-seven times.
+    25: Adam also knew his wife again, and she gave birth to a son, and she called his name Seth, saying, “God has given me another offspring, in place of Abel, whom Cain killed.
+    26: But to Seth also was born a son, whom he called Enos. This one began to invoke the name of the Lord
+
+End of day 1.

@@ -1,0 +1,88 @@
+Day 122:
+
+Reading Esther, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: After this, king Artaxerxes exalted Haman, the son of Hammedatha, who was of Agag lineage, and he set his throne above all the rulers whom he had
+    2: And all the king’s servants, who passed by the doors of the palace, bent their knees and adored Haman, for so the ruler had instructed them. Only Mordecai did not bend his knee, nor adore him
+    3: The king’s servants, who presided over the doors of the palace, said to him, “Why do you, more than the others, not observe the king’s command?
+    4: And when they were saying this frequently, and he would not listen to them, they reported it to Haman, desiring to know whether he would continue in his resolution, for he had told them that he was a Jew
+    5: Now when Haman had heard this, and had proved by a test that Mordecai did not bend his knee to him, nor adore him, he was very angry
+    6: And he considered it pointless to lay his hands on Mordecai alone, for he had heard that he was part of the Jewish people. And so he wanted more: to destroy the entire nation of the Jews, who were in the kingdom of Artaxerxes
+    7: In the first month, which is called Nisan, in the twelfth year of the reign of Artaxerxes, the lot was cast into an urn, which in Hebrew is called Pur, in the presence of Haman, to determine on what day and in which month the Jewish people should be destroyed. And it turned out to be the twelfth month, which is called Adar
+    8: And Haman said to king Artaxerxes, “There is a people dispersed throughout all the provinces of your kingdom and separated one from another, who make use of unusual laws and ceremonies, and who, in addition, show contempt for the king’s ordinances. And you know very well that it is not expedient for your kingdom that they should become insolent through independence
+    9: If it pleases you, declare that they may be destroyed, and I will weigh out ten thousand talents to the keepers of your treasury.
+    10: And so the king took the ring that he used, from his own hand, and gave it to Haman, the son of Hammedatha, of Agag lineage, enemy of the Jews
+    11: And he said to him, “Let the silver, which you promise, be for yourself. As for the people, do with them as it pleases you.
+    12: And the scribes of the king were summoned, in the first month Nisan, on the thirteenth day of the same month. And it was written, as Haman had commanded, to all the king’s governors, and to the judges of the provinces, and to various peoples, so that each people could read and hear according to their various languages, in the name of king Artaxerxes. And the letters were sealed with his ring
+    13: These were sent by the king’s messengers to all the provinces, so as to kill and destroy all the Jews, from children all the way to the elderly, even little children and women, on one day, that is, on the thirteenth of the twelfth month, which is called Adar, and to plunder their goods, even their necessities
+
+  Chapter 6.
+
+    1: And this was the text of the letter: “Artaxerxes, the great king from India all the way to Ethiopia, to the leaders and generals of the one hundred twenty-seven provinces, which are subject to his authority, greetings
+    2: Although I have reigned over many nations and subjugated the whole world under my realm, I was by no means willing to abuse the greatness of this power, but to govern my subjects with clemency and leniency, so that they would settle into a quiet life, apart from any terror, and delight in peace, as all mortals would choose to do
+    3: Yet, in asking my counselors how this might be able to be accomplished, one who excelled the others in wisdom and fidelity, and who was second after the king, named Haman
+    4: explained to me that there was a people, scattered throughout the whole world, that used strange laws, and, acting against the customs of all peoples, despised the commandments of kings and violated the harmony of all nations with their dissension
+    5: When we had learned this, seeing one nation rebellious against all mankind, having overthrown the usefulness of laws, and going against our orders, and disturbing the peace and harmony of the provinces subject to us
+    6: we commanded that whomever Haman, who is chief over all the provinces, and second after the king, and whom we honor in the place of a father, whomever he would point out should be destroyed by their enemies, with their wives and children, and that no one may take pity on them, on the fourteenth day of the twelfth month Adar of this present year
+    7: so that these guilty men, all on one day, may go down to the underworld, restoring to our empire the peace that they had disturbed.
+    8: And the effect of the letters was this: that all provinces would know and prepare for the prescribed day
+    9: The couriers, who had been sent, hurried to complete the king’s command, but the edict was hung up in Susa immediately. And the king and Haman celebrated a feast, while all the Jews in the city were weeping
+
+  Chapter 7.
+
+    1: When Mordecai had heard this, he tore his garments and put on sackcloth, strewing ashes on his head, and he cried out with a loud voice in the main street of the city, revealing the anguish of his soul
+    2: And he continued with this lamenting, even up to the gate of the palace, for no one clothed with sackcloth is permitted to enter the king’s court
+    3: Likewise, in all provinces, towns, and places where the king’s cruel decision arrived, there was extraordinary mourning among the Jews with fasting, wailing, and weeping, with many using sackcloth and ashes for their bed
+    4: Then Esther’s maids and eunuchs went in and informed her. When she heard it, she was shocked, and she sent a garment to clothe him and to take away the sackcloth, but he would not accept it
+    5: And she sent for Hathach the eunuch, whom the king had appointed to minister to her, and she instructed him to go to Mordecai and to discern from him why he was doing this
+    6: And departing, Hathach went to Mordecai, who was standing in the street of the city, in front of the palace entrance
+    7: He told him everything that had happened, how Haman had promised to transfer silver into the king’s treasury for the death of the Jews
+    8: Also, he gave him a copy of the edict that was hanging up in Susa, so that he would show it to the queen and advise her to go in to the king and beg him on behalf of her people
+    9: And Hathach returned and informed Esther of all that Mordecai had said
+    10: “Remember,” he said, “the days of your lowliness, how you were nurtured as if in my hand, because Haman, who is second after the king, has spoken against us to death
+    11: And you must call upon the Lord, and speak with the king on our behalf, and free us from death.
+    12: She answered him, and ordered him say to Mordecai
+    13: “All the servants of the king and all the provinces that are under his realm understand that anyone, whether man or woman, who enters the king’s inner court, who has not been summoned, is immediately to be put to death without any delay, unless the king should happen to extend the golden scepter to him, as a sign of clemency, so that he will be able to live. How then can I go in to the king, when, for thirty days now, I have not been called to him?
+    14: And when Mordecai had heard this, he again sent word to Esther, saying, “Do not think that you will save so much as your own soul, just because you are in the king’s house and are above all the Jews
+    15: For, if you remain silent now, the Jews will be delivered through some other opportunity, but you and your father’s house will perish. And who knows whether you have come to the kingdom for this reason, so that you would be prepared for such a time as this?
+    16: And he entrusted her (there was no question but that it was Mordecai) to go in to the king, and to petition on behalf of her people and her native land
+    17: And again Esther sent to Mordecai in these words
+    18: “Go and gather together all the Jews whom you will find in Susa, and pray for me. Neither eat nor drink for three days and three nights, and I will fast with my handmaids similarly, and then I will go in to the king, doing what is against the law, not having been called, and so expose myself to mortal danger.
+    19: And so Mordecai went, and he did everything that Esther had instructed him
+    20: Now Mordecai beseeched the Lord, remembering all his works
+    21: and he said, “O Lord, Lord, almighty King, truly all things are possible for you, and there is no one who is able to resist your will, if you would determine to save Israel
+    22: You have created heaven and earth, and everything that is contained under the cycle of heaven
+    23: You are Lord of all, and there is no one who can resist your majesty
+    24: You know everything, and you know that it was not out of arrogance or indignation or some desire for glory that I did this, so that I refused to adore the very proud Haman
+    25: (For I was freely prepared, for the sake of the salvation of Israel, to have willingly kissed even the footsteps of his feet.
+    26: But I feared, lest I should transfer the honor of my God to a man, and lest I should adore anyone except my God
+    27: And now Lord, King, God of Abraham, may you have mercy on your people because our enemies want to destroy us and to erase your inheritance
+    28: Do not despise your portion, which you have redeemed for yourself out of Egypt
+    29: Listen to my supplication, and be gracious to your lot and your token, and change our sorrow into gladness, so that, in living, we may praise your name, Lord; and do not close the mouths of those who sing to you.
+    30: Likewise, all Israel cried out to the Lord with the same intention and supplication because certain death was hanging over them
+
+  Chapter 8.
+
+    1: Queen Esther also, fearing the danger that was imminent, fled to the Lord
+    2: And when she had put aside her royal apparel, she took up garments suitable for weeping and mourning, and instead of various ointments, she covered her head with ashes from burnt dung, and she humbled her body with fasting, and all the aspects of her beauty, she covered with her torn hair
+    3: And she begged the Lord God of Israel, saying, “My Lord, who alone is our King, help me, a solitary woman, for there is no other helper but you
+    4: My peril is close at hand
+    5: I have heard from my father that you, Lord, chose Israel from among all nations and our fathers from among all their former ancestors, to possess them as an everlasting inheritance, and you have done for them just as you said
+    6: We have sinned in your sight, and therefore you have delivered us into the hands of our enemies
+    7: for we have worshipped their gods. You are just, O Lord
+    8: And now they are not content to oppress us with a very difficult servitude, but attributing the strength of their hands to the power of their idols
+    9: they want to alter your promises, and erase your inheritance, and close the mouths of those who praise you, and extinguish the glory of your temple and your altar
+    10: so that they may open the mouths of the nations, and praise the strength of idols, and proclaim a worldly king in perpetuity
+    11: Lord, do not hand over your scepter to that which does not exist, lest they laugh at our ruin, but turn their counsel upon themselves and destroy him who has begun to rage against us
+    12: Be mindful, Lord, and show yourself to us in the time of our tribulation, and give me faith, Lord, King of gods and of every power
+    13: Grant fitting words to my mouth in the sight of the lion, and transform his heart to hate our enemy, so that both he, and the others who conspire with him, may perish
+    14: But free us by your hand, and help me, who has no other helper but you, Lord, who holds the knowledge of all things
+    15: And you know that I hate the glory of the wicked, and I detest the bed of the uncircumcised, and of all outsiders
+    16: You know my necessity, that I loathe the sign of my exaltation and glory, which is on my head in the days of my exhibition, and that I detest it like a menstruous rag and do not wear it in the days of my silence
+    17: and that I have not eaten at Haman’s table, nor has the king’s feasts pleased me, and that I have not drunk the wine of his libations
+    18: and that your handmaid has never rejoiced, from the time that I was carried here until this very day, except in you, Lord, God of Abraham
+    19: O God, whose strength is above all things, heed the voice of those who have no other hope, and free us from the hand of the wicked, and rescue me from my fear.
+
+End of day 122.

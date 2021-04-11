@@ -1,0 +1,153 @@
+Day 307:
+
+Reading Acts, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Certainly, O Theophilus, I composed the first discourse about everything that Jesus began to do and to teach
+    2: instructing the Apostles, whom he had chosen through the Holy Spirit, even until the day on which he was taken up
+    3: He also presented himself alive to them, after his Passion, appearing to them throughout forty days and speaking about the kingdom of God with many elucidations
+    4: And dining with them, he instructed them that they should not depart from Jerusalem, but that they should wait for the Promise of the Father, “about which you have heard,” he said, “from my own mouth
+    5: For John, indeed, baptized with water, but you shall be baptized with the Holy Spirit, not many days from now.
+    6: Therefore, those who had assembled together questioned him, saying, “Lord, is this the time when you will restore the kingdom of Israel?
+    7: But he said to them: “It is not yours to know the times or the moments, which the Father has set by his own authority
+    8: But you shall receive the power of the Holy Spirit, passing over you, and you shall be witnesses for me in Jerusalem, and in all Judea and Samaria, and even to the ends of the earth.
+    9: And when he had said these things, while they were watching, he was lifted up, and a cloud took him from their sight
+    10: And while they were watching him going up to heaven, behold, two men stood near them in white vestments
+    11: And they said: “Men of Galilee, why do you stand here looking up toward heaven? This Jesus, who has been taken up from you into heaven, shall return in just the same way that you have seen him going up to heaven.
+    12: Then they returned to Jerusalem from the mountain, which is called Olivet, which is next to Jerusalem, within a Sabbath day’s journey
+    13: And when they had entered into the cenacle, they ascended to the place where Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James of Alphaeus and Simon the Zealot, and Jude of James, were staying
+    14: All these were persevering with one accord in prayer with the women, and with Mary, the mother of Jesus, and with his brothers
+    15: In those days, Peter, rising up in the midst of the brothers, said (now the crowd of men altogether was about one hundred and twenty)
+    16: “Noble brothers, the Scripture must be fulfilled, which the Holy Spirit predicted by the mouth of David about Judas, who was the leader of those who apprehended Jesus
+    17: He had been numbered among us, and he was chosen by lot for this ministry
+    18: And this man certainly possessed an estate from the wages of iniquity, and so, having been hanged, he burst open in the middle and all his internal organs poured out
+    19: And this became known to all the inhabitants of Jerusalem, so that this field was called in their language, Akeldama, that is, ‘Field of Blood.
+    20: For it has been written in the book of Psalms: ‘Let their dwelling place be desolate and may there be no one who dwells within it,’ and ‘Let another take his episcopate.
+    21: Therefore, it is necessary that, out of these men who have been assembling with us throughout the entire time that the Lord Jesus went in and out among us
+    22: beginning from the baptism of John, until the day when he was taken up from us, one of these be made a witness with us of his Resurrection.
+    23: And they appointed two: Joseph, who was called Barsabbas, who was surnamed Justus, and Matthias
+    24: And praying, they said: “May you, O Lord, who knows the heart of everyone, reveal which one of these two you have chosen
+    25: to take a place in this ministry and apostleship, from which Judas prevaricated, so that he might go to his own place.
+    26: And they cast lots concerning them, and the lot fell upon Matthias. And he was numbered with the eleven Apostles
+
+  Chapter 2.
+
+    1: And when the days of Pentecost were completed, they were all together in the same place
+    2: And suddenly, there came a sound from heaven, like that of a wind approaching violently, and it filled the entire house where they were sitting
+    3: And there appeared to them separate tongues, as if of fire, which settled upon each one of them
+    4: And they were all filled with the Holy Spirit. And they began to speak in various languages, just as the Holy Spirit bestowed eloquence to them
+    5: Now there were Jews staying in Jerusalem, pious men from every nation that is under heaven
+    6: And when this sound occurred, the multitude came together and was confused in mind, because each one was listening to them speaking in his own language
+    7: Then all were astonished, and they wondered, saying: “Behold, are not all of these who are speaking Galileans
+    8: And how is it that we have each heard them in our own language, into which we were born
+    9: Parthians and Medes and Elamites, and those who inhabit Mesopotamia, Judea and Cappadocia, Pontus and Asia
+    10: Phrygia and Pamphylia, Egypt and the parts of Libya which are around Cyrene, and new arrivals of the Romans
+    11: likewise Jews and new converts, Cretans and Arabs: we have heard them speaking in our own languages the mighty deeds of God.
+    12: And they were all astonished, and they wondered, saying to one another: “But what does this mean?
+    13: But others mockingly said, “These men are full of new wine.
+    14: But Peter, standing up with the eleven, lifted up his voice, and he spoke to them: “Men of Judea, and all those who are staying in Jerusalem, let this be known to you, and incline your ears to my words
+    15: For these men are not inebriated, as you suppose, for it is the third hour of the day
+    16: But this is what was spoken of by the prophet Joel
+    17: ‘And this shall be: in the last days, says the Lord, I will pour out, from my Spirit, upon all flesh. And your sons and your daughters shall prophesy. And your youths shall see visions, and your elders shall dream dreams
+    18: And certainly, upon my men and women servants in those days, I will pour out from my Spirit, and they shall prophesy
+    19: And I will bestow wonders in heaven above, and signs on earth below: blood and fire and the vapor of smoke
+    20: The sun shall be turned into darkness and the moon into blood, before the great and manifest day of the Lord arrives
+    21: And this shall be: whoever shall invoke the name of the Lord will be saved.
+    22: Men of Israel, hear these words: Jesus the Nazarene is a man confirmed by God among you through the miracles and wonders and signs that God accomplished through him in your midst, just as you also know
+    23: This man, under the definitive plan and foreknowledge of God, was delivered by the hands of the unjust, afflicted, and put to death
+    24: And he whom God has raised up has broken the sorrows of Hell, for certainly it was impossible for him to be held by it
+    25: For David said about him: ‘I foresaw the Lord always in my sight, for he is at my right hand, so that I may not be moved
+    26: Because of this, my heart has rejoiced, and my tongue has exulted. Moreover, my flesh shall also rest in hope
+    27: For you will not abandon my soul to Hell, nor will you allow your Holy One to see corruption
+    28: You have made known to me the ways of life. You will completely fill me with happiness by your presence.
+    29: Noble brothers, permit me to speak freely to you about the Patriarch David: for he passed away and was buried, and his sepulcher is with us, even to this very day
+    30: Therefore, he was a prophet, for he knew that God had sworn an oath to him about the fruit of his loins, about the One who would sit upon his throne
+    31: Foreseeing this, he was speaking about the Resurrection of the Christ. For he was neither left behind in Hell, nor did his flesh see corruption
+    32: This Jesus, God raised up again, and of this we are all witnesses
+    33: Therefore, being exalted to the right hand of God, and having received from the Father the Promise of the Holy Spirit, he poured this out, just as you now see and hear
+    34: For David did not ascend into heaven. But he himself said: ‘The Lord said to my Lord: Sit at my right hand
+    35: until I make your enemies your footstool.
+    36: Therefore, may the entire house of Israel know most certainly that God has made this same Jesus, whom you crucified, both Lord and Christ.
+    37: Now when they had heard these things, they were contrite in heart, and they said to Peter and to the other Apostles: “What should we do, noble brothers?
+    38: Yet truly, Peter said to them: “Do penance; and be baptized, each one of you, in the name of Jesus Christ, for the remission of your sins. And you shall receive the gift of the Holy Spirit
+    39: For the Promise is for you and for your sons, and for all who are far away: for whomever the Lord our God will have called.
+    40: And then, with very many other words, he testified and he exhorted them, saying, “Save yourselves from this depraved generation.
+    41: Therefore, those who accepted his discourse were baptized. And about three thousand souls were added on that day
+    42: Now they were persevering in the doctrine of the Apostles, and in the communion of the breaking of the bread, and in the prayers
+    43: And fear developed in every soul. Also, many miracles and signs were accomplished by the Apostles in Jerusalem. And there was a great awe in everyone
+    44: And then all who believed were together, and they held all things in common
+    45: They were selling their possessions and belongings, and dividing them to all, just as any of them had need
+    46: Also, they continued, daily, to be of one accord in the temple and to break bread among the houses; and they took their meals with exultation and simplicity of heart
+    47: praising God greatly, and holding favor with all the people. And every day, the Lord increased those who were being saved among them
+
+  Chapter 3.
+
+    1: Now Peter and John went up to the temple at the ninth hour of prayer
+    2: And a certain man, who was lame from his mother’s womb, was being carried in. They would lay him every day at the gate of the temple, which is called the Beautiful, so that he might request alms from those entering into the temple
+    3: And this man, when he had seen Peter and John beginning to enter the temple, was begging, so that he might receive alms
+    4: Then Peter and John, gazing at him, said, “Look at us.
+    5: And he looked intently at them, hoping that he might receive something from them
+    6: But Peter said: “Silver and gold is not mine. But what I have, I give to you. In the name of Jesus Christ the Nazarene, rise up and walk.
+    7: And taking him by the right hand, he lifted him up. And immediately his legs and feet were strengthened
+    8: And leaping up, he stood and walked around. And he entered with them into the temple, walking and leaping and praising God
+    9: And all the people saw him walking and praising God
+    10: And they recognized him, that he was the same one who was sitting for alms at the Beautiful Gate of the temple. And they were filled with awe and amazement at what had happened to him
+    11: Then, as he held on to Peter and John, all the people ran to them at the portico, which is called Solomon’s, in astonishment
+    12: But Peter, seeing this, responded to the people: “Men of Israel, why do you wonder at this? Or why do you stare at us, as if it were by our own strength or power that we caused this man to walk
+    13: The God of Abraham and the God of Isaac and the God of Jacob, the God of our fathers, has glorified his Son Jesus, whom you, indeed, handed over and denied before the face of Pilate, when he was giving judgment to release him
+    14: Then you denied the Holy and Just One, and petitioned for a murderous man to be given to you
+    15: Truly, it was the Author of Life whom you put to death, whom God raised from the dead, to whom we are witnesses
+    16: And by faith in his name, this man, whom you have seen and known, has confirmed his name. And faith through him has given this man complete health in the sight of you all
+    17: And now, brothers, I know that you did this through ignorance, just as your leaders also did
+    18: But in this way God has fulfilled the things that he announced beforehand through the mouth of all the Prophets: that his Christ would suffer
+    19: Therefore, repent and be converted, so that your sins may be wiped away
+    20: And then, when the time of consolation will have arrived from the presence of the Lord, he will send the One who was foretold to you, Jesus Christ
+    21: whom heaven certainly must take up, until the time of the restoration of all things, which God has spoken of by the mouth of his holy prophets, from ages past
+    22: Indeed, Moses said: ‘For the Lord your God shall raise up a Prophet for you from your brothers, one like me; the same shall you listen to according to everything whatsoever that he shall speak to you
+    23: And this shall be: every soul who will not listen to that Prophet shall be exterminated from the people.
+    24: And all the prophets who have spoken, from Samuel and thereafter, have announced these days
+    25: You are sons of the prophets and of the testament which God has appointed for our fathers, saying to Abraham: ‘And by your offspring all the families of the earth shall be blessed.
+    26: God raised up his Son and sent him first to you, to bless you, so that each one may turn himself away from his wickedness.
+
+  Chapter 4.
+
+    1: But while they were speaking to the people, the priests and the magistrate of the temple and the Sadducees overwhelmed them
+    2: being grieved that they were teaching the people and announcing in Jesus the resurrection from the dead
+    3: And they laid hands on them, and they placed them under guard until the next day. For it was now evening
+    4: But many of those who had heard the word believed. And the number of men became five thousand
+    5: And it happened on the next day that their leaders and elders and scribes gathered together in Jerusalem
+    6: including Annas, the high priest, and Caiaphas, and John and Alexander, and as many as were of the priestly family
+    7: And stationing them in the middle, they questioned them: “By what power, or in whose name, have you done this?
+    8: Then Peter, filled with the Holy Spirit, said to them: “Leaders of the people and elders, listen
+    9: If we today are judged by a good deed done to an infirm man, by which he has been made whole
+    10: let it be known to all of you and to all of the people of Israel, that in the name of our Lord Jesus Christ the Nazarene, whom you crucified, whom God has raised from the dead, by him, this man stands before you, healthy
+    11: He is the stone, which was rejected by you, the builders, which has become the head of the corner
+    12: And there is no salvation in any other. For there is no other name under heaven given to men, by which it is necessary for us to be saved.
+    13: Then, seeing the constancy of Peter and John, having verified that they were men without letters or learning, they wondered. And they recognized that they had been with Jesus
+    14: Also, seeing the man who had been cured standing with them, they were unable to say anything to contradict them
+    15: But they ordered them to withdraw outside, away from the council, and they conferred among themselves
+    16: saying: “What shall we do to these men? For certainly a public sign has been done through them, before all the inhabitants of Jerusalem. It is manifest, and we cannot deny it
+    17: But lest it spread further among the people, let us threaten them not to speak anymore in this name to any man.
+    18: And calling them in, they warned them not to speak or teach at all in the name of Jesus
+    19: Yet truly, Peter and John said in response to them: “Judge whether it is just in the sight of God to listen to you, rather than to God
+    20: For we are unable to refrain from speaking the things that we have seen and heard.
+    21: But they, threatening them, sent them away, having not found a way that they might punish them because of the people. For all were glorifying the things that had been done in these events
+    22: For the man in whom this sign of a cure had been accomplished was more than forty years old
+    23: Then, having been released, they went to their own, and they reported in full what the leaders of the priests and the elders had said to them
+    24: And when they had heard it, with one accord, they lifted up their voice to God, and they said: “Lord, you are the One who made heaven and earth, the sea and all that is in them
+    25: who, by the Holy Spirit, through the mouth of our father David, your servant, said: ‘Why have the Gentiles been seething, and why have the people been pondering nonsense
+    26: The kings of the earth have stood up, and the leaders have joined together as one, against the Lord and against his Christ.
+    27: For truly Herod and Pontius Pilate, with the Gentiles and the people of Israel, joined together in this city against your holy servant Jesus, whom you anointe
+    28: to do what your hand and your counsel had decreed would be done
+    29: And now, O Lord, look upon their threats, and grant to your servants that they may speak your word with all confidence
+    30: by extending your hand in cures and signs and miracles, to be done through the name of your holy Son, Jesus.
+    31: And when they had prayed, the place in which they were gathered was moved. And they were all filled with the Holy Spirit. And they were speaking the Word of God with confidence
+    32: Then the multitude of believers were of one heart and one soul. Neither did anyone say that any of the things that he possessed were his own, but all things were common to them
+    33: And with great power, the Apostles were rendering testimony to the Resurrection of Jesus Christ our Lord. And great grace was in them all
+    34: And neither was anyone among them in need. For as many as were owners of fields or houses, selling these, were bringing the proceeds of the things that they were selling
+    35: and were placing it before the feet of the Apostles. Then it was divided to each one, just as he had need
+    36: Now Joseph, who the Apostles surnamed Barnabas (which is translated as ‘son of consolation’), who was a Levite of Cyprian descent
+    37: since he had land, he sold it, and he brought the proceeds and placed these at the feet of the Apostles
+
+End of day 307.

@@ -1,0 +1,99 @@
+Day 125:
+
+Reading Job, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: There was a man in the land of Uz named Job, and he was a simple and honest man, fearing God and withdrawing from evil
+    2: And there had been born to him seven sons and three daughters
+    3: And his possession was seven thousand sheep, and three thousand camels, along with five hundred pairs of oxen and five hundred she-donkeys, and also a very large family. And this man was great among all the people of the east
+    4: And his sons went and made a feast by houses, each one on his day. And sending, they called their three sisters to eat and drink with them
+    5: And when the days of their feasting had been completed, Job sent to them and sanctified them, and, getting up at dawn, he offered holocausts for each one. For he said, “Perhaps my sons have sinned and have not praised God in their hearts.” So Job did all the days
+    6: But on a certain day, when the sons of God came to attend in the presence of the Lord, Satan also arrived among them
+    7: The Lord said to him, “Where do you come from?” Answering, he said, “I have circled the land, and walked around in it.
+    8: And the Lord said to him, “Have you not considered my servant, Job? For there is no one like him in the land, a simple and honest man, fearing God and withdrawing from evil.
+    9: Answering him, Satan said, “Does Job fear God to no purpose
+    10: Have you not fortified him, as well as his house and every one of his belongings around him, blessed the works of his hands, and his possession has increased in the land
+    11: But extend your hand a little, and touch all that he possesses, and see if he still praises you to your face.
+    12: Therefore, the Lord said to Satan, “Behold, everything that he has is in your hand, only do not extend your hand against him.” And Satan departed from the face of the Lord
+    13: So, on a certain day, when his sons and daughters were eating and drinking wine, in the house of their first-born brother
+    14: a messenger came to Job, who said, “The oxen were plowing, and the donkeys were grazing beside them
+    15: and the Sabeans rushed in and carried away everything, and they struck the servants with the sword; and I alone evaded them to tell you.
+    16: And while he was still speaking, another arrived, and he said, “The fire of God fell from heaven, and, having struck the sheep and the servants, it consumed them; and I alone escaped to tell you.
+    17: And while he also was still speaking, another arrived, and he said, “The Chaldeans organized three attacks, and advanced on the camels and took them; and not only that, but they have struck the servants with the sword; and I alone fled to tell you.
+    18: He was still speaking, and behold, another entered, and he said, “Your sons and daughters were feasting and drinking wine in the house of their first-born brother
+    19: when suddenly a severe wind rushed forth from a region of the desert and shook the four corners of the house, which collapsed and crushed your children, and they are dead; and I alone escaped to tell you.
+    20: Then Job got up and tore his garments, and, having shaved his head, he collapsed on the ground, and worshipped
+    21: and he said, “Naked I departed from my mother’s womb, and naked I shall return. The Lord gave, and the Lord has taken away. Just as it pleased the Lord, so has it been done. Blessed be the name of the Lord.
+    22: In all this, Job did not sin by his lips, nor did he speak any foolish thing against God
+
+  Chapter 2.
+
+    1: But it happened that, on a certain day, when the sons of God had arrived and they stood before the Lord, Satan likewise arrived among them, and he stood in his sight
+    2: So the Lord said to Satan, “Where do you come from?” Answering, he said, “I have circled the land, and walked around in it.
+    3: And the Lord said to Satan, “Have you not considered my servant, Job, that there is no one like him in the land, a simple and honest man, fearing God and withdrawing from evil, and still retaining his innocence? Yet you have stirred me against him, so that I would afflict him to no purpose.
+    4: Answering him, Satan said, “Skin for skin; and everything that a man has, he will give for his life
+    5: Yet send your hand and touch his bone and his flesh, and then you will see whether or not he blesses you to your face.
+    6: Therefore, the Lord said to Satan, “Behold, he is in your hand, but even so, spare his life.
+    7: And so, Satan departed from the face of the Lord and he struck Job with a very serious ulcer from the sole of the foot all the way to the crown of his head
+    8: So he took a shard of earthenware and scraped the discharge, while sitting on a heap of refuse
+    9: But his wife said to him, “Do you still continue in your simplicity? Bless God and die.
+    10: He said to her, “You have spoken like one of the foolish wives. If we accepted good things from the hand of God, why should we not accept bad things?” In all this, Job did not sin with his lips
+    11: And so, three friends of Job, hearing about all the evil that had befallen him, arrived, each one from his own place, Eliphaz the Themanite, and Baldad the Suhite, and Zophar the Naamathite. For they had agreed to come together to visit and console him
+    12: And when they had raised up their eyes from a distance, they did not recognize him, and, crying out, they wept, and, tearing their garments, they scattered dust over their heads into the sky
+    13: And they sat with him on the ground for seven days and seven nights, and no one spoke a word to him, for they saw that his sorrow was very great
+
+  Chapter 3.
+
+    1: After this, Job opened his mouth and cursed his day
+    2: and this is what he said
+    3: May the day perish on which I was born, and the night, in which it was said, “A man has been conceived.
+    4: May that day be turned into darkness, may God not seek it from above, and may light not illuminate it
+    5: Let darkness and the shadow of death obscure it, let a fog overtake it, and let it be enveloped in bitterness
+    6: Let a whirlwind of darkness take hold of that night, let it not be counted in the days of the year, nor numbered in the months
+    7: May that night be alone and unworthy of praise
+    8: May they curse it, who curse the day, who are prepared to awaken a leviathan
+    9: Let the stars be concealed with its darkness. Let it expect light, and not see it, nor the rising of the dawn in the East
+    10: For it did not close the doors of the womb that bore me, nor take away evils from my eyes
+    11: Why did I not die in the womb? Having left the womb, why did I not immediately perish
+    12: Why was I received upon the knees? Why was I suckled at the breasts
+    13: For by now, I should have been sleeping silently, and taking rest in my slee
+    14: with the kings and consuls of the earth, who build themselves solitudes
+    15: either with princes, who possess gold and fill their houses with silver
+    16: or, like a hidden miscarriage, I should not have continued, just like those who, being conceived, have not seen the light
+    17: There the impious cease from rebellion, and there the wearied in strength take rest
+    18: And at such times, having been bound together without difficulty, they have not heard the voice of the bailiff
+    19: The small and great are there, and the servant is free from his master
+    20: Why is light given to the miserable, and life to those who are in bitterness of soul
+    21: who expect death, and it does not arrive, like those who dig for treasur
+    22: and who rejoice greatly when they have found the grave
+    23: to a man whose way is hidden and whom God has surrounded with darkness
+    24: Before I eat, I sigh; and like overflowing waters, so is my howl
+    25: for the terror that I feared has happened to me, and so has the dread befallen me
+    26: Have I not remained hidden? Have I not kept silence? Have I not remained calm? Yet indignation has overcome me
+
+  Chapter 4.
+
+    1: But Eliphaz the Themanite, answering, said
+    2: If we start to speak to you, perhaps you will take it badly, but who can hold back the words he has conceived
+    3: Behold, you have taught many, and you have strengthened weary hands
+    4: Your words have reassured the wavering, and you have fortified the trembling knees
+    5: But now the scourge has overcome you, and you falter. It has touched you, and you are disturbed
+    6: Where is your reverence, your fortitude, your patience, and the perfection of your ways
+    7: Consider this, I beg you: who ever perished being innocent? Or when have the righteous been destroyed
+    8: In fact, I have instead seen those who work iniquity and who sow resentments, reap them
+    9: perishing by the breath of God, and being consumed by the wrath of his spirit
+    10: The roaring of the lion, and the voice of the lioness, and the teeth of young lions have been worn away
+    11: The tiger has perished because it does not have prey, and the young lions have been scattered
+    12: Furthermore, a word was spoken to me in secret, and, as if by theft, my ears received the pulse of its whisper
+    13: In the horror of a vision by night, when men are accustomed to be overtaken by a deep sleep
+    14: fear and trembling seized me and all my bones were terrified
+    15: And when a spirit passed before me, the hair on my body stood up
+    16: There appeared an image before my eyes, someone whose face I did not recognize, and I heard a voice like a gentle breeze
+    17: Should man be justified in relation to God, or will a man be more pure than his Maker
+    18: Behold, those who serve him are not steadfast, and in his angels he finds imperfection
+    19: How much more will those who live in houses of clay, which have an earthly foundation, be consumed like the moth
+    20: From morning all the way to evening, they will be cut down, and because no one understands, they will be destroyed without ceasing
+    21: But those who are left behind will be taken away from them; they will die, and not in wisdom
+
+End of day 125.

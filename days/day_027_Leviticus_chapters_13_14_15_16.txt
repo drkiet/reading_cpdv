@@ -1,0 +1,200 @@
+Day 27:
+
+Reading Leviticus, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: And the Lord spoke to Moses and Aaron, saying
+    2: The man in whose skin or flesh there will have arisen a diverse color, or a pustule, or something that seems to shine, which is the mark of leprosy, shall be brought to Aaron the priest, or to anyone you wish among his sons
+    3: And if he sees that leprosy is in his skin, and that the hair has turned a white color, and that the place where the leprosy appears is lower than the rest of the skin and the flesh, then it is the mark of leprosy, and at his judgment he shall be separated
+    4: But if there will be a shining whiteness in the skin, but it is not lower than the rest of the flesh, and the hair is of unaffected color, the priest shall seclude him for seven days
+    5: And on the seventh day he shall examine him, and if the leprosy certainly has not increased further, and has not spread itself in the skin, he shall seclude him again, for another seven days
+    6: And on the seventh day, he shall evaluate him. If the leprosy has become obscured, and has not increased in the skin, he shall declare him clean, because it is a scab. And the man shall wash his clothes, and he shall be clean
+    7: But if the leprosy increases again, after he was seen by the priest and restored to cleanness, he shall be brought to him
+    8: and he shall be condemned of uncleanness
+    9: If the mark of leprosy has been in a man, he shall be brought to the priest
+    10: and he shall look upon him. And when there is a white color in the skin, and it has an altered appearance in its hair, and also the same flesh seems alive
+    11: it shall be judged a chronic leprosy, which has grown into the skin. And so the priest shall declare him contaminated, and he shall not seclude him, because he is clearly unclean
+    12: But if the leprosy will have flourished, coursing through the skin, and will have covered all the skin from the head even to the feet, whatever falls under the sight of the eyes
+    13: the priest shall examine him, and he shall judge that the leprosy that he possesses is very clean, because it has all turned to whiteness, and for this reason the man shall be clean
+    14: Yet truly, when the living flesh shall appear in him
+    15: then by the judgment of the priest he shall be polluted, and he shall be considered to be among the unclean. For the live flesh, if it is spotted with leprosy, is unclean
+    16: And if again it will have turned into whiteness, and will have covered the entire man
+    17: the priest shall examine him, and he shall discern him to be clean
+    18: But when there has been an ulcer in the flesh and the skin, and it has healed
+    19: and in the place of the ulcer, there appears a white or reddish scar, the man shall be brought to the priest
+    20: And when he will have seen the place of the leprosy lower than the rest of the flesh, and that the hair has turned white, he shall declare him contaminated. For the plague of leprosy has arisen from the ulcer
+    21: But if the hair is of the usual color, and the scar is somewhat obscure and is not lower than the nearby flesh, he shall seclude him for seven days
+    22: And if it will have certainly increased, he shall judge him to have leprosy
+    23: But if it stays in its place, it is the scar of an ulcer, and the man shall be clean
+    24: But if flesh and skin has been burned by fire, and, having been healed, now has a white or red scar
+    25: the priest shall examine it, and if he sees that it has turned white, and that its place is lower than the rest of the skin, he shall declare him contaminated, for the mark of leprosy has arisen in the scar
+    26: But if the color of the hair has not been changed, nor is the mark lower than the rest of the flesh, and the leprosy itself appears to be somewhat obscure, he shall seclude him for seven days
+    27: and on the seventh day he shall evaluate him. If the leprosy will have increased further in the skin, he shall declare him contaminated
+    28: But if the whiteness stays in its place and is not very clear, it is the mark of a burn, and for this reason he shall be declared clean, because it is only the scar from a burn
+    29: If leprosy will have sprung up in the head or the beard of a man or woman, the priest shall look upon them
+    30: and if the place is certainly lower than the rest of the flesh, and the hair is golden, and thinner than usual, he shall declare them contaminated, because it is the leprosy of the head and the beard
+    31: But if he sees that the place of the spot is equal with the nearby flesh, and that the hair is black, he shall seclude him for seven days
+    32: and on the seventh day he shall examine it. If the spot has not increased, and the hair has kept its color, and the place of the mark is equal with the rest of the flesh
+    33: the man shall be shaven, except in the place of the spot, and he shall be secluded for another seven days
+    34: On the seventh day, if the mark seems to have stayed in its place, and it is not lower than the rest of the flesh, he shall declare him clean, and, his clothes having been washed, he shall be clean
+    35: But if, after his cleansing, the spot will have increased again in the skin
+    36: he shall no longer inquire as to whether the hair has turned yellow, because he is plainly unclean
+    37: Furthermore, if the spot has not increased, and the hair is black, let him know that the man is healed: and let him confidently pronounce him clean
+    38: If a whiteness will have appeared in the skin of a man or a woman
+    39: the priest shall examine them. If he detects an obscured whiteness shining in the skin, may he know that it is not leprosy, but a white-colored blemish, and that the man is clean
+    40: The man whose hair falls off of his head is bald and clean
+    41: And if the hair falls off of his forehead, he is bald in front and clean
+    42: But if in the bald head or bald forehead there has arisen a white or reddish color
+    43: and the priest will have seen this, he shall condemn him without doubt of leprosy, which has arisen in the baldness
+    44: Therefore, whoever will have been spotted by leprosy, and who has been separated at the judgment of the priest
+    45: shall have his clothes unstitched, his head bare, his mouth covered with a cloth, and he himself shall cry out that he is contaminated and filthy
+    46: The entire time that he is a leper and unclean he shall live alone outside the camp
+    47: A woolen or linen garment that will have held the leprosy
+    48: in the main fibers or in any of the threads, or certainly in a skin, or whatever has been made from a skin
+    49: if it has been infected with a white or red spot, it shall be considered to be leprosy, and it shall be shown to the priest
+    50: And he, having examined it, shall close it up for seven days
+    51: And on the seventh day, having looked at it again, if he detects an increase, it is a persistent leprosy; he shall judge the garment to be polluted, along with everything with which it has been found
+    52: And because of this, it shall be burned in flames
+    53: But if he will have seen that it has not increased
+    54: he shall instruct them, and they shall wash whatever has the leprosy in it, and he shall close it up for another seven days
+    55: And when he will have seen that the former appearance has not returned, even if the leprosy has not increased, he shall judge it to be unclean, and he shall burn it with fire, for the leprosy has been infused in the exterior of the garment, or throughout the whole
+    56: But if the place of the leprosy has become somewhat darker, after the garment has been washed, he shall tear it away, and separate it from the part that is sound
+    57: But if, after this, there will appear in those places which before were immaculate, a flying and wandering leprosy, it must be burned with fire
+    58: If it will have ceased, he shall wash with water the parts which are pure for a second time, and they shall be clean
+    59: This is the law about leprosy for any woolen or linen garment, in the weave and in the threads, and for all items made from skins, how it must be declared either clean or contaminated
+
+  Chapter 14.
+
+    1: And the Lord spoke to Moses, saying
+    2: This is the rite for a leper, when he is to be cleansed. He shall be brought to the priest
+    3: who, departing from the camp, when he has found the leprosy to be cleansed
+    4: shall instruct him who is to be purified to offer for himself two living sparrows, which it is lawful to eat, and cedar wood, and vermillion, and hyssop
+    5: And he shall order that one of the sparrows be immolated in an earthen vessel over living waters
+    6: But the other living one, with the cedar wood, and the scarlet, and the hyssop, he shall dip in the blood of the immolated sparrow
+    7: And he shall sprinkle him who is to be cleansed seven times, so that he may be purified justly. And he shall release the living sparrow, so that it may fly away into the field
+    8: And when the man will have washed his clothes, he shall shave all the hair from his body, and he shall be washed with water. And having been purified, he shall enter into the camp, only to this extent: that he may remain outside his own tent for seven days
+    9: And on the seventh day he shall shave the hair of his head, and his beard, and his eyebrows, as well as the hair of his entire body. And having washed his clothes again, and his body
+    10: on the eighth day, he shall take two immaculate lambs, and a one-year-old female sheep without blemish, and three tenths of fine wheat flour, which has been sprinkled with oil, as a sacrifice, and separately, one twelfth hin of oil
+    11: And when the priest purifying the man has presented him and all these things in the sight of the Lord at the door of the tabernacle of the testimony
+    12: he shall take a lamb and offer it for transgression, with the twelfth hin of oil. And having offered all these before the Lord
+    13: he shall immolate the lamb, where the victim for sin is usually immolated with the holocaust, that is, in the holy place. For just as with the one for sin, so also the victim for transgression belongs to the priest. It is the Holy of holies
+    14: And taking some of the blood of the victim, which was immolated for transgression, the priest shall place it upon the tip of the right ear of him who is being cleansed, and upon the thumb of his right hand, and likewise the foot
+    15: And he shall send some of the twelfth hin of oil into his own left hand
+    16: and he shall dip his right finger in it, and he shall sprinkle it in the sight of the Lord seven times
+    17: But the oil which remains in his left hand, he shall pour over the tip of the right ear of him who is being cleansed, and upon the thumb of his right hand as well as the foot, and upon the blood which was shed for transgression
+    18: and upon his head
+    19: And he shall pray for him in the sight of the Lord, and he shall accomplish the sacrifice on behalf of sin. Then he shall immolate the holocaust
+    20: and place it upon the altar with its libations, and the man will be duly cleansed
+    21: But if he is poor, and his hand is not able to find what has been said, he shall take a lamb as an offering for transgression, so that the priest may pray for him, and a tenth part of fine wheat flour sprinkled with oil, as a sacrifice, and a twelfth hin of oil
+    22: and two turtledoves or two young pigeons, of which one may be for sin, and the other as a holocaust
+    23: And he shall offer them on the eighth day of his purification to the priest at the door of the tabernacle of the testimony in the sight of the Lord
+    24: And he, receiving the lamb for transgression, and the twelfth hin of oil, shall lift them up together
+    25: And when the lamb has been immolated, he shall place some of its blood upon the tip of the right ear of him who is being cleansed, and upon the thumb of his right hand, as well as the foot
+    26: Yet truly, he shall send part of the oil into his own left hand
+    27: and dipping the finger of his right hand in it, he shall sprinkle it seven times before the Lord
+    28: And he shall touch the tip of the right ear of him who is being cleansed, and the thumb of his right hand, as well as the foot, in the place of the blood which was shed for transgression
+    29: But the remaining part of the oil which is in his left hand, he shall send upon the head of the one being purified, to appease the Lord on his behalf
+    30: And he shall offer a turtledove or a young pigeon
+    31: one for transgression, and the other as a holocaust, with their libations
+    32: This is the sacrifice of a leper, who is not able to obtain all of the things concerning his cleansing
+    33: And the Lord spoke to Moses and Aaron, saying
+    34: When you will have entered into the land of Canaan, which I will give to you as a possession, if there is the mark of leprosy in a building
+    35: he whose house it is shall go and report to the priest, saying: “It seems to me that the mark of leprosy is in my house.
+    36: And he shall instruct them to carry all things out of the house, before he would enter it and see whether it is leprosy, lest all that is in the house become unclean. And after this, he shall enter to examine the leprosy of the house
+    37: And when he will have seen in its walls something like little hollows, deformed with paleness or redness, and lower than the remaining surface
+    38: he shall exit by the door of the house, and immediately close it up for seven days
+    39: And returning on the seventh day, he shall examine it. If he finds that the leprosy has spread
+    40: he shall order the stones in which the leprosy is, to be dug out and cast outside the city in an unclean place
+    41: and that the house be scraped on the inside all around, and that the dust of the scrapings be scattered outside the city in an unclean place
+    42: and that other stones be put back, in place of those which had been taken away, and that the house be plastered with other mortar
+    43: But if, after the stones have been dug out, and the dust wiped away, and it is plastered with other clay
+    44: the priest, upon entering, will have seen that the leprosy has returned, and that the walls are sprinkled with spots, then it is a persistent leprosy and the house is unclean
+    45: And so they shall promptly destroy it, and shall cast its stones and timber, and also all the dust, outside the town in an unclean place
+    46: Whoever enters into the house when it is closed up shall be unclean until evening
+    47: And whoever will have slept in it, or eaten anything, shall wash his clothes
+    48: But if the priest, upon entering, will have seen that the leprosy has not spread in the house, after it had been newly plastered, he shall purify it, restoring it to health
+    49: And for its purification, he shall take two sparrows, and cedar wood, and vermillion, as well as hyssop
+    50: and, having immolated one sparrow in an earthen vessel over living waters
+    51: he shall take the cedar wood, and the hyssop, and the scarlet, and the living sparrow, and he shall dip all these in the blood of the immolated sparrow, and also in the living water, and he shall sprinkle the house seven times
+    52: And he shall purify it as much with the blood of the sparrow as with the living water, and with the living sparrow, and the cedar wood, and the hyssop, and the vermillion
+    53: And when he has released the sparrow to fly freely away into the field, he shall pray for the house, and it shall be justly cleansed
+    54: This is the law of every kind of leprosy and plague
+    55: of the leprosy of garments and houses
+    56: of scars and erupting pustules, of a shining spot, when the appearance is also variegated
+    57: so that it can be known at what time a thing is clean or unclean
+
+  Chapter 15.
+
+    1: And the Lord spoke to Moses and Aaron, saying
+    2: Speak to the sons of Israel, and say to them: The man who undergoes a flow of seed shall be unclean
+    3: And then he shall be judged subject to this fault, if a filthy fluid, at each moment, adheres to his flesh and gathers there
+    4: Every bed on which he sleeps shall be unclean, and every place where he sits
+    5: If any man has touched his couch, he shall wash his clothes, and having washed with water, he shall be unclean until evening
+    6: If he will have sat where that man has sat, he shall also wash his clothes, and having washed with water, he shall be unclean until evening
+    7: Whoever has touched his flesh shall wash his clothes, and having washed with water, he shall be unclean until evening
+    8: If such a man has cast his spittle upon him who is clean, he shall wash his clothes, and having washed with water, he shall be unclean until evening
+    9: The saddle on which he has sat shall be unclean
+    10: And whatever has been under him who has undergone a flow of seed shall be polluted until evening. Whoever carries any of these things shall wash his clothes, and having washed with water, he shall be unclean until evening
+    11: All whom such a one has touched, not having washed his hands before, shall wash his clothes, and having washed with water, he shall be unclean until evening
+    12: If he has touched an earthen vessel, it shall be broken. But if it is a wooden vessel, it shall be washed with water
+    13: If he who suffers from this affliction will have been healed, he shall number seven days after his cleansing, and having washed his clothes and his entire body in living water, he shall be clean
+    14: Then, on the eighth day, he shall take two turtledoves or two young pigeons, and he shall advance, in the sight of the Lord, toward the door of the tabernacle of the testimony, and he shall give these to the priest
+    15: who shall offer one for sin, and the other as a holocaust. And he shall pray for him before the Lord, so that he may be cleansed from the flow of his seed
+    16: A man from whom the seed of sexual intercourse goes out shall wash his entire body with water, and he shall be unclean until evening
+    17: The garment or skin which he will have, he shall wash with water, and it shall be unclean until evening
+    18: The woman with whom he has had sexual intercourse shall be washed with water, and she shall be unclean until evening
+    19: The woman who, at the return of the month, undergoes the flow of blood shall be separated for seven days
+    20: All who will touch her shall be unclean until evening
+    21: And everything on which she sleeps or sits, in the days of her separation, shall be polluted
+    22: Whoever will have touched her bed shall wash his clothes, and having washed himself with water, he shall be unclean until evening
+    23: Anyone who will have touched any item on which she has sat shall wash his clothes, and having washed himself with water, he shall be polluted until evening
+    24: If a man has sexual intercourse with her in the time of her monthly flow of blood, he shall be unclean for seven days, and every bed on which he sleeps shall be polluted
+    25: The woman who undergoes a flow of blood many days beyond her time of menstruation, or whose blood does not cease to flow after the menstrual blood, as long as she is subject to this affliction, she shall be unclean, just as if she were in her time of menstruation
+    26: Every bed on which she sleeps, and every item on which she sits, shall be polluted
+    27: Whoever will have touched these shall wash his clothes, and having washed himself with water, he shall be unclean until evening
+    28: If the blood has stopped and has ceased to flow, she shall number seven days for her purification
+    29: and on the eighth day she shall offer for herself, to the priest, two turtledoves or two young pigeons, at the door of the tabernacle of the testimony
+    30: And he shall offer one for sin, and the other as a holocaust, and he shall pray for her before the Lord, and for the flow of her uncleanness
+    31: Therefore, you shall teach the sons of Israel to be cautious of uncleanness, so that they may not die in their filth, when they will have polluted my tabernacle, which is among them
+    32: This is the law of him who undergoes a flow of seed, or who is polluted by sexual intercourse
+    33: and of her who is separated in the time of menstruation, or who has a continual flow of blood, and of the man who sleeps with her
+
+  Chapter 16.
+
+    1: And the Lord spoke to Moses, after the death of the two sons of Aaron, when they were destroyed for offering strange fire
+    2: And he instructed him, saying: Speak to your brother Aaron, so that he may not, at any time, enter into the Sanctuary, which is within the veil, before the propitiatory by which the ark is covered, so that he may not die, (for I will appear in a cloud above the oracle
+    3: unless he will have done these things beforehand. He shall offer a calf for sin, and a ram as a holocaust
+    4: He shall be vested with a linen tunic. He shall conceal his nakedness with linen undergarments. He shall be wrapped with a linen belt, and he shall impose a linen headdress on his head. For these are holy vestments. All of these he shall put on, after he has been washed
+    5: And he shall receive, from the entire multitude of the sons of Israel, two he-goats for sin, and one ram as a holocaust
+    6: And when he has presented the calf, and has prayed for himself and for his own house
+    7: he shall cause the two he-goats to stand in the sight of the Lord at the entrance to the tabernacle of the testimony
+    8: And casting lots over them both, one is to be offered to the Lord, and the other is to be the emissary goat
+    9: The one whose lot fell out to be offered to the Lord, he shall offer for sin
+    10: But the one who is to be the emissary goat shall stand before the Lord, so that he may pour the prayers upon him, and may send him away into the wilderness
+    11: After these things have been duly celebrated, he shall offer the calf, and praying for himself and for his own house, he shall immolate it
+    12: And taking up the censer, which he has filled from the burning coals of the altar, and drawing up with his hands the aromatic compound for incense, he shall enter within the veil, into the holy place
+    13: so that when the aromatics are placed upon the fire, its cloud and vapor may cover the oracle, which is above the testimony, and he may not die
+    14: Likewise, he shall take some of the blood of the calf, and sprinkle it with his finger seven times opposite the propitiatory, toward the east
+    15: And when he has slain the he-goat for the sin of the people, he shall carry its blood within the veil, just as he was instructed to do with the blood of the calf, so that he may sprinkle it away from the area of the oracle
+    16: and so that he may expiate the Sanctuary from the uncleanness of the sons of Israel, and from their prevarications and every one of their sins. According to this rite, he shall act toward the tabernacle of the testimony, which is fixed among them in the midst of the filth of their habitation
+    17: Let no man be in the tabernacle when the high priest enters the Sanctuary in order to pray for himself, and for his house, and for the entire assembly of Israel, until he exits
+    18: And when he has exited to the altar which is before the Lord, let him pray for himself, and taking the blood of the calf, and of the he-goat, let him pour it upon its horns all around
+    19: And sprinkling with his finger seven times, let him expiate and sanctify it from the uncleanness of the sons of Israel
+    20: After he has cleansed the Sanctuary, and the tabernacle, and the altar, then let him offer the living goat
+    21: And placing both hands upon its head, let him confess all the iniquities of the sons of Israel, and all of their offenses and sins. And calling these down upon its head, he shall send it away, by means of a man prepared to do so, into the desert
+    22: And when the goat has carried all their iniquities into a solitary land, and has been released into the desert
+    23: Aaron shall return into the tabernacle of the testimony. And placing aside the vestments, which he had worn before when he entered into the Sanctuary, and leaving them there
+    24: he shall wash his flesh in the holy place, and he shall be clothed in his own garments. And departing afterwards, he shall present his own holocaust and that of the people: he shall pray as much for himself as for the people
+    25: And the fat which is offered for sins, he shall burn upon the altar
+    26: Yet truly, he who has sent away the emissary goat shall wash his clothes and his body with water, and so he shall enter into the camp
+    27: But the calf and the he-goat, which were immolated for sin, and whose blood was brought into the Sanctuary to complete the expiation, these shall be carried outside the camp and be burned with fire: as with their skins, so also with their flesh and dung
+    28: And whoever will have burned them shall wash his clothes and flesh with water, and so he shall enter into the camp
+    29: And this shall be to you an everlasting ordinance. In the seventh month, on the tenth day of the month, you shall afflict your souls, and you shall do no work, neither someone native born, nor the newcomer who sojourns among you
+    30: On this day, there shall be atonement for you, and also a cleansing from all your sins. You shall be cleansed in the sight of the Lord
+    31: For it is a Sabbath of rest, and you shall afflict your souls as a perpetual observance
+    32: And the priest who has been anointed, and whose hands have been consecrated to exercise the priesthood in the place of his father, shall make atonement. And he shall be clothed with the linen robe and the holy vestments
+    33: And he shall expiate the Sanctuary and the tabernacle of the testimony and the altar, likewise the priest and all the people
+    34: And this shall be to you a perpetual law, that you pray for the sons of Israel, and for all their sins once a year. Therefore, he did just as the Lord had instructed Moses
+
+End of day 27.

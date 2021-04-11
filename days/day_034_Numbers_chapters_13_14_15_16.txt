@@ -1,0 +1,187 @@
+Day 34:
+
+Reading Numbers, chapters ['13', '14', '15', '16']:
+
+  Chapter 13.
+
+    1: And the people set out from Hazeroth, and they pitched their tents in the desert of Paran
+    2: And there, the Lord spoke to Moses, saying
+    3: “Send men, who may examine the land of Canaan, which I will give to the sons of Israel, one from the rulers of each tribe.
+    4: Moses did what the Lord had commanded, sending, from the desert of Paran, leading men, whose names are these
+    5: from the tribe of Ruben, Shammua the son of Zaccur
+    6: from the tribe of Simeon, Shaphat the son of Hori
+    7: from the tribe of Judah, Caleb the son of Jephunneh
+    8: from the tribe of Issachar, Igal the son of Joseph
+    9: from the tribe of Ephraim, Hosea the son of Nun
+    10: from the tribe of Benjamin, Palti the son of Raphu
+    11: from the tribe of Zebulon, Gaddiel the son of Sodi
+    12: from the tribe of Joseph, of the scepter of Manasseh, Gaddi the son of Susi
+    13: from the tribe of Dan, Ammiel the son of Gemalli
+    14: from the tribe of Asher, Sethur the son of Michael
+    15: from the tribe of Naphtali, Nahbi the son of Vophsi
+    16: from the tribe of Gad, Guel the son of Machi
+    17: These are the names of the men, whom Moses sent to examine the land. And he called Hosea, the son of Nun, Joshua
+    18: And so, Moses sent them to examine the land of Canaan, and he said to them: “Ascend by the south side. And when you arrive at the mountains
+    19: consider the land, as to what kind it may be, and the people, who are its inhabitants, whether they may be strong or weak, whether they may be few in number or many
+    20: and the land itself, whether it is good or bad, what kind of cities, walled or without walls
+    21: the soil, rich or barren, forested or without trees. Be strong, and bring us some of the fruits of the land.” Now it was the time when the first ripe grapes were ready to be eaten
+    22: And when they had ascended, they explored the land from the desert of Sin, all the way to Rehob, as one enters into Hamath
+    23: And they ascended by the south side. And they arrived at Hebron, where there were Ahiman and Shishai and Talmai, the sons of Anak. For Hebron was founded seven years before Tanis, the city of Egypt
+    24: And continuing on as far as the Torrent of the Cluster of Grapes, they cut off a vine with its grapes, which two men carried on a board. Likewise, they took from the pomegranates and the figs of that place
+    25: which was called Nehel Eshcol, that is, the Torrent of the Cluster of Grapes, because the sons of Israel had carried a cluster of grapes from there
+    26: And those exploring the land returned after forty days, having circulated through the entire region
+    27: And they went to Moses and Aaron, and to the entire assembly of the sons of Israel in the desert of Paran, which is in Kadesh. And speaking to them, and to the entire multitude, they showed them the fruits of the land
+    28: And they explained, saying: “We went into the land, to which you sent us, which, it is true, flows with milk and honey, as one can know by these fruits
+    29: But it has very strong occupants, and the cities are great and also walled. We saw the race of Anak there
+    30: Amalek lives in the south. The Hethite, and the Jebusite, and the Amorite live in the mountains. And truly, the Canaanite stays near the sea and around the streams of the Jordan.
+    31: During these events, Caleb, to restrain the murmuring of the people who rose up against Moses, said, “Let us ascend and possess the land, for we will be able to obtain it.
+    32: Yet truly, the others, who had been with him, were saying, “By no means are we able to ascend to this people, because they are stronger than we are.
+    33: And before the sons of Israel they disparaged the land, which they had inspected, saying: “The land, which we viewed, devours its inhabitants. The people, upon whom we gazed, were of lofty stature
+    34: There, we saw some monsters among the sons of Anak, of the race of giants; by comparison with them, we seemed like locusts.
+
+  Chapter 14.
+
+    1: And so, crying out, the entire crowd wept throughout that night
+    2: And all the sons of Israel were murmuring against Moses and Aaron, saying
+    3: “If only we had died in Egypt,” and, “If only we would perish in this vast wilderness,” and, “May the Lord not lead us into this land, lest we fall by the sword, and our wives, as well as our children, be led away as captives. Is it not better to return to Egypt?
+    4: And they said to one another, “Let us appoint our leader, and so return to Egypt.
+    5: And when Moses and Aaron heard this, they fell prone on the ground in the sight of the multitude of the sons of Israel
+    6: Yet truly, Joshua the son of Nun, and Caleb the son of Jephunneh, who themselves had also viewed the land, tore their garments
+    7: and they said to the entire multitude of the sons of Israel: “The land that we circled through is very good
+    8: If the Lord will be gracious to us, he will lead us into it, and he will give us the land flowing with milk and honey
+    9: Do not choose to be rebellious against the Lord. And do not fear the people of this land, for, like bread, so are we able to devour them. All protection has withdrawn from them. The Lord is with us. Do not be afraid.
+    10: And when the entire multitude cried out, and they wanted to crush them with stones, the glory of the Lord appeared, over the roof of the covenant, to all the sons of Israel
+    11: And the Lord said to Moses: “How long will this people disparage me? How long will they refuse to believe me, despite all the signs that I have wrought before them
+    12: Therefore, I will strike them with a pestilence, and so I will consume them. But you I will make the ruler over a great nation, and one which is mightier than this one.
+    13: And Moses said to the Lord: “But then the Egyptians, from whose midst you led out this people
+    14: and the inhabitants of this land, who have heard that you, O Lord, are among this people, and that you are seen face to face, and that your cloud protects them, and that you go before them with a column of cloud by day, and a column of fire by night
+    15: may hear that you have killed so great a multitude, as if they were one man, and they may say
+    16: ‘He was not able to lead the people into the land about which he had sworn. Therefore, he slew them in the wilderness.
+    17: Therefore, may the strength of the Lord be magnified, just as you swore, saying
+    18: ‘The Lord is patient and full of mercy, taking away iniquity and wickedness, and forsaking no one who is harmless. He visits the sins of the fathers upon the sons, to the third and fourth generation.
+    19: Forgive, I beg you, the sins of this people, according to the greatness of your mercy, just as you have been gracious to them in their journey from Egypt to this place.
+    20: And the Lord said: “I have forgiven them according to your word
+    21: Also, as I live, the entire world shall be filled with the glory of the Lord
+    22: And yet, all the men who have seen my majesty, and the signs that I have wrought in Egypt and in the wilderness, and who have tested me ten times already, and yet have not obeyed my voice
+    23: these shall not see the land, about which I swore to their fathers, neither shall any of those who detracted me gaze upon it
+    24: My servant Caleb, who, being full of another spirit, has followed me, I will lead into this land, through which he has wandered, and his offspring shall possess it
+    25: For the Amalekites and the Canaanites live in the valleys. Tomorrow, move the camp and return into the wilderness, by the way of the Red Sea.
+    26: And the Lord spoke to Moses and Aaron, saying
+    27: “How long will this very wicked multitude murmur against me? I have heard the complaints of the sons of Israel
+    28: Therefore, say to them: As I live, says the Lord, as you spoke in my hearing, so will I do to you
+    29: In the wilderness, here shall your carcasses lie. All you who were numbered from twenty years and above, and who have murmured against me
+    30: you shall not enter into the land, over which I lifted up my hand to cause you to live there, except Caleb the son of Jephunneh, and Joshua the son of Nun
+    31: But your little ones, about whom you said that they would be a prey to the enemies, I will lead them in, so that they may see the land that has displeased you
+    32: Your carcasses shall lie in the wilderness
+    33: Your sons shall wander in the desert for forty years, and they shall bear your fornication, until the carcasses of their fathers are consumed in the desert
+    34: According to the number of the forty days, during which you examined the land, one year shall be charged for each day. And so, for forty years you shall take back your iniquities, and you shall know my retribution
+    35: For just as I have spoken, so shall I do, to this entire most wicked multitude, which has risen up together against me. In the wilderness, here shall it fade away and die.
+    36: Therefore, all the men, whom Moses had sent to contemplate the land, and who, having returned, had caused the entire multitude to murmur against him, disparaging the land as if it were evil
+    37: suffered death and were struck down in the sight of the Lord
+    38: But only Joshua the son of Nun, and Caleb the son of Jephunneh remained alive, out of all those who had journeyed to examine the land
+    39: And Moses spoke all these words to all the sons of Israel, and the people mourned exceedingly
+    40: And behold, rising up at first light, they climbed to the top of the mountain, and they said, “We are prepared to ascend to the place, about which the Lord has spoken, for we have sinned.
+    41: And Moses said to them: “Why do you transgress the word of the Lord, merely because it will not result in prosperity for you
+    42: Do not ascend, for the Lord is not with you, lest you be overthrown before your enemies
+    43: The Amalekite and the Canaanite are before you, by whose sword you shall be ruined, for you were not willing to consent to the Lord, and so the Lord is not with you.
+    44: But they, having been darkened, ascended to the top of the mountain. But the ark of the testament of the Lord, and Moses, did not withdraw from the camp
+    45: And the Amalekites descended, along with those Canaanites who were living in the mountains. And so, striking and cutting them down, they pursued them all the way to Hormah
+
+  Chapter 15.
+
+    1: The Lord spoke to Moses, saying
+    2: “Speak to the sons of Israel, and you shall say to them: When you will have entered into the land of your habitation, which I will give you
+    3: and you make an offering to the Lord, as a holocaust or as a victim, paying your vows, or as a voluntary offering of gifts, or in your solemnities, burning a sweet odor to the Lord, whether from the oxen or from the sheep
+    4: whoever immolates the victim shall offer a sacrifice of fine wheat flour, the tenth part of an ephah, sprinkled with oil, which shall have the measure of the fourth part of a hin
+    5: and he shall give the same measure of wine, poured out as libations, whether as a holocaust or as a victim.
+    6: With each lamb and each ram, there shall be a sacrifice of fine wheat flour, of two tenths, which shall be sprinkled with one third part of a hin of oil
+    7: And he shall offer the same measure, one third part of wine, for the libation, as a sweet odor to the Lord
+    8: Yet truly, when you will offer, from the oxen, a holocaust or a victim, in order to fulfill your vow or for peace-offering victims
+    9: you shall give, for each ox, three tenths of fine wheat flour, sprinkled with oil, which has the measure of one half of one hin
+    10: and the wine, poured out as libations, shall be of the same measure, as an oblation of most sweet odor to the Lord
+    11: So shall you d
+    12: for each ox, and ram, and lamb, and young goat
+    13: Both natives and sojourner
+    14: shall offer sacrifices by the same rituals
+    15: There shall be one precept and one judgment, as much for yourselves as for newcomers to the land.
+    16: And the Lord spoke to Moses, saying
+    17: “Speak to the sons of Israel, and you shall say to them
+    18: When you will arrive in the land which I will give to you
+    19: and when you will eat from the bread of that region, you shall separate the first-fruits to the Lor
+    20: from the foods that you eat. Just as you separate the first-fruits of your threshing floors
+    21: so also shall you give the first-fruits of your cooked grains to the Lord
+    22: And if, through ignorance, you neglect any of these things, which the Lord has spoken to Moses
+    23: and which he has commanded through him for you, from the day that he began to command and thereafter
+    24: and if the multitude will have forgotten to do it, then they shall offer a calf from the herd, a holocaust as a most sweet odor to the Lord, and its sacrifice and libations, just as the ceremonies ask, and a he-goat for sin
+    25: And the priest shall pray for the entire multitude of the sons of Israel, and it shall be forgiven them, because they did not sin willfully. Nevertheless, they shall offer incense to the Lord for themselves, and for sin, as well as for their error
+    26: And it shall be forgiven all the people of the sons of Israel, as well as the newcomers who sojourn among them, for it is the culpability of all the people through neglect
+    27: But if one soul will have sinned by not knowing, he shall offer a one-year-old she-goat for his sin
+    28: And the priest shall pray for him, because he sinned unknowingly before the Lord. And he shall obtain pardon for him, and it will be forgiven him
+    29: One law shall be for all who sin by ignorance, as much for natives as for newcomers
+    30: Yet truly, the soul who commits any of these acts through arrogance, whether he is a citizen or a sojourner, because he has rebelled against the Lord, shall perish from among his people
+    31: For he has despised the word of the Lord, and he has nullified his precept. For this reason, he shall be destroyed, and he shall bear his iniquity.
+    32: And it happened that, when the sons of Israel were in the wilderness, and they had found a man collecting wood on the day of the Sabbath
+    33: they brought him to Moses and Aaron, and to the whole multitude
+    34: And they enclosed him in a prison, not knowing what they should do with him
+    35: And the Lord said to Moses, “Let that man be put to death; let the entire crowd crush him with stones, outside the camp.
+    36: And when they had led him out, they overwhelmed him with stones, and he died, just as the Lord had instructed
+    37: The Lord also said to Moses
+    38: “Speak to the sons of Israel, and you shall tell them to make for themselves hems at the corners of their cloaks, placing in them ribbons of hyacinth
+    39: so that, when they see these, they may remember all the commandments of the Lord, and they may not follow their own thoughts and eyes, fornicating in various ways
+    40: but instead, they, being more mindful of the precepts of the Lord, may do them and may be holy to their God
+    41: I am the Lord your God, who led you away from the land of Egypt, so that I may be your God.
+
+  Chapter 16.
+
+    1: Then, behold, Korah the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and also On the son of Peleth, of the sons of Ruben
+    2: rose up against Moses, with two hundred fifty others of the sons of Israel, leading men of the assembly, and who, at the time of a council, would be called by name
+    3: And when they had stood against Moses and Aaron, they said: “Let it be sufficient for you that the entire multitude is of holy ones, and that the Lord is among them. Why do you elevate yourselves above the people of the Lord?
+    4: When Moses had heard this, he fell prone on his face
+    5: And speaking to Korah, and to the entire multitude, he said: “In the morning, the Lord will cause it to be known who belongs to him, and which holy ones he will join to himself. And whomever he will choose, they shall be close to him
+    6: Therefore, do this: Each one of you, Korah and all your associates, take your censer
+    7: and drawing fire into it tomorrow, place incense upon it before the Lord. And whomever he will choose, the same shall be holy. You sons of Levi have been raised up greatly.
+    8: And he said again to Korah: “Listen, sons of Levi
+    9: Is it a small thing to you, that the God of Israel has separated you from all the people, and has joined you to himself, so that you would serve him in the rituals of the tabernacle, and stand before gatherings of the people, and minister to him
+    10: Was the reason that he caused you and all your brothers, the sons of Levi, to approach him, so that you would even claim for yourselves the priesthood too
+    11: and so that your entire group would stand against the Lord? For what is Aaron that you should murmur against him?
+    12: Therefore, Moses sent to call for Dathan and Abiram, the sons of Eliab, who responded: “We will not come
+    13: Is it a small matter to you, that you have led us away from a land that was flowing with milk and honey, so as to kill us in the desert, unless you could also be a ruler over us
+    14: You have led us, it is true, to a land that flows with streams of milk and honey, and you have given us possession of fields and vineyards. But will you also tear out our eyes? We will not come.
+    15: And Moses, being very angry, said to the Lord: “Do not look with favor on their sacrifices. You know that I have not accepted from them, at any time, so much as a young donkey, nor have I afflicted any of them.
+    16: And he said to Korah: “You and your congregation, stand alone before the Lord, and apart from Aaron, tomorrow
+    17: Let each one of you take censers, and place incense in them, offering to the Lord two hundred fifty censers. Let Aaron also hold his censer.
+    18: When they had done this, Moses and Aaron stood up
+    19: and, having crowded the entire multitude close to them at the door of the tabernacle, the glory of the Lord appeared to them all
+    20: And the Lord, speaking to Moses and Aaron, said
+    21: “Separate yourselves from the midst of this congregation, so that I may suddenly destroy them.
+    22: But they fell prone on their faces, and they said, “O most strong One, the God of the spirits of all flesh, should your anger rage against all, for the sin of one?
+    23: And the Lord said to Moses
+    24: “Instruct the entire people to separate from the tents of Korah, and Dathan, and Abiram.
+    25: And Moses rose up and went to Dathan and Abiram. And the elders of Israel followed him
+    26: and he said to the crowd, “Withdraw from the tabernacles of these impious men, and touch nothing which pertains to them, lest you become involved in their sins.
+    27: And when they had withdrawn from their tents all around, Dathan and Abiram came out and stood at the entrance of their pavilions, with their wives and children, and with all their associates
+    28: And Moses said: “By this shall you know that the Lord has sent me to do all that you discern, and that I have not brought these things out of my own heart
+    29: If these men pass away by the common death of men, or if they will be visited by a scourge, of a kind by which others are often visited, then the Lord did not send me
+    30: But if the Lord accomplishes something new, so that the earth opens its mouth and swallows them whole, along with everything that belongs to them, and they descend alive into the underworld, then you shall know that they have blasphemed the Lord.
+    31: Therefore, as soon as he had ceased to speak, the earth broke open under their feet
+    32: And opening its mouth, it devoured them with their tabernacles and their entire substance
+    33: And they descended alive, the ground closing around them, into the underworld, and they perished from the midst of the mulititude
+    34: Yet truly, all of Israel, which was standing all around, took flight at the clamor of those who were perishing, saying, “Lest perhaps the earth may swallow us whole also.
+    35: Then, too, a fire, going forth from the Lord, put to death the two hundred fifty men who were offering the incense
+    36: And the Lord spoke to Moses, saying
+    37: “Instruct Eleazar, the son of Aaron the priest, to take up the censers which lie in the burning, and to scatter the fire to one side and another, because they were sanctifie
+    38: in the deaths of these sinners. And let him form them into plates, and affix them to the altar, because incense had been offered in them to the Lord, and they were sanctified, and so that the sons of Israel may discern in them a sign and a memorial.
+    39: Therefore, Eleazar the priest took the bronze censers, by which those whom the burning devoured had made an offering, and he formed them into plates, affixing them to the altar
+    40: so that the sons of Israel would have, thereafter, something to admonish them, lest any stranger, or anyone who is not of the offspring of Aaron, might approach to offer incense to the Lord, and lest he endure what happened to Korah, and to all his congregation, when the Lord spoke to Moses
+    41: Then, the following day, the entire multitude of the sons of Israel murmured against Moses and Aaron, saying: “You have put to death the people of the Lord.
+    42: And when there arose a sedition, and the tumult increased
+    43: Moses and Aaron fled to the tabernacle of the covenant. But after they had entered it, the cloud covered it, and the glory of the Lord appeared
+    44: And the Lord said to Moses
+    45: “Withdraw from the midst of this multitude, and I will destroy them immediately.” And while they were lying on the ground
+    46: Moses said to Aaron: “Take the censer, and draw fire into it from the altar; place incense upon it, and continue on, quickly, to the people, to pray for them. For already wrath has gone forth from the Lord, and the scourge rages.
+    47: When Aaron had done this, and he had run into the midst of the multitude, which the burning fire was now destroying, he offered the incense
+    48: And standing between the dead and the living, he prayed for the people, and the scourge ceased
+    49: But the number of those who were struck down was fourteen thousand men, and seven hundred, aside from those who had perished in the sedition of Korah
+    50: And Aaron returned to Moses at the door of the tabernacle of the covenant, after the destruction quieted
+
+End of day 34.

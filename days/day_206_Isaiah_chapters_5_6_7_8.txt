@@ -1,0 +1,107 @@
+Day 206:
+
+Reading Isaiah, chapters ['5', '6', '7', '8']:
+
+  Chapter 5.
+
+    1: I will sing to my beloved the canticle of my paternal cousin, about his vineyard. A vineyard was made for my beloved, at the horn in the son of oil
+    2: And he fenced it in, and he picked the stones out of it, and he planted it with the best vines, and he built a tower in the middle of it, and he set up a winepress within it. And he expected it to produce grapes, but it produced wild vines
+    3: Now then, inhabitants of Jerusalem and men of Judah: judge between me and my vineyard
+    4: What more should I have done for my vineyard that I did not do for it? Should I not have expected it to produce grapes, though it produced wild vines
+    5: And now, I will reveal to you what I will do to my vineyard. I will take away its fence, and it will be plundered. I will pull down its wall, and it will be trampled
+    6: And I will make it desolate. It will not be pruned, and it will not be dug. And briers and thorns will rise up. And I will command the clouds not to rain upon it
+    7: For the vineyard of the Lord of hosts is the house of Israel. And the man of Judah is his delightful seedling. And I expected that he would do judgment, and behold iniquity, and that he would do justice, and behold an outcry
+    8: Woe to you who join house to house, and who combine field to field, even to the limits of the place! Do you intend to live alone in the midst of the earth
+    9: These things are in my ears, says the Lord of hosts. Otherwise, many houses, great and beautiful, will become desolate, without an inhabitant
+    10: Then ten acres of vineyard will produce one small bottle of wine, and thirty measures of seed will produce three measures of grain
+    11: Woe to you who rise up in the morning to pursue drunkenness, and to drink even until evening, so as to be inflamed with wine
+    12: Harp and lyre and timbrel and pipe, as well as wine, are at your feasts. But you do not respect the work of the Lord, nor do you consider the works of his hands
+    13: Because of this, my people have been led away as captives, for they did not have knowledge, and their nobles have passed away from famine, and their multitudes have dried up from thirst
+    14: For this reason, Hell has expanded its soul, and has opened its mouth without any limits. And their strong ones, and their people, and their exalted and glorious ones will descend into it
+    15: And man will be bowed down, and man will be humbled, and the eyes of the exalted will be brought low
+    16: And the Lord of hosts will be exalted in judgment, and the holy God will be sanctified in justice
+    17: And the lambs will pasture in proper order, and new arrivals will eat from the deserts turned into fertile lands
+    18: Woe to you who draw iniquity with cords of vanity, and who draw sin as if with the rope of a cart
+    19: and who say: “Let him hurry, and let his work arrive soon, so that we may see it. And let the plan of the Holy One of Israel approach and arrive, so that we may know it.
+    20: Woe to you who call evil good, and good evil; who substitute darkness for light, and light for darkness; who exchange bitter for sweet, and sweet for bitter
+    21: Woe to you who are wise in your own eyes, and prudent in your own sight
+    22: Woe to you who are powerful at drinking wine, who are strong men in contriving inebriation
+    23: For you justify an impious man in exchange for bribes, and you carry away the justice of a just man from him
+    24: Because of this, as the tongue of fire devours stubble, and as the heat of a flame burns it completely, so will their root become like glowing embers, and so will their offshoot ascend like dust. For they have cast aside the law of the Lord of hosts, and they have blasphemed the eloquence of the Holy One of Israel
+    25: For this reason, the fury of the Lord has been enraged against his people, and he has extended his hand over them, and he has struck them. And the mountains were disturbed. And their carcasses became like dung in the midst of the streets. After all this, his fury was not turned away; instead, his hand was still extended
+    26: And he will lift up a sign to nations far away, and he will whistle to them from the ends of the earth. And behold, they will rush forward speedily
+    27: There is no one weak or struggling among them. They will not become drowsy, and they will not sleep. Neither will the belt around their waist be loosened, nor the laces of their boots be broken
+    28: Their arrows are sharp, and all their bows are taut. The hoofs of their horses are like flint, and their wheels are like the force of a tempest
+    29: Their roaring is like the lion; they will roar like young lions. They will both roar and seize their prey. And they will wrap themselves around it, and there will be no one who can rescue it
+    30: And in that day, they will make a noise over it, like the sound of the sea. We will gaze out toward the land, and behold, the darkness of the tribulation, and even the light has been darkened by its gloom
+
+  Chapter 6.
+
+    1: In the year in which king Uzziah died, I saw the Lord sitting on a throne, sublime and exalted, and the things that were under him filled the temple
+    2: The Seraphims were standing above the throne. One had six wings, and the other had six wings: with two they were covering his face, and with two they were covering his feet, and with two they were flying
+    3: And they were crying out to one another, and saying: “Holy, holy, holy is the Lord God of hosts! All the earth is filled with his glory!
+    4: And the lintels above the hinges were shaken at the voice of the one crying out. And the house was filled with smoke
+    5: And I said: “Woe to me! For I have remained silent. For I am a man of unclean lips, and I live in the midst of a people having unclean lips, and I have seen with my eyes the King, the Lord of hosts!
+    6: And one of the Seraphims flew to me, and in his hand was a burning coal, which he had taken with tongs from the altar
+    7: And he touched my mouth, and he said, “Behold, this has touched your lips, and so your iniquities will be taken away, and your sin will be cleansed.
+    8: And I heard the voice of the Lord, saying: “Whom shall I send?” and, “Who will go for us?” And I said: “Here I am. Send me.
+    9: And he said: “Go forth! And you shall say to this people: ‘When you listen, you will hear and not understand. And when you see a vision, you will not comprehend.
+    10: Blind the heart of this people. Make their ears heavy and close their eyes, lest they see with their eyes, and hear with their ears, and understand with their heart, and be converted, and then I would heal them.
+    11: And I said, “For how long, O Lord?” And he said, “Until the cities are desolate, without an inhabitant, and the houses are without a man, and the land will be left behind, deserted.
+    12: For the Lord will take the men far away, and she who will have been left behind will be multiplied in the midst of the earth
+    13: But still, there will be a tithing within her, and she will be converted, and she will be put on display, like a terebinth tree and like an oak which extends its branches. And what will remain standing within her will be a holy offspring
+
+  Chapter 7.
+
+    1: And it happened in the days of Ahaz, the son of Jotham, the son of Uzziah, the king of Judah, that Rezin, the king of Syria, and Pekah, the son of Remaliah, king of Israel, ascended to Jerusalem to battle against it. But they were not able to defeat it
+    2: And they reported to the house of David, saying: “Syria has withdrawn to Ephraim.” And his heart was shaken, with the heart of his people, just as the trees of the forest are moved by the face of the wind
+    3: And the Lord said to Isaiah: Go out to meet Ahaz, you and your son, Jashub, who was left behind, to the end of the aqueduct, at the upper pool, on the road to the fuller’s field
+    4: And you shall say to him: “See to it that you are silent. Do not be afraid. And have no dread in your heart over the two tails of these firebrands, nearly extinguished, which are the wrath of the fury of Rezin, king of Syria, and of the son of Remaliah.
+    5: For Syria has undertaken a plan against you, with the evil of Ephraim and the son of Remaliah, saying
+    6: “Let us ascend to Judah, and stir it up, and tear it away for ourselves, and appoint the son of Tabeel as a king in its midst.
+    7: Thus says the Lord God: This shall not stand, and this shall not be
+    8: For the head of Syria is Damascus, and the head of Damascus is Rezin; and within sixty-five years from now, Ephraim will cease to be a people
+    9: For the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you will not believe, you will not continue
+    10: And the Lord spoke further to Ahaz, saying
+    11: Ask for a sign for yourself from the Lord your God, from the depths below, even to the heights above
+    12: And Ahaz said, “I will not ask, for I will not tempt the Lord.
+    13: And he said: “Then listen, O house of David. Is it such a small thing for you to trouble men, that you must also trouble my God
+    14: For this reason, the Lord himself will grant to you a sign. Behold, a virgin will conceive, and she will give birth to a son, and his name will be called Immanuel
+    15: He will eat butter and honey, so that he may know to reject evil and to choose good
+    16: But even before the boy knows to refuse evil and to choose good, the land that you detest will be abandoned by the face of her two kings
+    17: The Lord will lead over you, and over your people, and over the house of your father, such days as have not occurred since the days of the separation of Ephraim from Judah by the king of the Assyrians
+    18: And this shall be in that day: the Lord will call for the fly, which is in the most distant parts of the rivers of Egypt, and for the swarm, which is in the land of Assur
+    19: And they will arrive, and they all will rest in the torrents of the valleys, and in the caverns of the rocks, and in every thicket, and in every opening
+    20: In that day, the Lord will shave with a razor the ones hired by those who are across the river, by the king of the Assyrians, from the head to the hairs of the feet, with the entire beard
+    21: And this shall be in that day: a man will raise a cow among oxen, and two sheep
+    22: and, instead of an abundance of milk, he will eat butter. For all who are left behind in the midst of the land will eat butter and honey
+    23: And this shall be in that day: every place, where there were a thousand grapevines worth a thousand pieces of silver, will become thorns and briers
+    24: They will enter such places with arrows and bows. For briers and thorns will be throughout the entire land
+    25: But as for all the mountains, which will be dug with a hoe, the terror of thorns and briers will not approach those places. And there will be pasture land for oxen, and a range for cattle.
+
+  Chapter 8.
+
+    1: And the Lord said to me: “Take up for yourself a large book, and with a man’s pen write in it: ‘Take away the spoils quickly; plunder swiftly.’ 
+    2: And I summoned to myself faithful witnesses: Uriah, the priest, and Zechariah, the son of Berechiah
+    3: And I joined with the prophetess, and she conceived and gave birth to a son. And the Lord said to me: “Call his name: ‘Rush to take away the spoils; Hurry to be plundered.
+    4: For before the boy knows how to call to his father and his mother, the strength of Damascus and the spoils of Samaria will be taken away, in the sight of the king of the Assyrians.
+    5: And the Lord spoke to me further, saying
+    6: “Because this people has cast aside the waters of Shiloah, which go forth silently, and has instead chosen Rezin and the son of Remaliah
+    7: for this reason, behold, the Lord will lead over them the waters of a river, strong and plentiful: the king of the Assyrians with all his glory. And he will rise up throughout all his streams, and he will overflow all his banks
+    8: And he will pass through Judah, inundating it, and he will cross over and arrive, even at its neck. And he will extend his wings, filling the breadth of your land, O Immanuel.
+    9: O people, gather together, and be conquered! All distant lands, listen! Be strengthened, and be conquered! Gird yourselves, and be conquered
+    10: Undertake a plan, and it will be dissipated! Speak a word, and it will not be done! For God is with us
+    11: For the Lord said this to me, and he has instructed this to me with a strong hand, lest I go forth in the way of this people, saying
+    12: “You should not say ‘It is conspiracy!’ For all that this people speaks is a conspiracy. And you should be frightened or alarmed with their fear
+    13: Sanctify the Lord of hosts himself. Let him be your dread, and let him be your fear
+    14: And so shall he be a sanctification to you. But he will be a stone of offense and a rock of scandal to the two houses of Israel, and a snare and a ruin to the inhabitants of Jerusalem
+    15: And very many of them will stumble and fall, and they will be broken and entangled and seized
+    16: Bind the testimony, seal the law, among my disciples.
+    17: And I will wait for the Lord, who has concealed his face from the house of Jacob, and I will stand before him
+    18: Behold: I and my children, whom the Lord has given to me as a sign and a portent, in Israel, from the Lord of hosts, who lives on Mount Zion
+    19: And though they say to you, “Seek from seers and diviners,” they who hiss in their incantations, should not the people seek from their God, for the sake of the living, and not from the dead
+    20: And this is, moreover, for the sake of the law and the testimony. But if they do not speak according to this Word, then he will not have the morning light
+    21: And he will pass by it; he will fall and become hungry. And when he is hungry, he will become angry, and he will speak evil against his king and his God, and he will lift himself upward.
+    22: And he will gaze downward to the earth, and behold: tribulation and darkness, dissolution and distress, and a pursuing gloom. For he will not be able to fly away from its distress
+
+End of day 206.

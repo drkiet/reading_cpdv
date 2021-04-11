@@ -1,0 +1,178 @@
+Day 40:
+
+Reading Deuteronomy, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: These are the words which Moses spoke to all of Israel, across the Jordan, in the plain of the wilderness opposite the Red Sea, between Paran and Tophel and Laban and Hazeroth, where gold is very plentiful
+    2: eleven days from Horeb, by way of Mount Seir as far as Kadesh-barnea
+    3: In the fortieth year, on the eleventh month, on the first day of the month, Moses told the sons of Israel all that the Lord had instructed him. And so he spoke to them
+    4: after he had struck down Sihon, the king of the Amorites, who lived at Heshbon, and Og, the king of Bashan, who resided at Ashtaroth and at Edrei
+    5: across the Jordan in the land of Moab. And so, Moses began to explain the law, and to say
+    6: “The Lord our God spoke to us at Horeb, saying: ‘You have remained long enough on this mountain
+    7: Turn back and go to the mountain of the Amorites, and to the other places which are near it: the plains as well as the mountainous regions, and the low-lying places opposite the south and along the shore of the sea, the land of the Canaanites, and Lebanon, as far as the great river Euphrates.
+    8: ‘Lo,’ he said, ‘I have delivered it to you. Enter and possess that which the Lord swore to your fathers, Abraham, Isaac, and Jacob, that he would give it to them, and to their offspring after them.
+    9: And I said to you, at that time
+    10: ‘I alone am not able to sustain you. For the Lord, your God, has multiplied you, and you are today like the stars of heaven, very many
+    11: May the Lord, the God of your fathers, add to this number many thousands more, and may he bless you, just as he has said
+    12: Alone, I do not have the strength to endure your arbitrations and judgments and disputes
+    13: Offer, from among you, wise and experienced men, those whose conversation has been proven within your tribes, so that I may appoint them as your rulers.
+    14: Then you responded to me: ‘What you intend to do is a good thing.
+    15: And so, I took from your tribes men, wise and noble, and I appointed them as rulers, as tribunes and centurions, and as leaders over fifty and over ten, who would teach you each thing
+    16: And I instructed them, saying: ‘Listen to them, and judge what is just, whether he is one of your citizens or a sojourner
+    17: There shall be no favoritism to any persons. So you shall listen to the little as well as to the great. And you shall not accept anyone’s reputation, for this is the judgment of God. But if anything seems difficult to you, then refer it to me, and I will hear it.
+    18: And I instructed you in all that you were obliged to do
+    19: Then, setting out from Horeb, we crossed through a terrible and great wasteland, which you saw along the way of the mountain of the Amorite, just as the Lord our God had instructed us. And when we had arrived at Kadesh-barnea
+    20: I said to you: ‘You have arrived at the mountain of the Amorite, which the Lord our God will give to us
+    21: Gaze upon the land that the Lord your God gives to you. Ascend and possess it, just as the Lord our God has spoken to your fathers. Do not be afraid, and do not become terrified by anything.
+    22: And you all approached me and said: ‘Let us send men who may consider the land, and who may report as to the way by which we ought to ascend, and as to which cities we ought to travel.
+    23: And since the word was pleasing to me, I sent from among you twelve men, one from each tribe
+    24: These, when they had set out and had ascended the mountains, arrived as far as the valley of the cluster of grapes. And having considered the land
+    25: having taken from its fruits in order to show its fertility, they brought these to us, and they said: ‘The land that the Lord our God will give to us is good.
+    26: Yet you were not willing to go there. Instead, being incredulous to the word of the Lord our God
+    27: you murmured in your tents, and you said: ‘The Lord hates us, and therefore he has led us away from the land of Egypt, so that he might deliver us into the hand of the Amorite and destroy us
+    28: To where should we ascend? The messengers have terrified our heart by saying: “The multitude is very great, and taller than us. And the cities are great, and the walls extend even to the sky. We have seen the sons of the Anakim there.” 
+    29: And I said to you: ‘Do not be apprehensive, nor should you fear them
+    30: The Lord God himself, who is your leader, will fight on your behalf, just as he did in Egypt in the sight of all
+    31: And in the wilderness (as you yourselves saw), the Lord your God carried you, like a man who is accustomed to carrying his little son, along all the way that you walked, until you arrived at this place.
+    32: And yet, despite all of this, you did not believe the Lord your God
+    33: who went before you on the way, and who marked out the place where you should pitch your tents, showing you the way by fire in the night, and by a pillar of cloud in the day
+    34: And when the Lord had heard the voice of your words, becoming angry, he swore and said
+    35: ‘None of the men of this wicked generation will see the good land, which I have promised by oath to your fathers
+    36: except Caleb the son of Jephuneh. For he himself will see it, and I will give the land on which he has walked to him and to his sons, because he has followed the Lord.
+    37: Neither is his indignation with the people a wonder, since the Lord also became angry with me because of you, and so he said: ‘Neither will you enter into that place
+    38: But Joshua, the son of Nun, your minister, shall himself enter on your behalf. Exhort and strengthen this man, and he himself shall divide the land by lot to Israel
+    39: Your little ones, about whom you said that they would be led away as captives, and your sons, who to this day are ignorant of the difference between good and evil, they shall enter. And I will give the land to them, and they will possess it
+    40: But as for you, turn back and go out to the wilderness, by way of the Red Sea.
+    41: And you responded to me: ‘We have sinned against the Lord. We will ascend and fight, just as the Lord our God has instructed.’ And having been equipped with weapons, when you were setting out for the mountain
+    42: the Lord said to me: ‘Say to them: Do not ascend and do not fight. For I am not with you. Otherwise, you may fall in the sight of your enemies.
+    43: I spoke, and you did not listen. But, opposing the order of the Lord, and swelling with pride, you ascended onto the mountain
+    44: And so, having gone forth, the Amorite, who was living in the mountains, came against you and pursued you, just as a swarm of bees would do. And he struck you down from Seir all the way to Hormah
+    45: And when you returned and were weeping in the sight of the Lord, he would not hear you, nor was he willing to agree to your voice
+    46: Therefore, you camped at Kadesh-barnea for a long time.
+
+  Chapter 2.
+
+    1: “And setting out from there, we arrived at the wilderness which leads to the Red Sea, just as the Lord had spoken to me. And we encompassed Mount Seir for a long time
+    2: And the Lord said to me
+    3: ‘You have encompassed this mountain for long enough. Go forth, toward the north
+    4: And instruct the people, saying: You shall cross through the borders of your brothers, the sons of Esau, who live at Seir, and they will fear you
+    5: Therefore, take care diligently, lest you be moved against them. For I will not give to you from their land even as much as the step that one foot can tread upon, because I have given Mount Seir to Esau as a possession
+    6: You shall buy food from them for money, and you shall eat. You shall draw water for money, and you shall drink
+    7: The Lord your God has blessed you in every work of your hands. The Lord your God, dwelling with you, knows your journey, how you crossed through this great wilderness over forty years, and how you have been lacking in nothing.
+    8: And when we had passed through our brothers, the sons of Esau, who were living at Seir by the way of the plain from Elath and from Eziongeber, we arrived at the way which leads to the desert of Moab
+    9: And the Lord said to me: ‘You should not fight against the Moabites, nor should you go to battle against them. For I will not give to you anything from their land, because I have given Ar to the sons of Lot as a possession.
+    10: The Emim were the first of its inhabitants, a people great and strong, and of such great height, like the race of the Anakim
+    11: They were considered to be like giants, and they were like the sons of the Anakim. And, indeed, the Moabites call them: the Emim
+    12: The Horites also formerly lived at Seir. When these had been driven out and destroyed, the sons of Esau lived there, just as Israel did in the land of his possession, which the Lord gave to him
+    13: Then, rising up so as to cross over the torrent Zered, we arrived at the place
+    14: Then, from the time that we advanced from Kadesh-barnea until we crossed over the torrent Zered, there were thirty-eight years, until the entire generation of the men who were fit for war had been consumed out of the camp, just as the Lord had sworn
+    15: For his hand was against them, so that they would pass away from the midst of the camp
+    16: Then, after all the fighting men had fallen
+    17: the Lord spoke to me, saying
+    18: ‘Today, you shall cross the borders of Moab, at the city named Ar
+    19: And when you have arrived in the vicinity of the sons of Ammon, be careful that you do not fight against them, nor should you be moved to battle. For I will not give to you from the land of the sons of Ammon, because I have given it to the sons of Lot as a possession.
+    20: It was reputed to be a land of giants. And giants lived there in times past, those whom the Ammonites call the Zamzummim
+    21: They are a people, great and numerous, and of lofty stature, like the Anakim, whom the Lord wiped away before their face. And he caused them to live there in place of them
+    22: just as he had done for the sons of Esau, who live at Seir, wiping out the Horites and delivering their land to them, which they possess even to the present time
+    23: Likewise the Hevites, who were living in small villages as far as Gaza, were expelled by the Cappadocians, who went forth from Cappadocia, and they wiped them out and lived in their place
+    24: ‘Rise up and cross the torrent Arnon! Behold, I have delivered Sihon, the king of Heshbon, the Amorite, into your hand, and so, begin to possess his land and to engage in battle against him
+    25: Today I will begin to send the terror and dread of you among the peoples who are living under all of heaven, so that, when they hear your name, they may be afraid, and may tremble in the manner of a woman giving birth, and may be gripped by anguish.
+    26: Therefore, I sent messengers from the wilderness of Kedemoth to Sihon, the king of Heshbon, with peaceful words, saying
+    27: ‘We will cross through your land. We will advance by the public way. We will not turn aside, neither to the right, nor to the left
+    28: Sell us food for a price, so that we may eat. Provide us with water for money, and so we will drink. We only ask that you allow us to pass through
+    29: just as the sons of Esau have done, who live at Seir, and the Moabites, who abide in Ar, until we arrive at the Jordan, and we cross to the land which the Lord our God will give to us.
+    30: And Sihon, the king of Heshbon, was not willing to grant passage to us. For the Lord your God had hardened his spirit, and had fastened his heart, so that he would be delivered into your hands, just as you now see
+    31: And the Lord said to me: ‘Behold, I have begun to deliver Sihon and his land to you. Begin to possess it.
+    32: And Sihon went out to meet us with all his people, to battle at Jahaz
+    33: And the Lord our God delivered him to us. And we struck him down, with his sons and all his people
+    34: And we seized all his cities at that time, putting to death their inhabitants: men as well as women and children. We left nothing of them
+    35: except the cattle, which went to the share of those who plundered them. And we seized the spoils of the cities
+    36: from Aroer, which is above the bank of the torrent Arnon, a town which is situated in a valley, all the way to Gilead. There was not a village or city which escaped from our hands. The Lord our God delivered everything to us
+    37: except the land of the sons of Ammon, which we did not approach, and all that is adjacent to the torrent Jabbok, and the cities in the mountains, and all the places which the Lord our God prohibited to us.
+
+  Chapter 3.
+
+    1: “And so, having turned back, we ascended by the way of Bashan. And Og, the king of Bashan, went forth with his people to meet us in warfare at Edrei
+    2: And the Lord said to me: ‘You should not fear him. For he has been delivered into your hand, with all his people as well as his land. And you shall do to him just as you have done to Sihon, the king of the Amorites, who lived at Heshbon.
+    3: Therefore, the Lord our God delivered into our hands, now Og, the king of Bashan, and all his people. And we struck them down unto utter annihilation
+    4: laying waste to all his cities at one time. There was not a village which escaped from us: sixty cities, the entire region of Argob, the kingdom of Og, in Bashan
+    5: All the cities were fortified with very high walls, and with gates and bars, in addition to innumerable villages which had no walls
+    6: And we wiped them out, just as we had done to Sihon, the king of Heshbon, destroying every city, and its men, as well as women and children
+    7: But the cattle and the spoils of the cities, we plundered
+    8: And at that time, we took the land from the hand of the two kings of the Amorites, who were across the Jordan: from the torrent Arnon as far as Mount Hermon
+    9: which the Sidonians call Sirion, and the Amorites call Senir
+    10: all the cities that are situated in the plain, and the entire land of Gilead and Bashan, all the way to Salecah and Edrei, cities of the kingdom of Og in Bashan
+    11: For only Og, the king of Bashan, was left behind out of the race of the giants. His bed of iron is on display, (it is in Rabbah, among the sons of Ammon) being nine cubits in length, and four in width, according to the measure of the cubit of a man’s hand
+    12: And we possessed the land, at that time, from Aroer, which is above the bank of the torrent Arnon, as far as the middle of Mount Gilead. And I gave its cities to Ruben and Gad
+    13: Then I delivered the remaining part of Gilead, and all of Bashan, the kingdom of Og, which is the entire region of Argob, to one half of the tribe of Manasseh. And all of Bashan is called the land of the giants
+    14: Jair, the son of Manasseh, possessed all the region of Argob, as far as the borders of Geshur and Maacath. And he called Bashan by his own name, Havvoth Jair, that is, the villages of Jair, even to the present day
+    15: Likewise, to Machir, I gave Gilead
+    16: And to the tribes of Ruben and Gad, I gave from the land of Gilead as far as the torrent Arnon, one half of the torrent and its confines, even to the torrent Jabbok, which is along the border of the sons of Ammon
+    17: and the plain of the wilderness, as well as the Jordan, and the borders of Chinnereth, all the way to the sea of the desert, which is very salty, to the base of Mount Pisgah toward the east
+    18: And I instructed you at that time, saying: ‘The Lord your God gives to you this land as an inheritance. Having armed yourselves, go before your brothers, the sons of Israel, all you strong men
+    19: Leave behind your wives and little ones, as well as the cattle. For I know that you have many cattle, and they should remain in the cities which I have delivered to you
+    20: until the Lord provides rest to your brothers, just as he has provided for you. And they, too, shall possess the land, which he will give to them beyond the Jordan. Then each one shall return to his possession, which I have allotted to you.
+    21: Likewise, I instructed Joshua at that time, saying: ‘Your eyes have seen what the Lord your God has done to these two kings. So also will he do to all the kingdoms through which you shall pass
+    22: You should not fear them. For the Lord your God will fight on your behalf.
+    23: And I beseeched the Lord at that time, saying
+    24: ‘Lord God, you have begun to reveal your greatness and your very strong hand to your servant. For there is no other god, either in heaven or on earth, who is able to accomplish your works, or to be compared to your strength
+    25: Therefore, I will cross over, and I will view this excellent land beyond the Jordan, and this singular mountain, and Lebanon.
+    26: And the Lord became angry with me because of you, and he would not heed me. But he said to me: ‘It is enough for you. You shall no longer speak to me at all about this matter
+    27: Ascend to the summit of Pisgah, and look around with your eyes to the west, and to the north, and to the south, and to the east, and behold it. For you shall not cross this Jordan
+    28: Instruct Joshua, and encourage and strengthen him. For he shall go before this people, and he shall distribute to them the land that you will see.
+    29: And we remained in the valley, opposite the shrine of Peor.
+
+  Chapter 4.
+
+    1: “And now, O Israel, listen to the precepts and judgments which I am teaching to you, so that, by doing these, you may live, and you may enter and possess the land, which the Lord, the God of your fathers, will give to you
+    2: You shall not add to the word which I speak to you, neither shall you take away from it. Preserve the commandments of the Lord your God which I am teaching to you
+    3: Your eyes have seen all that the Lord has done against Baal-peor, in what manner he has crushed all of his worshippers from among you
+    4: But you who adhere to the Lord your God are all still alive, to the present day
+    5: You know that I have taught you precepts as well as justices, just as the Lord my God has commanded me. And so shall you do in the land that you will possess
+    6: And you shall observe and fulfill these in practice. For this is your wisdom and understanding in the sight of the peoples, so that, upon hearing all these precepts, they may say: ‘Lo, a wise and understanding people, a great nation.
+    7: Neither is there any other nation so great, which has its gods so near to them, as our God is present to all our petitions
+    8: For what other nation is there so renowned as to have ceremonies, and just judgments, and the entire law that I will set forth today before your eyes
+    9: And so, guard yourself and your soul carefully. You should not forget the words that your eyes have seen, and do not let them be cut away from your heart, throughout all the days of your life. You shall teach them to your sons and to your grandsons
+    10: from the day on which you stood before the Lord your God at Horeb, when the Lord spoke to me, saying: ‘Gather the people to me, so that they may listen to my words, and may learn to fear me, throughout all the time that they are alive on earth, and so that they may teach their children.
+    11: And you approached the base of the mountain, which was burning even toward heaven. And there was a darkness upon it, and a cloud, and a mist
+    12: And the Lord spoke to you from the midst of fire. You heard the voice of his words, but you did not see any form at all
+    13: And he revealed his covenant to you, which he instructed you to carry out, and the ten words which he wrote on two tablets of stone
+    14: And he commanded me, at that time, that I should teach you the ceremonies and judgments which you must carry out, in the land that you shall possess
+    15: And so, guard your souls carefully. You saw no likeness on the day that the Lord God spoke to you on Horeb from the midst of fire
+    16: Otherwise, perhaps being deceived, you might have made a graven image, or an image of male or female
+    17: a likeness of any of the beasts, which are upon the earth, or of birds, which fly under heaven
+    18: or of reptiles, which move across the earth, or of fish, which abide in the waters under the earth
+    19: Otherwise, perhaps lifting up your eyes to heaven, you might look upon the sun and the moon and all the stars of heaven, and being deceived by error, you might adore and worship these things, which the Lord your God created for the service of all the nations, which are under heaven
+    20: But the Lord has taken you up, and led you away from the iron furnaces of Egypt, in order to have a people of inheritance, just as it is to the present day
+    21: And the Lord became angry against me because of your words, and he swore that I would not cross over the Jordan, nor enter into the excellent land, which he will give to you
+    22: Behold, I shall die on this soil. I shall not cross over the Jordan. You shall cross it, and you shall possess the singular land
+    23: Be careful, lest you at sometime forget the covenant of the Lord your God, which he has formed with you, and lest you make for yourselves a graven likeness of those things which the Lord has prohibited to be made
+    24: For the Lord your God is a consuming fire, a jealous God
+    25: When you will have conceived sons and grandsons while abiding in the land, and if, having been deceived, you make for yourselves any likeness, accomplishing evil in the sight of the Lord your God, so as to provoke him to wrath
+    26: I call heaven and earth as witnesses this day, that you shall quickly perish from the land, which, when you have crossed over the Jordan, you will possess. You will not live in it for a long time; instead, the Lord will destroy you
+    27: And he will scatter you among all the nations, and few of you will remain among those nations, to which the Lord will lead you
+    28: And there, you will serve gods which were fabricated by the hands of men: gods of wood and of stone, who neither see, nor hear, nor eat, nor smell
+    29: And when you will seek the Lord your God in that place, you shall find him, if only you seek him with all your heart, and in all the tribulation of your soul
+    30: After all these things which have been foretold have found you, in the end time, you shall return to the Lord your God, and you will hear his voice
+    31: For the Lord your God is a merciful God. He will not abandon you, nor will he entirely destroy you, nor will he forget the covenant, which he swore to your fathers
+    32: Inquire concerning the days of antiquity, which were before you, from the day when God created man upon the earth, from one end of heaven to another, if anything similar has ever occurred, or whether any such thing has ever been known
+    33: that a people would hear the voice of God, speaking from the midst of fire, just as you have heard it, and live
+    34: whether God has acted so as to enter and take for himself a nation from the midst of the nations, by means of tests, signs, and wonders, by means of fighting, and a strong hand, and an outstretched arm, and terrible visions, in accord with all the things which the Lord your God has accomplished for you in Egypt, in the sight of your eyes
+    35: So may you know that the Lord himself is God, and there is no other beside him
+    36: He has caused you to hear his voice from heaven, so that he might teach you. And he showed you his exceedingly great fire on earth, and you heard his words from the midst of the fire
+    37: For he loved your fathers, and he chose their offspring after them. And he led you away from Egypt, advancing before you with his great power
+    38: so as to wipe away, upon your arrival, nations, very great and stronger than you, and so as to lead you in, and to present to you their land as a possession, just as you discern in the present day
+    39: Therefore, know on this day and consider in your heart, that the Lord himself is God in heaven above, and on earth below, and there is no other
+    40: Keep his precepts and commandments, which I am teaching to you, so that it may be well with you, and with your sons after you, and so that you may remain for a long time upon the land, which the Lord your God will give to you.
+    41: Then Moses set aside three cities, across the Jordan toward the eastern region
+    42: so that anyone might flee to these if he has killed his neighbor unwillingly, who was not his enemy a day or two earlier, and so that he would be able to escape to one of these cities
+    43: Bezer in the wilderness, which is situated in the plains of the tribe of Ruben; and Ramoth in Gilead, which is in the tribe of Gad; and Golan in Bashan, which is in the tribe of Manasseh
+    44: This is the law, which Moses set forth before the sons of Israel
+    45: And these are the testimonies and ceremonies as well as judgments, which he spoke to the sons of Israel, when they departed from Egypt
+    46: across the Jordan, in the valley opposite the shrine of Peor, in the land of Sihon, the king of the Amorites, who lived at Heshbon, whom Moses struck down. Accordingly, the sons of Israel, having departed from Egypt
+    47: possessed his land, and the land of Og, the king of Bashan, the land of the two kings of the Amorites, who were beyond the Jordan, toward the rising of the sun
+    48: from Aroer, which is situated above the bank of the torrent Arnon, as far as Mount Zion, which is also called Hermon
+    49: the entire plain across the Jordan, from its eastern region, as far as the sea of the wilderness, and even to the base of Mount Pisgah
+
+End of day 40.

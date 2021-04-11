@@ -1,0 +1,88 @@
+Day 143:
+
+Reading Psalms, chapters ['29', '30', '31', '32']:
+
+  Chapter 29.
+
+    1: A Canticle Psalm. In dedication to the house of David
+    2: I will extol you, Lord, for you have sustained me, and you have not allowed my enemies to delight over me
+    3: O Lord my God, I have cried out to you, and you have healed me
+    4: Lord, you led my soul away from Hell. You have saved me from those who descend into the pit
+    5: Sing a psalm to the Lord, you his saints, and confess with remembrance of his holiness
+    6: For wrath is in his indignation, and life is in his will. Toward evening, weeping will linger, and toward morning, gladness
+    7: But I have said in my abundance: “I will never be disturbed.
+    8: O Lord, in your will, you made virtue preferable to beauty for me. You turned your face away from me, and I became disturbed
+    9: To you, Lord, I will cry out. And I will make supplication to my God
+    10: What use would there be in my blood, if I descend into corruption? Will dust confess to you or announce your truth
+    11: The Lord has heard, and he has been merciful to me. The Lord has become my helper
+    12: You have turned my mourning into gladness for me. You have cut off my sackcloth, and you have surrounded me with joy
+    13: So then, may my glory sing to you, and may I not regret it. O Lord, my God, I will confess to you for eternity
+
+  Chapter 30.
+
+    1: Unto the end. A Psalm of David according to an ecstasy
+    2: In you, Lord, I have hoped; let me never be confounded. In your justice, deliver me
+    3: Incline your ear to me. Hasten to rescue me. Be for me a protector God and a house of refuge, so as to accomplish my salvation
+    4: For you are my strength and my refuge; and for the sake of your name, you will lead me and nourish me
+    5: You will lead me out of this snare, which they have hidden for me. For you are my protector
+    6: Into your hands, I commend my spirit. You have redeemed me, O Lord, God of truth
+    7: You have hated those who practice emptiness to no purpose. But I have hoped in the Lord
+    8: I will exult and rejoice in your mercy. For you have looked upon my humility; you have saved my soul from needfulness
+    9: And you have not enclosed me in the hands of the enemy. You have set my feet in a spacious place
+    10: Have mercy on me, Lord, for I am troubled. My eye has been disturbed by wrath, along with my soul and my gut
+    11: For my life has fallen into sorrow, and my years into sighing. My virtue has been weakened in poverty, and my bones have been disturbed
+    12: I have become a disgrace among all my enemies, and even more so to my neighbors, and a dread to my acquaintances. Those who catch sight of me, flee away from me
+    13: I have become forgotten, like one dead to the heart. I have become like a damaged utensil
+    14: For I have heard the harsh criticism of many who linger in the area. While assembled together against me in that place, they deliberated on how to take away my life
+    15: But I have hoped in you, O Lord. I said, “You are my God.
+    16: My fate is in your hands. Rescue me from the hand of my enemies and from those who are persecuting me
+    17: Shine your face upon your servant. Save me in your mercy
+    18: Do not let me be confounded, Lord, for I have called upon you. Let the impious be ashamed and be drawn down into Hell
+    19: May deceitful lips be silenced: those that speak iniquity against the just, in arrogance and in abusiveness
+    20: How great is the multitude of your sweetness, O Lord, which you keep hidden for those who fear you, which you have perfected for those who hope in you, in the sight of the sons of men
+    21: You hide them in the concealment of your face, from the disturbance of men. You protect them in your tabernacle, from the contradiction of tongues
+    22: Blessed is the Lord. For he has shown his wonderful mercy to me, in a fortified city
+    23: But I said in the excess of my mind: “I have been cast away from the glance of your eyes.” And so, you heeded the voice of my prayer, while I was still crying out to you
+    24: Love the Lord, all you his saints. For the Lord will require truth, and he will abundantly repay those who act with arrogance
+    25: Act manfully, and let your heart be strengthened, all you who hope in the Lord
+
+  Chapter 31.
+
+    1: The understanding of David himself. Blessed are they whose iniquities have been forgiven and whose sins have been covered
+    2: Blessed is the man to whom the Lord has not imputed sin, and in whose spirit there is no deceit
+    3: Because I was silent, my bones grew old, while still I cried out all day long
+    4: For, day and night, your hand was heavy upon me. I have been converted in my anguish, while still the thorn is piercing
+    5: I have acknowledged my offense to you, and I have not concealed my injustice. I said, “I will confess against myself, my injustice to the Lord,” and you forgave the impiety of my sin
+    6: For this, everyone who is holy will pray to you in due time. Yet truly, in a flood of many waters, they will not draw near to him
+    7: You are my refuge from the tribulation that has surrounded me. You are my exultation: rescue me from those who are surrounding me
+    8: I will give you understanding, and I will instruct you in this way, in which you will walk. I will fix my eyes upon you
+    9: Do not become like the horse and the mule, which have no understanding. Their jaws are constrained with bit and bridle, so as not to draw near to you
+    10: Many are the scourges of the sinner, but mercy will surround him that hopes in the Lord
+    11: Rejoice in the Lord and exult, you just ones, and glory, all you upright of heart
+
+  Chapter 32.
+
+    1: A Psalm of David. Exult in the Lord, you just ones; together praise the upright
+    2: Confess to the Lord with stringed instruments; sing psalms to him with the psaltery, the instrument of ten strings
+    3: Sing to him a new song. Sing psalms to him skillfully, with loud exclamation
+    4: For the word of the Lord is upright, and all his works are in faith
+    5: He loves mercy and judgment. The earth is full of the mercy of the Lord
+    6: By the word of the Lord, the heavens were established, and all their power, by the Spirit of his mouth
+    7: gathering together the waters of the sea, as if in a container, placing the depths in storage
+    8: Let all the earth fear the Lord, and may all the inhabitants of the world quake before him
+    9: For he spoke, and they became. He commanded, and they were created
+    10: The Lord scatters the counsels of the nations. Moreover, he reproves the thoughts of the people, and he rejects the counsels of the leaders
+    11: But the counsel of the Lord remains for eternity, the thoughts of his heart from generation to generation
+    12: Blessed is the nation whose God is the Lord, the people whom he has chosen as his inheritance
+    13: The Lord has looked down from heaven. He has seen all the sons of men
+    14: From his well-prepared dwelling place, he has gazed upon all who dwell on the earth
+    15: He has formed the hearts of each one of them; he understands all their works
+    16: The king is not saved by great power, nor will the giant be saved by his many powers
+    17: The horse is false safety; for he will not be saved by the abundance of his powers
+    18: Behold, the eyes of the Lord are on those who fear him and on those who hope in his mercy
+    19: so as to rescue their souls from death and to feed them during famine
+    20: Our soul remains with the Lord. For he is our helper and protector
+    21: For in him, our heart will rejoice, and in his holy name, we have hoped
+    22: Let your mercy be upon us, O Lord, just as we have hoped in you
+
+End of day 143.

@@ -1,0 +1,86 @@
+Day 145:
+
+Reading Psalms, chapters ['37', '38', '39', '40']:
+
+  Chapter 37.
+
+    1: A Psalm of David, in commemoration of the Sabbath
+    2: O Lord, do not rebuke me in your fury, nor chastise me in your wrath
+    3: For your arrows have been driven into me, and your hand has been confirmed over me
+    4: There is no health in my flesh before the face of your wrath. There is no peace for my bones before the face of my sins
+    5: For my iniquities have walked over my head, and they have been like a heavy burden weighing upon me
+    6: My sores have putrefied and been corrupted before the face of my foolishness
+    7: I have become miserable, and I have been bent down, even to the end. I have walked with contrition all day long
+    8: For my loins have been filled with illusions, and there is no health in my flesh
+    9: I have been afflicted and greatly humbled. I bellowed from the groaning of my heart
+    10: O Lord, all my desire is before you, and my groaning before you has not been hidden
+    11: My heart has been disturbed. My strength has abandoned me, and the light of my eyes has abandoned me, and it is not with me
+    12: My friends and my neighbors have drawn near and stood against me. And those who were next to me stood far apart. And those who sought my soul used violence
+    13: And those who sought evil accusations against me were speaking emptiness. And they practiced deceitfulness all day long
+    14: But, like someone deaf, I did not hear. And I was like someone mute, not opening his mouth
+    15: And I became like a man who does not hear, and who has no reproofs in his mouth
+    16: For in you, Lord, I have hoped. You will listen to me, O Lord my God
+    17: For I said, “Lest at any time, my enemies might rejoice over me,” and, “While my feet are being shaken, they have spoken great things against me.
+    18: For I have been prepared for scourges, and my sorrow is ever before me
+    19: For I will announce my iniquity, and I will think about my sin
+    20: But my enemies live, and they have been stronger than me. And those who have wrongfully hated me have been multiplied
+    21: Those who render evil for good have dragged me down, because I followed goodness
+    22: Do not forsake me, O Lord my God. Do not depart from me
+    23: Be attentive to my help, O Lord, the God of my salvation
+
+  Chapter 38.
+
+    1: Unto the end. For Jeduthun himself. A Canticle of David
+    2: I said, “I will keep to my ways, so that I will not offend with my tongue.” I posted a guard at my mouth, when a sinner took up a position against me
+    3: I was silenced and humbled, and I was quiet before good things, and my sorrow was renewed
+    4: My heart grew hot within me, and, during my meditation, a fire would flare up
+    5: I spoke with my tongue, “O Lord, make me know my end, and what the number of my days will be, so that I may know what is lacking to me.
+    6: Behold, you have made my days measurable, and, before you, my substance is as nothing. Yet truly, all things are vanity: every living man
+    7: So then, truly man passes by like an image; even so, he is disquieted in vain. He stores up, and he knows not for whom he will gather these things
+    8: And now, what is it that awaits me? Is it not the Lord? And my substance is with you
+    9: Rescue me from all my iniquities. You have handed me over as a reproach to the foolish
+    10: I was silenced, and I did not open my mouth, because it was you who acted
+    11: Remove your scourges from me
+    12: I fall short at corrections from the strength of your hand. For you have chastised man for iniquity. And you have made his soul shrink away like a spider. Nevertheless, it is in vain that any man be disquieted
+    13: O Lord, heed my prayer and my supplication. Pay attention to my tears. Do not be silent. For I am a newcomer with you, and a sojourner, just as all my fathers were
+    14: Forgive me, so that I may be refreshed, before I will go forth and be no more
+
+  Chapter 39.
+
+    1: Unto the end. A Psalm of David himself
+    2: I have waited expectantly for the Lord, and he was attentive to me
+    3: And he heard my prayers and he led me out of the pit of misery and the quagmire. And he stationed my feet upon a rock, and he directed my steps
+    4: And he sent a new canticle into my mouth, a song to our God. Many will see, and they will fear; and they will hope in the Lord
+    5: Blessed is the man whose hope is in the name of the Lord, and who has no respect for vanities and absurd falsehoods
+    6: You have accomplished your many wonders, O Lord my God, and there is no one similar to you in your thoughts. I have announced and I have spoken: they are multiplied beyond number
+    7: Sacrifice and oblation, you did not want. But you have perfected ears for me. Holocaust and sin offering, you did not require
+    8: Then I said, “Behold, I draw near.” At the head of the book, it has been written of me
+    9: that I should do your will. My God, I have willed it. And your law is in the midst of my heart
+    10: I have announced your justice in a great Church: behold, I will not restrain my lips. O Lord, you have known it
+    11: I have not concealed your justice within my heart. I have spoken your truth and your salvation. I have not concealed your mercy and your truth from a great assembly
+    12: O Lord, do not take your tender mercies far from me. Your mercy and your truth ever sustain me
+    13: For evils without number have surrounded me. My iniquities have taken hold of me, and I was not able to see. They have been multiplied beyond the hairs of my head. And my heart has forsaken me
+    14: Be pleased, O Lord, to rescue me. Look down, O Lord, to help me
+    15: Let them together be confounded and awed, who seek after my soul to steal it away. Let them be turned back and be in awe, who wish evils upon me
+    16: Let them bear their confusion all at once, who say to me, “Well, well.
+    17: Let all who seek you exult and rejoice over you. And let those who love your salvation always say, “May the Lord be magnified.
+    18: But I am a beggar and poor. The Lord has been concerned about me. You are my helper and my protector. My God, do not delay
+
+  Chapter 40.
+
+    1: Unto the end. A Psalm of David himself
+    2: Blessed is he who shows understanding toward the needy and the poor. The Lord will deliver him in the evil day
+    3: May the Lord preserve him and give him life, and make him blessed upon the earth. And may he not hand him over to the will of his adversaries
+    4: May the Lord bring him help on his bed of sorrow. In his infirmity, you have changed his entire covering
+    5: I said, “O Lord, be merciful to me. Heal my soul, because I have sinned against you.
+    6: My enemies have spoken evils against me. When will he die and his name perish
+    7: And when he came in to see me, he was speaking emptiness. His heart gathered iniquity to itself. He went outside, and he was speaking in the same way
+    8: All my enemies were whispering against me. They were thinking up evils against me
+    9: They established an unjust word against me. Will he that sleeps no longer rise again
+    10: For even the man of my peace, in whom I hoped, who ate my bread, has greatly supplanted me
+    11: But you, O Lord, have mercy on me, and raise me up again. And I will requite them
+    12: By this, I knew that you preferred me: because my adversary will not rejoice over me
+    13: But you have sustained me, because of my innocence, and you have confirmed me in your sight in eternity
+    14: Blessed is the Lord God of Israel, for all generations and even forever. Amen. Amen
+
+End of day 145.

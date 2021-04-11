@@ -1,0 +1,231 @@
+Day 295:
+
+Reading Luke, chapters ['1', '2', '3', '4']:
+
+  Chapter 1.
+
+    1: Since, indeed, many have attempted to set in order a narrative of the things that have been completed among us
+    2: just as they have been handed on to those of us who from the beginning saw the same and were ministers of the word
+    3: so it seemed good to me also, having diligently followed everything from the beginning, to write to you, in an orderly manner, most excellent Theophilus
+    4: so that you might know the truthfulness of those words by which you have been instructed
+    5: There was, in the days of Herod, king of Judea, a certain priest named Zechariah, of the section of Abijah, and his wife was of the daughters of Aaron, and her name was Elizabeth
+    6: Now they were both just before God, progressing in all of the commandments and the justifications of the Lord without blame
+    7: And they had no child, because Elizabeth was barren, and they both had become advanced in years
+    8: Then it happened that, when he was exercising the priesthood before God, in the order of his section
+    9: according to the custom of the priesthood, the lot fell so that he would offer incense, entering into the temple of the Lord
+    10: And the entire multitude of the people was praying outside, at the hour of incense
+    11: Then there appeared to him an Angel of the Lord, standing at the right of the altar of incense
+    12: And upon seeing him, Zechariah was disturbed, and fear fell over him
+    13: But the Angel said to him: “Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth shall bear a son to you. And you shall call his name John
+    14: And there will be joy and exultation for you, and many will rejoice in his nativity
+    15: For he will be great in the sight of the Lord, and he will not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother’s womb
+    16: And he will convert many of the sons of Israel to the Lord their God
+    17: And he will go before him with the spirit and power of Elijah, so that he may turn the hearts of the fathers to the sons, and the incredulous to the prudence of the just, so as to prepare for the Lord a completed people.
+    18: And Zechariah said to the Angel: “How may I know this? For I am elderly, and my wife is advanced in years.
+    19: And in response, the Angel said to him: “I am Gabriel, who stands before God, and I have been sent to speak to you, and to proclaim these things to you
+    20: And behold, you will be silent and unable to speak, until the day on which these things shall be, because you have not believed my words, which will be fulfilled in their time.
+    21: And the people were waiting for Zechariah. And they wondered why he was being delayed in the temple
+    22: Then, when he came out, he was unable to speak to them. And they realized that he had seen a vision in the temple. And he was making signs to them, but he remained mute
+    23: And it happened that, after the days of his office were completed, he went away to his house
+    24: Then, after those days, his wife Elizabeth conceived, and she hid herself for five months, saying
+    25: “For the Lord did this for me, at the time when he decided to take away my reproach among men.
+    26: Then, in the sixth month, the Angel Gabriel was sent by God, to a city of Galilee named Nazareth
+    27: to a virgin betrothed to a man whose name was Joseph, of the house of David; and the name of the virgin was Mary
+    28: And upon entering, the Angel said to her: “Hail, full of grace. The Lord is with you. Blessed are you among women.
+    29: And when she had heard this, she was disturbed by his words, and she considered what kind of greeting this might be
+    30: And the Angel said to her: “Do not be afraid, Mary, for you have found grace with God
+    31: Behold, you shall conceive in your womb, and you shall bear a son, and you shall call his name: JESUS
+    32: He will be great, and he will be called the Son of the Most High, and the Lord God will give him the throne of David his father. And he will reign in the house of Jacob for eternity
+    33: And his kingdom shall have no end.
+    34: Then Mary said to the Angel, “How shall this be done, since I do not know man?
+    35: And in response, the Angel said to her: “The Holy Spirit will pass over you, and the power of the Most High will overshadow you. And because of this also, the Holy One who will be born of you shall be called the Son of God
+    36: And behold, your cousin Elizabeth has herself also conceived a son, in her old age. And this is the sixth month for her who is called barren
+    37: For no word will be impossible with God.
+    38: Then Mary said: “Behold, I am the handmaid of the Lord. Let it be done to me according to your word.” And the Angel departed from her
+    39: And in those days, Mary, rising up, traveled quickly into the hill country, to a city of Judah
+    40: And she entered into the house of Zechariah, and she greeted Elizabeth
+    41: And it happened that, as Elizabeth heard the greeting of Mary, the infant leaped in her womb, and Elizabeth was filled with the Holy Spirit
+    42: And she cried out with a loud voice and said: “Blessed are you among women, and blessed is the fruit of your womb
+    43: And how does this concern me, so that the mother of my Lord would come to me
+    44: For behold, as the voice of your greeting came to my ears, the infant in my womb leaped for joy
+    45: And blessed are you who believed, for the things that were spoken to you by the Lord shall be accomplished.
+    46: And Mary said: “My soul magnifies the Lord
+    47: And my spirit leaps for joy in God my Saviour
+    48: For he has looked with favor on the humility of his handmaid. For behold, from this time, all generations shall call me blessed
+    49: For he who is great has done great things for me, and holy is his name
+    50: And his mercy is from generation to generations for those who fear him
+    51: He has accomplished powerful deeds with his arm. He has scattered the arrogant in the intentions of their heart
+    52: He has deposed the powerful from their seat, and he has exalted the humble
+    53: He has filled the hungry with good things, and the rich he has sent away empty
+    54: He has taken up his servant Israel, mindful of his mercy
+    55: just as he spoke to our fathers: to Abraham and to his offspring forever.
+    56: Then Mary stayed with her for about three months. And she returned to her own house
+    57: Now the time for Elizabeth to give birth arrived, and she brought forth a son
+    58: And her neighbors and relatives heard that the Lord had magnified his mercy with her, and so they congratulated her
+    59: And it happened that, on the eighth day, they arrived to circumcise the boy, and they called him by his father’s name, Zechariah
+    60: And in response, his mother said: “Not so. Instead, he shall be called John.
+    61: And they said to her, “But there is no one among your relatives who is called by that name.
+    62: Then they made signs to his father, as to what he wanted him to be called
+    63: And requesting a writing tablet, he wrote, saying: “His name is John.” And they all wondered
+    64: Then, at once, his mouth was opened, and his tongue loosened, and he spoke, blessing God
+    65: And fear fell upon all of their neighbors. And all these words were made known throughout all the hill country of Judea
+    66: And all those who heard it stored it up in their heart, saying: “What do you think this boy will be?” And indeed, the hand of the Lord was with him
+    67: And his father Zechariah was filled with the Holy Spirit. And he prophesied, saying
+    68: “Blessed is the Lord God of Israel. For he has visited and has wrought the redemption of his people
+    69: And he has raised up a horn of salvation for us, in the house of David his servant
+    70: just as he spoke by the mouth of his holy Prophets, who are from ages past
+    71: salvation from our enemies, and from the hand of all those who hate us
+    72: to accomplish mercy with our fathers, and to call to mind his holy testament
+    73: the oath, which he swore to Abraham, our father, that he would grant to us
+    74: so that, having been freed from the hand of our enemies, we may serve him without fear
+    75: in holiness and in justice before him, throughout all our days
+    76: And you, child, shall be called the prophet of the Most High. For you will go before the face of the Lord: to prepare his ways
+    77: to give knowledge of salvation to his people for the remission of their sins
+    78: through the heart of the mercy of our God, by which, descending from on high, he has visited us
+    79: to illuminate those who sit in darkness and in the shadow of death, and to direct our feet in the way of peace.
+    80: And the child grew, and he was strengthened in spirit. And he was in the wilderness, until the day of his manifestation to Israel
+
+  Chapter 2.
+
+    1: And it happened in those days that a decree went out from Caesar Augustus, so that the whole world would be enrolled
+    2: This was the first enrollment; it was made by the ruler of Syria, Quirinius
+    3: And all went to be declared, each one to his own city
+    4: Then Joseph also ascended from Galilee, from the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and family of David
+    5: in order to be declared, with Mary his espoused wife, who was with child
+    6: Then it happened that, while they were there, the days were completed, so that she would give birth
+    7: And she brought forth her firstborn son. And she wrapped him in swaddling clothes and laid him in a manger, because there was no room for them at the inn
+    8: And there were shepherds in the same region, being vigilant and keeping watch in the night over their flock
+    9: And behold, an Angel of the Lord stood near them, and the brightness of God shone around them, and they were struck with a great fear
+    10: And the Angel said to them: “Do not be afraid. For, behold, I proclaim to you a great joy, which will be for all the people
+    11: For today a Saviour has been born for you in the city of David: he is Christ the Lord
+    12: And this will be a sign for you: you will find the infant wrapped in swaddling clothes and lying in a manger.
+    13: And suddenly there was with the Angel a multitude of the celestial army, praising God and saying
+    14: “Glory to God in the highest, and on earth peace to men of good will.
+    15: And it happened that, when the Angels had departed from them into heaven, the shepherds said to one another, “Let us cross over to Bethlehem and see this word, which has happened, which the Lord has revealed to us.
+    16: And they went quickly. And they found Mary and Joseph; and the infant was lying in a manger
+    17: Then, upon seeing this, they understood the word that had been spoken to them about this boy
+    18: And all who heard it were amazed by this, and by those things which were told to them by the shepherds
+    19: But Mary kept all these words, pondering them in her heart
+    20: And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, just as it was told to them
+    21: And after eight days were ended, so that the boy would be circumcised, his name was called JESUS, just as he was called by the Angel before he was conceived in the womb
+    22: And after the days of her purification were fulfilled, according to the law of Moses, they brought him to Jerusalem, in order to present him to the Lord
+    23: just as it is written in the law of the Lord, “For every male opening the womb shall be called holy to the Lord,
+    24: and in order to offer a sacrifice, according to what is said in the law of the Lord, “a pair of turtledoves or two young pigeons.
+    25: And behold, there was a man in Jerusalem, whose name was Simeon, and this man was just and God-fearing, awaiting the consolation of Israel. And the Holy Spirit was with him
+    26: And he had received an answer from the Holy Spirit: that he would not see his own death before he had seen the Christ of the Lord
+    27: And he went with the Spirit to the temple. And when the child Jesus was brought in by his parents, in order to act on his behalf according to the custom of the law
+    28: he also took him up, into his arms, and he blessed God and said
+    29: “Now you may dismiss your servant in peace, O Lord, according to your word
+    30: For my eyes have seen your salvation
+    31: which you have prepared before the face of all peoples
+    32: the light of revelation to the nations and the glory of your people Israel.
+    33: And his father and mother were wondering over these things, which were spoken about him
+    34: And Simeon blessed them, and he said to his mother Mary: “Behold, this one has been set for the ruin and for the resurrection of many in Israel, and as a sign which will be contradicted
+    35: And a sword will pass through your own soul, so that the thoughts of many hearts may be revealed.
+    36: And there was a prophetess, Anna, a daughter of Phanuel, from the tribe of Asher. She was very advanced in years, and she had lived with her husband for seven years from her virginity
+    37: And then she was a widow, even to her eighty-fourth year. And without departing from the temple, she was a servant to fasting and prayer, night and day
+    38: And entering at the same hour, she confessed to the Lord. And she spoke about him to all who were awaiting the redemption of Israel
+    39: And after they had performed all things according to the law of the Lord, they returned to Galilee, to their city, Nazareth
+    40: Now the child grew, and he was strengthened with the fullness of wisdom. And the grace of God was in him
+    41: And his parents went every year to Jerusalem, at the time of the solemnity of Passover
+    42: And when he had become twelve years old, they ascended to Jerusalem, according to the custom of the feast day
+    43: And having completed the days, when they returned, the boy Jesus remained in Jerusalem. And his parents did not realize this
+    44: But, supposing that he was in the company, they went a day’s journey, seeking him among their relatives and acquaintances
+    45: And not finding him, they returned to Jerusalem, seeking him
+    46: And it happened that, after three days, they found him in the temple, sitting in the midst of the doctors, listening to them and questioning them
+    47: But all who listened to him were astonished over his prudence and his responses
+    48: And upon seeing him, they wondered. And his mother said to him: “Son, why have you acted this way toward us? Behold, your father and I were seeking you in sorrow.
+    49: And he said to them: “How is it that you were seeking me? For did you not know that it is necessary for me to be in these things which are of my Father?
+    50: And they did not understand the word that he spoke to them
+    51: And he descended with them and went to Nazareth. And he was subordinate to them. And his mother kept all these words in her heart
+    52: And Jesus advanced in wisdom, and in age, and in grace, with God and men
+
+  Chapter 3.
+
+    1: Then, in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being procurator of Judea, and Herod tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias tetrarch of Abilene
+    2: under the high priests Annas and Caiaphas: the word of the Lord came to John, the son of Zechariah, in the wilderness
+    3: And he went into the entire region of the Jordan, preaching a baptism of repentance for the remission of sins
+    4: just as it has been written in the book of the sermons of the prophet Isaiah: “The voice of one crying out in the wilderness: Prepare the way of the Lord. Make straight his paths
+    5: Every valley shall be filled, and every mountain and hill shall be brought low. And what is crooked shall be made straight. And the rough paths shall be made into level ways
+    6: And all flesh shall see the salvation of God.
+    7: Therefore, he said to the crowd that went out in order to be baptized by him: “You progeny of vipers! Who told you to flee from the approaching wrath
+    8: So then, produce fruits worthy of repentance. And do not begin to say, ‘We have Abraham as our father.’ For I tell you that God has the power to raise up sons to Abraham from these stones
+    9: For even now the axe has been placed at the root of the trees. Therefore, every tree that does not produce good fruit shall be cut down and cast into the fire.
+    10: And the crowed was questioning him, saying, “What then should we do?
+    11: But in response, he said to them: “Whoever has two coats, let him give to those who do not have. And whoever has food, let him act similarly.
+    12: Now the tax collectors also came to be baptized, and they said to him, “Teacher, what should we do?
+    13: But he said to them, “You should do nothing more than what has been appointed to you.
+    14: Then the soldiers also questioned him, saying, “And what should we do?” And he said to them: “You should strike no one, and you should not make false accusations. And be content with your pay.
+    15: Now all were thinking about John in their hearts, and the people were supposing that perhaps he might be the Christ
+    16: John responded by saying to everyone: “Indeed, I baptize you with water. But there will arrive one stronger than me, the laces of whose shoes I am not worthy to loosen. He will baptize you in the Holy Spirit, and with fire
+    17: His winnowing fan is in his hand. And he will purify his threshing floor. And he will gather the wheat into the barn. But the chaff he will burn with unquenchable fire.
+    18: Indeed, he also proclaimed many other things, exhorting the people
+    19: But Herod the tetrarch, when he was corrected by him concerning Herodias, his brother’s wife, and concerning all the evils that Herod had done
+    20: added this also, above all else: that he confined John to prison
+    21: Now it happened that, when all the people were being baptized, Jesus was baptized; and as he was praying, heaven was opened
+    22: And the Holy Spirit, in a corporal appearance like a dove, descended upon him. And a voice came from heaven: “You are my beloved Son. In you, I am well pleased.
+    23: And Jesus himself was beginning to be about thirty years old, being (as it was supposed) the son of Joseph, who was of Heli, who was of Matthat
+    24: who was of Levi, who was of Melchi, who was of Jannai, who was of Joseph
+    25: who was of Mattathias, who was of Amos, who was of Nahum, who was of Esli, who was of Naggai
+    26: who was of Maath, who was of Mattathias, who was of Semein, who was of Josech, who was of Joda
+    27: who was of Joanan, who was of Rhesa, who was of Zerubbabel, who was of Shealtiel, who was of Neri
+    28: who was of Melchi, who was of Addi, who was of Cosam, who was of Elmadam, who was of Er
+    29: who was of Joshua, who was of Eliezer, who was of Jorim, who was of Matthat, who was of Levi
+    30: who was of Simeon, who was of Judah, who was of Joseph, who was of Jonam, who was of Eliakim
+    31: who was of Melea, who was of Menna, who was of Mattatha, who was of Nathan, who was of David
+    32: who was of Jesse, who was of Obed, who was of Boaz, who was of Salmon, who was of Nahshon
+    33: who was of Amminadab, who was of Aram, who was of Hezron, who was of Perez, who was of Judah
+    34: who was of Jacob, who was of Isaac, who was of Abraham, who was of Terah, who was of Nahor
+    35: who was of Serug, who was of Reu, who was of Peleg, who was of Eber, who was of Shelah
+    36: who was of Cainan, who was of Arphaxad, who was of Shem, who was of Noah, who was of Lamech
+    37: who was of Methuselah, who was of Enoch, who was of Jared, who was of Mahalalel, who was of Cainan
+    38: who was of Enos, who was of Seth, who was of Adam, who was of God
+
+  Chapter 4.
+
+    1: And Jesus, filled with the Holy Spirit, returned from the Jordan. And he was urged by the Spirit into the wildernes
+    2: for forty days, and he was tested by the devil. And he ate nothing in those days. And when they were completed, he was hungry
+    3: Then the devil said to him, “If you are the Son of God, speak to this stone, so that it may be made into bread.
+    4: And Jesus answered him, “It is written: ‘Man shall not live by bread alone, but by every word of God.’ 
+    5: And the devil led him onto a high mountain, and he showed him all the kingdoms of the world in a moment of time
+    6: and he said to him: “To you, I will give all this power, and its glory. For they have been handed over to me, and I give them to whomever I wish
+    7: Therefore, if you will worship before me, all will be yours.
+    8: And in response, Jesus said to him: “It is written: ‘You shall worship the Lord your God, and you shall serve him alone.’ 
+    9: And he brought him to Jerusalem, and he set him on the parapet of the temple, and he said to him: “If you are the Son of God, cast yourself down from here
+    10: For it is written that he has given his Angels charge over you, so that they may guard you
+    11: and so that they may take you into their hands, lest perhaps you may hurt your foot against a stone.
+    12: And in response, Jesus said to him, “It is said: ‘You shall not tempt the Lord your God.’ 
+    13: And when all the temptation was completed, the devil withdrew from him, until a time
+    14: And Jesus returned, in the power of the Spirit, into Galilee. And his fame spread throughout the entire region
+    15: And he taught in their synagogues, and he was magnified by everyone
+    16: And he went to Nazareth, where he had been raised. And he entered into the synagogue, according to his custom, on the Sabbath day. And he rose up to read
+    17: And the book of the prophet Isaiah was handed to him. And as he unrolled the book, he found the place where it was written
+    18: “The Spirit of the Lord is upon me; because of this, he has anointed me. He has sent me to evangelize the poor, to heal the contrite of heart
+    19: to preach forgiveness to captives and sight to the blind, to release the broken into forgiveness, to preach the acceptable year of the Lord and the day of retribution.
+    20: And when he had rolled up the book, he returned it to the minister, and he sat down. And the eyes of everyone in the synagogue were fixed on him
+    21: Then he began to say to them, “On this day, this scripture has been fulfilled in your hearing.
+    22: And everyone gave testimony to him. And they wondered at the words of grace that proceeded from his mouth. And they said, “Is this not the son of Joseph?
+    23: And he said to them: “Certainly, you will recite to me this saying, ‘Physician, heal yourself.’ The many great things that we have heard were done in Capernaum, do here also in your own country.
+    24: Then he said: “Amen I say to you, that no prophet is accepted in his own country
+    25: In truth, I say to you, there were many widows in the days of Elijah in Israel, when the heavens were closed for three years and six months, when a great famine had occurred throughout the entire land
+    26: And to none of these was Elijah sent, except to Zarephath of Sidon, to a woman who was a widow
+    27: And there were many lepers in Israel under the prophet Elisha. And none of these was cleansed, except Naaman the Syrian.
+    28: And all those in the synagogue, upon hearing these things, were filled with anger
+    29: And they rose up and drove him beyond the city. And they brought him all the way to the edge of the mount, upon which their city had been built, so that they might thrown him down violently
+    30: But passing through their midst, he went away
+    31: And he descended to Capernaum, a city of Galilee. And there he taught them on the Sabbaths
+    32: And they were astonished at his doctrine, for his word was spoken with authority
+    33: And in the synagogue, there was a man who had an unclean demon, and he cried out with a loud voice
+    34: saying: “Let us alone. What are we to you, Jesus of Nazareth? Have you come to destroy us? I know you who you are: the Holy One of God.
+    35: And Jesus rebuked him, saying, “Be silent and depart from him.” And when the demon had thrown him into their midst, he departed from him, and he no longer harmed him
+    36: And fear fell over them all. And they discussed this among themselves, saying: “What is this word? For with authority and power he commands the unclean spirits, and they depart.
+    37: And his fame spread to every place in the region
+    38: Then Jesus, rising up from the synagogue, entered into the house of Simon. Now Simon’s mother-in-law was in the grip of a severe fever. And they petitioned him on her behalf
+    39: And standing over her, he commanded the fever, and it left her. And promptly rising up, she ministered to them
+    40: Then, when the sun had set, all those who had anyone afflicted with various diseases brought them to him. Then, laying his hands on each one of them, he cured them
+    41: Now demons departed from many of them, crying out and saying, “You are the son of God.” And rebuking them, he would not permit them to speak. For they knew him to be the Christ
+    42: Then, when it was daytime, going out, he went to a deserted place. And the crowds sought him, and they went all the way to him. And they detained him, so that he would not depart from them
+    43: And he said to them, “I must also preach the kingdom of God to other cities, because it was for this reason that I was sent.
+    44: And he was preaching in the synagogues of Galilee
+
+End of day 295.

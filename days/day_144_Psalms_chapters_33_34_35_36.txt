@@ -1,0 +1,121 @@
+Day 144:
+
+Reading Psalms, chapters ['33', '34', '35', '36']:
+
+  Chapter 33.
+
+    1: To David, when he changed his appearance in the sight of Abimelech, and so he dismissed him, and he went away
+    2: I will bless the Lord at all times. His praise will be ever in my mouth
+    3: In the Lord, my soul will be praised. May the meek listen and rejoice
+    4: Magnify the Lord with me, and let us extol his name in itself
+    5: I sought the Lord, and he heeded me, and he carried me away from all my tribulations
+    6: Approach him and be enlightened, and your faces will not be confounded
+    7: This poor one cried out, and the Lord heeded him, and he saved him from all his tribulations
+    8: The Angel of the Lord will encamp around those who fear him, and he will rescue them
+    9: Taste and see that the Lord is sweet. Blessed is the man who hopes in him
+    10: Fear the Lord, all you his saints. For there is no destitution for those who fear him
+    11: The rich have been needy and hungry, but those who seek the Lord will not be deprived of any good thing
+    12: Come forward, sons. Listen to me. I will teach you the fear of the Lord
+    13: Which is the man who wills life, who chooses to see good days
+    14: Prohibit your tongue from evil and your lips from speaking deceit
+    15: Turn away from evil, and do good. Inquire about peace, and pursue it
+    16: The eyes of the Lord are on the just, and his ears are with their prayers
+    17: But the countenance of the Lord is upon those who do evil, to perish the remembrance of them from the earth
+    18: The just cried out, and the Lord heard them, and he freed them from all their tribulations
+    19: The Lord is near to those who are troubled in heart, and he will save the humble in spirit
+    20: Many are the afflictions of the just, but from them all the Lord will free them
+    21: The Lord preserves all of their bones, not one of them shall be broken
+    22: The death of a sinner is very harmful, and those who hate the just will fare badly
+    23: The Lord will redeem the souls of his servants, and none of those who hope in him will fare badly
+
+  Chapter 34.
+
+    1: Of David himself. O Lord, judge those who harm me; assail those who attack me
+    2: Take hold of weapons and a shield, and rise up in assistance to me
+    3: Bring forth the spear, and close in on those who persecute me. Say to my soul, “I am your salvation.
+    4: Let them be confounded and in awe, who pursue my soul. Let them be turned back and be confounded, who think up evil against me
+    5: May they become like dust before the face of the wind, and let the Angel of the Lord hem them in
+    6: May their way become dark and slippery, and may the Angel of the Lord pursue them
+    7: For, without cause, they have concealed their snare for me unto destruction. Over nothing, they have rebuked my soul
+    8: Let the snare, of which he is ignorant, come upon him, and let the deception, which he has hidden, take hold of him: and may he fall into that very snare
+    9: But my soul will exult in the Lord and delight over his salvation
+    10: All my bones will say, “Lord, who is like you?” He rescues the needy from the hand of the stronger one, the indigent and the poor from those who plunder him
+    11: Unfair witnesses have risen up, interrogating me about things of which I am ignorant
+    12: They repaid me evil for good, to the deprivation of my soul
+    13: But as for me, when they were harassing me, I was clothed with haircloth. I humbled my soul with fasting, and my prayer will become my sinews
+    14: Like a neighbor, and like our brother, so did I please; like one mourning and contrite, so was I humbled
+    15: And they have been joyful against me, and they joined together. Scourges have been gathered over me, and I was ignorant of it
+    16: They have been scattered, yet they were unremorseful. They have tested me. They scoffed at me with scorn. They gnashed their teeth over me
+    17: Lord, when will you look down upon me? Restore my soul from before their malice, my only one from before the lions
+    18: I will confess to you in a great Church. I will praise you among a weighty people
+    19: May those who are my unjust adversaries not be glad over me: those who have hated me without cause, and who nod agreement with their eyes
+    20: For indeed, they spoke peacefully to me; and speaking with passion to the earth, they intended deceit
+    21: And they opened their mouth wide over me. They said, “Well, well, our eyes have seen.
+    22: You have seen, O Lord, do not be silent. Lord, do not depart from me
+    23: Rise up and be attentive to my judgment, to my cause, my God and my Lord
+    24: Judge me according to your justice, O Lord, my God, and do not let them be glad over me
+    25: Do not let them say in their hearts, “Well, well, to our soul.” Neither let them say, “We have devoured him.
+    26: Let them blush and be in awe together, those who congratulate at my misfortunes. Let them be clothed with confusion and awe, who speak great things against me
+    27: Let them exult and rejoice, who wish my justice, and let them ever say, “The Lord be magnified,” who will the peace of his servant
+    28: And so my tongue will express your justice: your praise all day long
+
+  Chapter 35.
+
+    1: Unto the end. To the servant of the Lord, David himself
+    2: The unjust one has said within himself that he would commit offenses. There is no fear of God before his eyes
+    3: For he has acted deceitfully in his sight, such that his iniquity will be found to be hatred
+    4: The words of his mouth are iniquity and deceit. He is unwilling to understand, so that he may act well
+    5: He has been considering iniquity on his bed. He has set himself on every way that is not good; moreover, he has not hated evil
+    6: Lord, your mercy is in heaven, and your truth is even to the clouds
+    7: Your justice is like the mountains of God. Your judgments are a great abyss. Men and beasts, you will save, O Lord
+    8: How you have multiplied your mercy, O God! And so the sons of men will hope under the cover of your wings
+    9: They will be inebriated with the fruitfulness of your house, and you will give them to drink from the torrent of your enjoyment
+    10: For with you is the fountain of life; and within your light, we will see the light
+    11: Extend your mercy before those who know you, and your justice to these, who are upright in heart
+    12: May arrogant feet not approach me, and may the hand of the sinner not disturb me
+    13: In that place, those who work iniquity have fallen. They have been expelled; they were not able to stand
+
+  Chapter 36.
+
+    1: A Psalm of David himself. Do not choose to imitate the malicious; neither should you envy those who work iniquity
+    2: For they will quickly wither away like dry grass, and in like manner to kitchen herbs, they will soon droop
+    3: Hope in the Lord and do good, and dwell in the land, and so you shall be pastured with its riches
+    4: Delight in the Lord, and he will grant to you the petitions of your heart
+    5: Reveal your way to the Lord, and hope in him, and he will accomplish it
+    6: And he will bring forth your justice like the light, and your judgment like the midday
+    7: Be subject to the Lord and pray to him. Do not choose to compete with him who prospers in his way, with the man who does injustice
+    8: Cease from wrath and leave behind rage. Do not choose to imitate the malicious
+    9: For those who are malicious will be exterminated. But those who remain with the Lord, these will inherit the land
+    10: Yet still a little while, and the sinner will not be. And you will search his place and find nothing
+    11: But the meek shall inherit the earth, and they will delight in the multitude of peace
+    12: The sinner will observe the just, and he will gnash his teeth over him
+    13: But the Lord will laugh at him: for he knows in advance that his day will come
+    14: The sinners have drawn the sword, they have bent their bow, so as to cast down the poor and the needy, so as to massacre the upright of heart
+    15: Let their sword enter into their own hearts, and let their bow be broken
+    16: A little is better to the just than the many riches of sinners
+    17: For the arms of sinners will be crushed, but the Lord confirms the just
+    18: The Lord knows the days of the immaculate, and their inheritance will be in eternity
+    19: They will not be confounded in an evil time; and in days of famine, they will be satisfied
+    20: for sinners will perish. Truly, the adversaries of the Lord, soon after they have been honored and exalted, will fade away, in the same way that smoke fades away
+    21: The sinner will lend and not release, but the just one shows compassion and donates
+    22: For those who bless him will inherit the earth, but those who curse him will perish
+    23: The steps of a man will be directed by the Lord, and he will choose his way
+    24: When he falls, he will not be harmed, because the Lord places his hand under him
+    25: I have been young, and now I am old; and I have not seen the just forsaken, nor his offspring seeking bread
+    26: He shows compassion and lends, all day long, and his offspring will be in blessing
+    27: Turn away from evil and do good, and dwell forever and ever
+    28: For the Lord loves judgment, and he will not abandon his saints. They will be kept safe in eternity. The unjust will be punished, and the offspring of the impious will perish
+    29: But the just will inherit the earth, and they will dwell upon it forever and ever
+    30: The mouth of the just one will express wisdom, and his tongue will speak judgment
+    31: The law of his God is in his heart, and his steps shall not be supplanted
+    32: The sinner considers the just one and seeks to put him to death
+    33: But the Lord will not abandon him into his hands, nor condemn him, when he will be judged
+    34: Wait for the Lord, and keep to his way. And he will exalt you, so as to inherit the land that you may seize. When the sinners will have passed away, then you shall see
+    35: I have seen the impious over-exalted, and lifted up like the cedars of Lebanon
+    36: And I passed by, and behold, he was not. And I sought him, and his place was not found
+    37: Keep to innocence, and gaze upon fairness: because there are allotments for the peaceful man
+    38: But the unjust will be destroyed together: the allotments of the impious will pass away
+    39: But the salvation of the just is from the Lord, and he is their protector in time of tribulation
+    40: And the Lord will help them and free them. And he will rescue them from sinners and save them, because they have hoped in him
+
+End of day 144.
